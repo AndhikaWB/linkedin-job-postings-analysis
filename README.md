@@ -16,13 +16,16 @@
 
 1. Install all pip requirements (`pip install -r requirements.txt`), which also contains the needed `pyspark` library.
 
-    PySpark may also be bundled within Apache Spark itself, but you will need to set `PYTHONPATH` [manually]((https://spark.apache.org/docs/latest/api/python/getting_started/install.html#manually-downloading)) (so the Python library can be detected). However, if you're installing from AUR, by default it doesn't include the Python folder/library so `pyspark` will still be needed.
+    PySpark may also be bundled within Apache Spark itself, but you will need to set `PYTHONPATH` [manually](https://spark.apache.org/docs/latest/api/python/getting_started/install.html#manually-downloading) (so the Python library can be detected). However, if you're installing from AUR, by default it doesn't include the Python folder/library so `pyspark` will still be needed.
 
 1. Start experimenting using the [notebook](main.ipynb) file.
 
 ## Configuring Apache Spark
 
 Using Apache Spark, we can execute queries and create tables without affecting the real database. This is ideal for production environment.
+
+<details>
+<summary>Expand</summary>
 
 1. [Configure Apache Hadoop](#configuring-apache-hadoop) first. It's needed because currently Metabase only support Spark SQL connection using Hive.
 
@@ -40,9 +43,14 @@ Using Apache Spark, we can execute queries and create tables without affecting t
 
 1. It's done! See the [notebook](main.ipynb) file to connect to existing database using `pyspark` (finish all setup in the guide first).
 
+</details>
+
 ## Configuring Metabase
 
 Metabase is a business intelligence, dashboard, and data visualization tool. It has many alternatives such as Power BI, Tableau, Superset, Redash, and Grafana. There are some interesting insights which made me choose Metabase, see [here](https://medium.com/vortechsa/choosing-an-analytics-tool-metabase-vs-superset-vs-redash-afd88e028ba9) and [here](https://community.grafana.com/t/business-operational-dashboards-use-cases-for-grafana/36235). However, please do your own research before deciding!
+
+<details>
+<summary>Expand</summary>
 
 1. If you haven't installed any database yet, refer to the Arch wiki to set up either [PostgreSQL](https://wiki.archlinux.org/title/PostgreSQL) or [MariaDB](https://wiki.archlinux.org/title/MariaDB). This step is optional but very recommended.
 
@@ -76,9 +84,14 @@ Metabase is a business intelligence, dashboard, and data visualization tool. It 
 
 1. Set up Metabase account, data source (SparkSQL), etc by going to `localhost:3000` (you can do this later). Make sure you already set up Apache Spark (and PySpark) correctly, otherwise you won't be able to connect to data source.
 
+</details>
+
 ## Configuring Apache Hadoop
 
-Apache Hadoop is a parallel data processing engine where big data can be distributed to several clusters. There are 2 types of cluster, the master node (NameNode) and the workers node (DataNode).
+Apache Hadoop is a parallel data processing engine where big data can be distributed to several clusters. There are 2 types of cluster, the master (name) node and the worker (data) node.
+
+<details>
+<summary>Expand</summary>
 
 1. Install and configure Java environment first (see [below](#configuring-java-environment)).
 
@@ -169,7 +182,7 @@ Apache Hadoop is a parallel data processing engine where big data can be distrib
 
     If you want to know more, here are the default configuration for [core-site.xml](https://hadoop.apache.org/docs/current/hadoop-project-dist/hadoop-common/core-default.xml) and [hdfs-site.xml](https://hadoop.apache.org/docs/current/hadoop-project-dist/hadoop-hdfs/hdfs-default.xml).
     
-    If you take a deeper look at those links, the default location for `dfs.namenode.name.dir` and `dfs.datanode.data.dir` are inside `hadoop.tmp.dir`, which will be cleaned on each startup. That's why we move them to other directories, so the data can be retained. Using `mnt` seems quite reasonable in this case.
+    If you take a deeper look at those links, the default location for `dfs.namenode.name.dir` and `dfs.datanode.data.dir` are inside `hadoop.tmp.dir`, which will be cleaned on each startup. That's why we move them to other directories, so the data can be retained. Using `/mnt` seems quite reasonable in this case.
 
     Also, we should make `/mnt/hadoop` accessible by the user we want to run Hadoop as (e.g. `root`, `hadoop`, or your username) by running these commands:
 
@@ -183,7 +196,7 @@ Apache Hadoop is a parallel data processing engine where big data can be distrib
     sudo chown hadoop:hadoop /mnt/hadoop/hadoop
     ```
 
-    :red_circle: **Important:** Make sure you consistently use the same username and group (it will be used again at later step), or just use `hadoop` if you're not sure because the services/daemons also use that by default.
+    :red_circle: **Important:** Make sure you consistently use the same username and group (it will be used again at later step), or just use `hadoop` if you're not sure because the services/daemons also use that by default. The DFS directory config we created previously is also based on username, so changing users may cause path and permission issues.
 
 1. Format a new Distributed File System (DFS) for the master node by running `sudo -i hdfs namenode -format`. The DFS directory will be made as specified in the `hdfs-site.xml` file.
 
@@ -246,7 +259,7 @@ Apache Hadoop is a parallel data processing engine where big data can be distrib
 
 1. If after all that, Hadoop still complain about missing env vars (probably due to SELinux fuckery), you have 2 options (and you can do both):
 
-    - Add all relevant variables from `/etc/profile.d/hadoop.sh` to `/etc/hadoop/hadoop-env.sh` (you may still need to use `sudo -i`), or
+    - Add all relevant variables from `/etc/profile.d/hadoop.sh` to `/etc/hadoop/hadoop-env.sh` (just append them at the end). Though you may still need to use `sudo -i` initially to load some Hadoop env vars from `/etc/profile.d/hadoop.sh` since our config files are stored in a non-standard directory, or
     - Use the provided Hadoop services/daemons
 
     You can do option 1 by yourself, as for option 2, check the available service names by running `ls /usr/lib/systemd/system/hadoop*`. The advantage of using services is that you can run it as `hadoop` user by default, and these services don't read env vars from `/etc/profile.d`, but from `/etc/conf.d/hadoop` instead.
@@ -279,11 +292,11 @@ Apache Hadoop is a parallel data processing engine where big data can be distrib
 
 1. Now, we can start testing Hadoop. I'm still using this [reference](https://hadoop.apache.org/docs/current/hadoop-project-dist/hadoop-common/SingleCluster.html).
 
-    Start `sshd` and all Hadoop services if they haven't been started already. Access the master node web UI at `http://localhost:9870` to see whether it can be accessed or not.
+    Start `sshd` and all Hadoop services if they haven't been started already. Access the master node web UI at `http://localhost:9870` to see whether it can be accessed or not. You can also check how many worker nodes are running from here (if it's zero, I also provided the solution, just continue for now).
 
-    Make the required user directory on Hadoop DFS by running `hdfs dfs -mkdir -p /user/hadoop` (it seems that `sudo` is not required to access the DFS). Then, make a new on that user by running `hdfs dfs -mkdir input`.
+    Make the required user directory on Hadoop DFS by running `hdfs dfs -mkdir -p /user/hadoop` (it seems that `sudo` is not required to access the DFS). Then, make a new folder named "input" on that user by running `hdfs dfs -mkdir input`.
 
-    Try copying files from the real system into the DFS `input` folder by running `hdfs dfs -put /etc/hadoop/*.xml input`. If an error occurred, probably no worker node is running, try checking what's wrong by using `sudo -i hdfs datanode` and see the output. I get an `Incompatible clusterIDs` error, here's what I did:
+    Try copying files from the real system into the DFS `input` folder by running `hdfs dfs -put /etc/hadoop/*.xml input`. If an error occurred, probably no worker node is running, try checking what's wrong by running worker node manually (`sudo -i hdfs datanode`) and see the output. I get an `Incompatible clusterIDs` error, here's what I did:
     - Stop all Hadoop services (`sudo -i stop-all.sh`).
     - Delete master and worker node DFS (`sudo rm -r /mnt/hadoop/hadoop/dfs/*`).
     - Format a new master node DFS by running `sudo -i hdfs namenode -format`. You can also use `sudo -i hdfs namenode -format -clusterId <cluster_id>` to force the cluster id.
@@ -297,9 +310,14 @@ Apache Hadoop is a parallel data processing engine where big data can be distrib
 
 1. If everything works correctly, then continue to configure Apache Hive (see [below](#configuring-apache-hive)).
 
+</details>
+
 ## Configuring Java Environment
 
 There are 2 types of Java environment, JDK and JRE. JRE is the lightweight version and only used to run Java application. JDK is the full version of Java which can be used as `JAVA_HOME` and contains the compiler (`javac`). 
+
+<details>
+<summary>Expand</summary>
 
 1. See what Java environments are installed on your machine by using `archlinux-java status`.
 
@@ -311,9 +329,17 @@ There are 2 types of Java environment, JDK and JRE. JRE is the lightweight versi
 
 1. Reset the Java environment by running `sudo archlinux-java set XXX` if needed, where `XXX` can be known from the previous command.
 
+</details>
+
 ## Configuring Apache Hive
+Apache Hive is a data warehouse system built on top of Hadoop for providing data query and analysis.
+
+<details>
+<summary>Expand</summary>
 
 1. TODO (it doesn't exist yet on AUR, lol)
+
+</details>
 
 ## Dataset Source
 - [LinkedIn Job Postings - 2023](https://www.kaggle.com/datasets/arshkon/linkedin-job-postings) by Arsh Kon on Kaggle
