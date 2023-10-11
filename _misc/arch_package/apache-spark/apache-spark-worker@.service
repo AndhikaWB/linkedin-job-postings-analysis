@@ -1,0 +1,15 @@
+[Unit]
+Description=Apache Spark Standalone Slave
+After=network.target
+
+[Service]
+Type=forking
+User=apache-spark
+Group=apache-spark
+Environment=SPARK_LOG_DIR=/var/log/apache-spark
+ExecStart=/opt/apache-spark/sbin/start-worker.sh %i
+ExecStop=/opt/apache-spark/sbin/stop-worker.sh %i
+SuccessExitStatus=143
+
+[Install]
+WantedBy=multi-user.target

@@ -1,0 +1,8 @@
+# Files and folders to ignore
+/.venv/
+/.vscode/
+/data/
+# /data/**/*.json
+/metastore_db/
+/spark-warehouse/
+/*.log

@@ -1,0 +1,89 @@
+# Maintainer: William Tang <censored email>
+# Contributor: Chris Severance <censored email>
+# Contributor: David Roheim <censored email>
+
+pkgname=hadoop
+pkgver=3.3.5
+pkgrel=2
+pkgdesc='An open-source software for reliable, scalable, distributed computing'
+arch=('x86_64')
+url='https://hadoop.apache.org/'
+license=('APACHE')
+conflicts=('yarn')
+# makedepends=('cmake' 'gcc12' 'java-environment=11' 'make' 'maven' 'pkgconfig')
+depends=('inetutils' 'java-runtime-headless=11' 'openssh' 'protobuf')
+
+source=("https://dlcdn.apache.org/hadoop/common/hadoop-$pkgver/hadoop-$pkgver.tar.gz"
+        "${pkgname}" "${pkgname}.sh"
+        hadoop-{datanode,historyserver,namenode,resourcemanager,secondarynamenode}.service)
+sha256sums=('SKIP'
+            '1ec173297234b0d587255c1fac978b3929e967146ac542e2e1b44323f80e0bc5'
+            '3d20dd2ad1b773e7d4cb855c7556613e36ff56081749fe7b01c6e4fd0c743cc5'
+            '876d40b0a2ec9b9cec9b667d7909591ee0ef1acbd5417a0357c33539d8a54e1a'
+            'f8f3b3a93a9e455da198ee93a873012399878459e78a3a7de0e396d69e81b61f'
+            '3d4aa2a660bd509e658c8109d9e91c00b0f0eee3a2ecab71a4785a76529ea242'
+            '2f6b8893a4b4e2ef120193ecfc2d929a8558d2a1c5b0af12e9224342ca90a158'
+            'ed1e7f13d2023d49a51dc04c4459d12a53bff258a05b852a3e10a9fd2d18bbb8')
+
+install=$pkgname.install
+
+# Commented and replaced with prepare()
+# build() {
+#     export CC=/usr/bin/gcc-12
+#     export CXX=/usr/bin/g++-12
+#     export JAVA_HOME=/usr/lib/jvm/java-11-openjdk
+#
+#     cd hadoop-rel-release-${pkgver}
+#     mvn package -Pdist,native \
+#         -Drequire.openssl -Drequire.zstd \
+#         -Dmaven.javadoc.skip=true -DskipTests
+# }
+
+prepare() {
+    # Use similar folder structure as if we built it from source
+    # See the beginning of package() function for folder structure reference
+    mkdir -p hadoop-rel-release-$pkgver/hadoop-dist/target/
+    mv hadoop-$pkgver/ hadoop-rel-release-$pkgver/hadoop-dist/target/
+}
+
+package() {
+    # Copy files to /usr
+    mkdir "$pkgdir"/usr
+    mv hadoop-rel-release-$pkgver/hadoop-dist/target/hadoop-$pkgver/* "$pkgdir"/usr/
+
+    # Move sbin files to bin
+    cd "$pkgdir"/usr
+    mv sbin/* bin/
+    rmdir sbin
+
+    # Move native libraries to /usr/lib
+    mv lib/native/* lib/
+    rmdir lib/native
+
+    # Move license and notice files
+    mkdir -p "$pkgdir"/usr/share/licenses/$pkgname/
+    mv licenses-binary/* LICENSE* NOTICE* README.txt "$pkgdir"/usr/share/licenses/$pkgname/
+    rmdir licenses-binary
+
+    # Remove windows batch files
+    rm {etc/hadoop,bin,libexec,share/hadoop/tools/resourceestimator/bin}/*.cmd
+
+    # Move etc directory
+    mv "$pkgdir"/usr/etc "$pkgdir"/
+
+    # Install profile script
+    cd "$srcdir"
+    mkdir "$pkgdir"/etc/profile.d
+    cp $pkgname.sh "$pkgdir"/etc/profile.d/
+
+    # Install eviroment file
+    mkdir "$pkgdir"/etc/conf.d
+    cp $pkgname "$pkgdir"/etc/conf.d/
+
+    # Install systemd service files
+    mkdir -p "$pkgdir"/usr/lib/systemd/system
+    cp $pkgname-{datanode,historyserver,namenode,resourcemanager,secondarynamenode}.service "$pkgdir"/usr/lib/systemd/system/
+
+    # Create required directories
+    mkdir -p "$pkgdir"/var/{lib,log}/hadoop
+}

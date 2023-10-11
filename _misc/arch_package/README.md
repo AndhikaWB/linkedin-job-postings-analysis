@@ -1,0 +1,1 @@
+This is a backup of the current Arch packages setup used in this repo (in case something break in the future).
