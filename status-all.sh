@@ -1,0 +1,1 @@
+sudo systemctl status hadoop-namenode hadoop-datanode hadoop-secondarynamenode hadoop-resourcemanager hadoop-historyserver metabase hive-metastore hive-hiveserver2

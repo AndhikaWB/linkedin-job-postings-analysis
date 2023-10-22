@@ -1,8 +1,12 @@
-# Files and folders to ignore
 /.venv/
+/.venv_*/
 /.vscode/
-/data/
-# /data/**/*.json
+/*.log
+
+# Only if using PySpark without Hive
 /metastore_db/
 /spark-warehouse/
-/*.log
+
+# Default dataset folder
+# /data/**/*.json
+/data/

@@ -1,4 +1,4 @@
-## Disclaimer
+## Important!
 
 - This guide is intended for Arch Linux or its derivative (Manjaro, Endeavour, Garuda, etc). The package name, package manager, and directory structure may vary for other Linux distributions. See [_misc / arch_package](_misc/arch_package/) for details.
 
@@ -6,39 +6,47 @@
 
 - Update your system first before attempting to do anything in this guide (e.g. `sudo pacman -Syyu`).
 
-- This guide use a single computer to run 2 Hadoop clusters (1 master, 1 worker), in a pseudo-distributed mode. If you need more clusters, you may need to modify something that's not covered in this guide. The current stack version used in this guide are Hadoop v3.3.5, Hive v3.1.3, Spark v3.5.0, OpenJDK v8.382.u05, and PostgreSQL v15.4
+- This guide use a single computer to run 2 Hadoop clusters (1 master, 1 worker) in a pseudo-distributed mode. If you need more clusters, you may need to modify something that's not covered in this guide. The current stack version used in this guide are Hadoop v3.3.5, Hive v3.1.3, Spark v3.5.0, OpenJDK v8.382.u05, and PostgreSQL v15.4.
 
 ## Step-by-Step Guide
 
-1. Install and configure Apache Spark (see [below](#configuring-apache-spark)). By doing this, you will also be installing Apache Hadoop and Apache Hive.
+1. Install and configure Apache Spark (see [below](#configuring-apache-spark)).
+
+    If you're following that link until the end, you will also end up installing Apache Hadoop and Apache Hive as prerequisite for Spark.
+
+    However, if you don't care about cluster setup or any of those programs, you can skip this step since `pyspark` can also work on its own.
 
 1. Install and configure Metabase (see [below](#configuring-metabase)).
 
-1. Start all the required services if not started yet:
+    Note that if you don't install Hive, you don't need to install Metabase since it (currently) can't connect to Spark SQL without Hive.
+
+1. If you installed everything from the previous steps, make sure to start all the services:
 
     ``` sh
     # sudo systemctl start sshd postgresql
     sudo systemctl start hadoop-namenode hadoop-datanode hadoop-secondarynamenode hadoop-resourcemanager hadoop-historyserver
     sudo systemctl start metabase
-    sudo systemctl start hive-metastore
-    sudo systemctl start hive-hiveserver2
+    sudo systemctl start hive-metastore hive-hiveserver2
     ```
 
     Wait about a minute, then check the services status (some services may not fail immediately):
 
     ``` sh
+    # Single command becase the output is displayed through "less"
     sudo systemctl status hadoop-namenode hadoop-datanode hadoop-secondarynamenode hadoop-resourcemanager hadoop-historyserver metabase hive-metastore hive-hiveserver2
     ```
 
-    Don't check services based on status (active/inactive), but check the actual logs. Hive services may still continue even if they actually encountered error! To see the full log of a service, use `sudo journalctl -u service_name`. After fixing the problem, use `sudo systemctl restart service_name` to restart it.
+    Don't check services based on the status (active/inactive) only, but check the actual logs. Hive services may still continue even if they actually encountered an error! To see the full log of a service, use `sudo journalctl -u service_name`. After fixing the problem, use `sudo systemctl restart service_name` to restart it.
 
-    Check used ports by running `sudo netstat -plnt`, make sure some important ports like `9803`, `10000`, and `9000` are listed there.
+    Check used ports by running `sudo netstat -plnt`, make sure some important ports like `9803`, `10000`, and `9000` are listed there. If you run Python before starting these services, there's chance that Python may claim those ports!
 
 1. Create Python virtual environment. You can use `Ctrl + Shift + P` on VS Code, or run `python -m venv .venv` on project folder directly. By using virtual environment, all dependencies will be installed in the project folder.
 
 1. Install all pip requirements (`pip install -r requirements.txt`), which also contains the needed `pyspark` library.
 
-    PySpark may also be bundled within Apache Spark itself, but you will need to set `PYTHONPATH` [manually](https://spark.apache.org/docs/latest/api/python/getting_started/install.html#manually-downloading) (so the Python library can be detected). However, if you're installing from AUR, by default it doesn't include the Python folder/library so `pyspark` will still be needed.
+    PySpark may also be bundled within Apache Spark itself, but you will need to set `PYTHONPATH` [manually](https://spark.apache.org/docs/latest/api/python/getting_started/install.html#manually-downloading) (so the Python library can be detected). However, if you're installing from AUR, by default it may not include the `python` folder so `pyspark` will still be needed.
+
+    Note that PySpark is actually a standalone package (but still require Java), it will work without installing Apache Hadoop, Apache Hive, or even Apache Spark itself. However, without installing all the prerequisites, PySpark can't be used to its full potential and most softwares (e.g. Metabase) won't be able to connect to it.
 
 1. Start experimenting using the [notebook](main.ipynb) file and Metabase (`localhost:3000`).
 
@@ -47,13 +55,13 @@
     ``` sh
     # sudo systemctl stop sshd postgresql
     sudo systemctl stop hadoop-namenode hadoop-datanode hadoop-secondarynamenode hadoop-resourcemanager hadoop-historyserver
-    sudo systemctl stop hive-metastore hive-hiveserver2
     sudo systemctl stop metabase
+    sudo systemctl stop hive-metastore hive-hiveserver2
     ```
 
 ## Configuring Apache Spark
 
-Using Apache Spark, we can execute queries and create tables without affecting the real database. This is ideal for production environment.
+Using Apache Spark, we can execute queries and create tables without affecting the real database. This is ideal for production environment. It can also be used for machine learning and streaming data in real-time.
 
 <details>
 <summary>Expand</summary>
@@ -380,7 +388,7 @@ Apache Hadoop is a parallel data processing engine where big data can be distrib
 </details>
 
 ## Configuring Apache Hive
-Apache Hive is a data warehouse system built on top of Hadoop for providing distributed data query and analysis.
+Apache Hive is a data warehouse system built on top of Hadoop for providing distributed data query and analysis. If used together with Spark, the warehouse data (containing tables and databases) will be saved to Hadoop DFS.
 
 <details>
 <summary>Expand</summary>
@@ -391,7 +399,7 @@ Apache Hive is a data warehouse system built on top of Hadoop for providing dist
 
     Alternatively, you can also use my local `PKGBUILD` [config](/_misc/arch_package/apache-hive/). See how to install local package manually from the [Arch wiki](https://wiki.archlinux.org/title/Arch_User_Repository#Installing_and_upgrading_packages). You can skip a few steps ahead if you're using this method.
 
-1. Create a new user called `hive`.
+1. Create a new user called `hive` (or just use `hadoop`, it will also work).
 
     ``` sh
     sudo -i
@@ -581,7 +589,9 @@ There are 2 types of Java environment, JDK and JRE. JRE is the lightweight versi
 
 1. See what Java environments are installed on your machine by using `archlinux-java status`.
 
-1. Check whether JDK exists by running `where javac`. If not, you may need to install one. Use `sudo pacman -S XXX-openjdk`, where `XXX` can be either `jdk` (Java latest), `jdk8` (Java 8, recommended), `jdk11` (Java 11), and so on.
+1. Check whether JDK exists by running `where javac`. If not, you may need to install one. Use `sudo pacman -S XXX-openjdk`, where `XXX` can be either `jdk` (Java latest), `jdk8` (Java 8), `jdk11` (Java 11), and so on.
+
+    As of Hive v3.1.3, Java 11 is still not fully supported so it's safer to use Java 8.
 
 1. Recheck the Java environments by running `archlinux-java status` (again).
 
