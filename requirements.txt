@@ -5,7 +5,7 @@ pyarrow>=13.0.0
 # Interactive visualization
 plotly>=5.17.0
 # Static visualization (GitHub workaround)
-kaleido==0.1.0.post1
+kaleido==0.1.0
 
 # Pandas dependency to format table
 nbformat>=5.9.2

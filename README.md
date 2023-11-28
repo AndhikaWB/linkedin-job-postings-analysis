@@ -13,7 +13,7 @@ Note that if you don't use the setup above, Apache Spark can also work locally a
 
 To release the full power of the graphs, it's recommended to run the [notebook](main.ipynb) file directly since **the graphs are interactable**. GitHub doesn't support interactive graphs so I need to export it as images as a workaround.
 
-Here are some random examples you can view. Alternatively, you can also view all the graphs on my Streamlit Cloud.
+Here are some random examples you can view. Alternatively, you can also view all the graphs on my [Streamlit Cloud](https://lkjpa-wmjdhrv64dbbhyl6wn6wpa.streamlit.app/).
 
 <details>
     <summary>Salary Distribution Based on Experience Level</summary>
