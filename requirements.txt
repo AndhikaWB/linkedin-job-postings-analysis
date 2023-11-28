@@ -1,4 +1,13 @@
 pyspark>=3.5.0
 pandas>=2.1.1
+pyarrow>=13.0.0
+
+# Interactive visualization
 plotly>=5.17.0
+# Static visualization (GitHub workaround)
+kaleido==0.1.0.post1
+
+# Pandas dependency to format table
 nbformat>=5.9.2
+# Pandas dependency to scrap from HTML file
+lxml>=4.9.3

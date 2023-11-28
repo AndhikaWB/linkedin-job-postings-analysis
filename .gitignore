@@ -8,5 +8,4 @@
 /spark-warehouse/
 
 # Default dataset folder
-# /data/**/*.json
-/data/
+/data/**/*.json
