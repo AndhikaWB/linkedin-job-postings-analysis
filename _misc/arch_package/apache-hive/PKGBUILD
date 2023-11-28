@@ -12,8 +12,10 @@ conflicts=('yarn')
 depends=('inetutils' 'java-runtime-headless=11' 'openssh' 'protobuf')
 
 source=("https://dlcdn.apache.org/hive/hive-$pkgver/apache-hive-$pkgver-bin.tar.gz"
-        "${pkgname}" "${pkgname}.sh" "hive.service")
+        "${pkgname}" "${pkgname}.sh"
+        hive-{hiveserver2,metastore}.service)
 sha256sums=('SKIP'
+            'SKIP'
             'SKIP'
             'SKIP'
             'SKIP')
@@ -26,14 +28,20 @@ prepare() {
 
 package() {
     # Create directory structure
-    mkdir -p $pkgdir/{etc/profile.d,opt,usr/lib/systemd/system}
+    mkdir -p $pkgdir/{etc/profile.d,/etc/conf.d,opt,usr/lib/systemd/system}
 
     # Install path profile
     cp $pkgname.sh $pkgdir/etc/profile.d/
 
+    # Install enviroment file
+    cp $pkgname "$pkgdir"/etc/conf.d/
+
     # Install systemd services
-    cp $pkgname.service $pkgdir/usr/lib/systemd/system/
+    cp hive-hiveserver2.service hive-metastore.service $pkgdir/usr/lib/systemd/system/
 
     # Install program files
     mv apache-hive-${pkgver}-bin $pkgdir/opt/$pkgname
+
+    # Create required directories
+    mkdir -p "$pkgdir"/var/{lib,log}/hive
 }

@@ -76,7 +76,7 @@ package() {
     mkdir "$pkgdir"/etc/profile.d
     cp $pkgname.sh "$pkgdir"/etc/profile.d/
 
-    # Install eviroment file
+    # Install enviroment file
     mkdir "$pkgdir"/etc/conf.d
     cp $pkgname "$pkgdir"/etc/conf.d/
 

@@ -1,0 +1,9 @@
+HADOOP_COMMON_LIB_NATIVE_DIR=/usr/lib
+HADOOP_CONF_DIR=/etc/hadoop
+HADOOP_LOG_DIR=/var/log/hadoop
+HADOOP_USERNAME=hadoop
+
+HIVE_HOME=/opt/apache-hive
+HIVE_LOG_DIR=/var/log/hive
+
+JAVA_HOME=/usr/lib/jvm/java-8-openjdk

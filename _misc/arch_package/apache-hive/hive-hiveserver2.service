@@ -1,0 +1,13 @@
+[Unit]
+Description=Hive Server2
+After=network-online.target
+
+[Service]
+Type=simple
+User=hive
+Group=hive
+EnvironmentFile=/etc/conf.d/apache-hive
+ExecStart=/opt/apache-hive/bin/hive --service hiveserver2 --hiveconf hive.root.logger=INFO,console
+
+[Install]
+WantedBy=multi-user.target
