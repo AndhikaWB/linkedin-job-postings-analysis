@@ -1,0 +1,1139 @@
+,company_name,title,med_salary,formatted_work_type,formatted_experience_level,location,remote_allowed,applies,views
+0,Crossover ,"Head of AI Engineering, Trilogy (Remote) - $400,000/year USD",33333,Full-time,Executive,"Palm Bay, FL",True,2,12
+1,Crossover ,"Director Data Science, Trilogy (Remote) - $400,000/year USD",33333,Full-time,Executive,"New York, United States",True,11,93
+2,Gilead Sciences,"Executive Director, Head of Clinical Data Management",25504,Full-time,N/A,"Foster City, CA",False,14,156
+3,INNOCEAN USA,"SVP, Group Director, Digital Strategy & Analytics",25000,Full-time,Executive,"Huntington Beach, CA",False,0,202
+4,Spotter,"Manager, Analytics - Underwriting",25000,Full-time,Mid-Senior level,"Culver City, CA",False,9,52
+5,Spotter,"Director, Analytics - Underwriting",25000,Full-time,Director,"Culver City, CA",False,6,65
+6,Apple,"AIML - Senior Data Infrastructure Software Engineer, Machine Learning Platform and Technology",23495,Full-time,N/A,"Cupertino, CA",False,0,0
+7,Google,"AI Consultant, Google Cloud",22083,Full-time,N/A,"Seattle, WA",False,8,116
+8,Google,"AI Consultant, Google Cloud",22083,Full-time,N/A,"Los Angeles, CA",False,6,158
+9,Google,"AI Consultant, Google Cloud",22083,Full-time,N/A,"Irvine, CA",False,11,113
+10,Google,"AI Consultant, Google Cloud",22083,Full-time,N/A,"Chicago, IL",False,4,128
+11,Cisco,Platform Cloud and Data Infrastructure Architect (Cyber Security) (Remote),21908,Full-time,N/A,"San Jose, CA",True,17,95
+12,SAP,Digital Experiences Analytics Senior Manager,21404,Full-time,N/A,"New York, NY",False,10,66
+13,Lumicity,ML Compiler ,20833,Full-time,Mid-Senior level,San Francisco Bay Area,False,25,126
+14,Storm3,"Director, Machine Learning Platform",20833,Full-time,Director,United States,True,0,0
+15,"Lord, Abbett & Co. LLC",Special Situations Analyst,20833,Full-time,Associate,"Jersey City, NJ",False,18,412
+16,MSD,Data Engineering Product Lead (Hybrid),20747,Full-time,N/A,"West Point, PA",False,7,22
+17,Storm3,Principal Machine Learning Engineer ,18750,Full-time,Mid-Senior level,United States,True,0,0
+18,Nextdoor,Machine Learning Engineer - Notifications,18666,Full-time,Mid-Senior level,"San Francisco, CA",False,172,476
+19,Noom,Lead Data Scientist,18416,Full-time,Entry level,United States,True,318,956
+20,Adobe,Machine Learning Engineer 5,17616,Full-time,Entry level,"San Jose, CA",False,8,72
+21,Adobe,Machine Learning Engineer 5,17616,Full-time,Entry level,"San Francisco, CA",False,5,56
+22,Google,"Product Analyst Manager II, Data Science",17333,Full-time,N/A,"Mountain View, CA",False,12,88
+23,Google,"Product Analyst Manager II, Data Science",17333,Full-time,N/A,"Kirkland, WA",False,11,107
+24,Google,"Product Analyst Manager II, Data Science",17333,Full-time,N/A,"New York, NY",False,23,188
+25,Google,"Product Analyst Manager II, Data Science",17333,Full-time,N/A,"Seattle, WA",False,11,99
+26,FICO,Sr. Principal Engineer – Transactional Analytics /C++ (Remote),17250,Full-time,Mid-Senior level,United States,True,13,163
+27,Meta,"Software Engineer, Machine Learning - Reality Labs",17249,Full-time,N/A,"Burlingame, CA",False,12,236
+28,Meta,"Software Engineer, Machine Learning - Reality Labs",17249,Full-time,N/A,"Boston, MA",False,7,181
+29,Amazon,"Senior Manager, Business Intelligence, Amazon Exports",16745,Full-time,Director,"Seattle, WA",False,43,203
+30,Crossover ,"Artificial Intelligence Engineer, Trilogy (Remote) - $200,000/year USD",16666,Full-time,Director,"Raleigh, NC",True,16,75
+31,Crossover ,"AI Developer, Trilogy (Remote) - $200,000/year USD",16666,Full-time,Director,"Baton Rouge, LA",True,10,45
+32,Crossover ,"AI Super Engineer, Trilogy (Remote) - $200,000/year USD",16666,Full-time,Director,"Reading, PA",True,4,31
+33,Crossover ,"AI Developer, Trilogy (Remote) - $200,000/year USD",16666,Full-time,Director,"New York, United States",True,27,129
+34,Booz Allen Hamilton,"Machine Learning Engineer, Senior",16508,Full-time,N/A,"Washington, DC",False,2,17
+35,Forge,Machine Learning Engineer,15625,Full-time,Mid-Senior level,San Francisco Bay Area,True,147,532
+36,Edelman,"Senior Vice President, Head of AI & Business Transformation Lead",15416,Full-time,Director,"New York, NY",False,5,59
+37,QuinStreet,Senior Machine Learning Engineer,15416,Full-time,Mid-Senior level,United States,True,76,284
+38,Mastercard,"Director, Data Strategy, Retail and Commerce",15375,Full-time,Director,"Georgia, United States",True,49,330
+39,Google,"Hardware Architect, Machine Learning, Technical Infrastructure",15250,Full-time,N/A,"Sunnyvale, CA",False,1,85
+40,Google,Senior Data Scientist,15250,Full-time,Mid-Senior level,"Mountain View, CA",False,34,258
+41,Google,Senior Data Scientist,15250,Full-time,Mid-Senior level,"San Jose, CA",False,43,224
+42,Google,Senior Data Scientist,15250,Full-time,Mid-Senior level,"Seattle, WA",False,46,279
+43,Google,Senior Data Scientist,15250,Full-time,Mid-Senior level,"Kirkland, WA",False,22,180
+44,Google,Senior Data Scientist,15250,Full-time,Mid-Senior level,"Austin, TX",False,33,219
+45,Google,Senior Data Scientist,15250,Full-time,Mid-Senior level,"San Diego, CA",False,44,299
+46,Google,Senior Data Scientist,15250,Full-time,Mid-Senior level,"Los Angeles, CA",False,27,256
+47,Google,Senior Data Scientist,15250,Full-time,Mid-Senior level,"Sunnyvale, CA",False,19,162
+48,ROR Partners,Principal Data Engineer,15208,Full-time,N/A,United States,True,123,271
+49,Amazon Web Services (AWS),"Senior ML Specialist Solutions Architect, ML Service Solution Architects",15079,Full-time,Mid-Senior level,"Santa Clara, CA",False,1,12
+50,Rabobank,"VP, Credit Analyst",15000,Full-time,Mid-Senior level,"Chicago, IL",False,22,160
+51,Amazon,"Sr. Product Manager-Tech, Workforce Intelligence",14841,Full-time,Mid-Senior level,"Arlington, VA",False,23,103
+52,Petco,"Analyst, Vendor Analytics",14520,Full-time,Entry level,"San Diego, CA",False,25,87
+53,Takeda,"Associate Director, Advanced Analytics (Oncology)",14520,Full-time,Mid-Senior level,"Cambridge, MA",False,6,43
+54,USDM Life Sciences,Technical Analyst - Siemens Desigo,14400,Contract,N/A,United States,True,1,9
+55,Lyft,Senior Data Scientist - Algorithms,14250,Full-time,Mid-Senior level,"Seattle, WA",False,117,514
+56,VARITE INC,Principal Data Architect,14166,Full-time,Mid-Senior level,"Oakland, CA",False,0,26
+57,Prudential Financial,"Director, Business Intelligence",14166,Full-time,Director,"Newark, NJ",False,19,109
+58,aquesst,Senior Data Engineer,14166,Full-time,Mid-Senior level,Atlanta Metropolitan Area,False,76,176
+59,Coupang,Senior Cyber Security Analyst,14080,Full-time,Mid-Senior level,"Seattle, WA",False,0,0
+60,Community.com,Senior Data Engineer,13750,Full-time,N/A,United States,True,169,323
+61,Amazon,"People Analytics Manager , People Analytics",13620,Full-time,Mid-Senior level,"Nashville, TN",False,10,66
+62,"Paradigm Group, Inc.",Sr. SAP SCM Analyst ( PP / MM )    ,13541,Full-time,Mid-Senior level,"Houston, TX",False,14,57
+63,Robert Walters,"Vice President of Quantitative Analytics, Market Risk",13541,Full-time,Mid-Senior level,New York City Metropolitan Area,False,35,139
+64,EnergyHub,Staff Data Engineer,13541,Full-time,Mid-Senior level,United States,True,0,100
+65,"Mulligan Funding, LLC","Manager, Strategic Analytics & Business Intelligence",13333,Full-time,Mid-Senior level,San Diego Metropolitan Area,False,19,103
+66,Publix Super Markets,Data Architect – Enterprise Architecture Team-REMOTE,13138,Full-time,Mid-Senior level,"Florida, United States",True,32,291
+67,Verily,Senior Workday Integrations & Prism Analyst,13125,Full-time,Mid-Senior level,"Dallas, TX",False,4,39
+68,Verily,"Senior Workday Business Systems Analyst, Absence/Talent & Performance",13125,Full-time,Mid-Senior level,"Dallas, TX",False,4,47
+69,Insight Global,Business Data Analyst,13120,Full-time,Mid-Senior level,United States,True,206,974
+70,Irvine Technology Corporation,Data Governance Specialist,13120,Contract,Mid-Senior level,"New York, United States",True,80,311
+71,Virtua Pharma Technology,Business System Analyst (Clinical Operations Systems),12800,Contract,N/A,United States,True,15,55
+72,The Mom Project,"Business Systems Analyst, Salesforce",12800,Contract,Mid-Senior level,"Sunnyvale, CA",False,14,133
+73,Amazon,"Sr Business Intelligence Engineer III, Strategies Labor BI",12795,Full-time,Mid-Senior level,"Seattle, WA",False,6,34
+74,Booz Allen Hamilton,Analytical Epidemiologist,12720,Full-time,N/A,"Atlanta, GA",True,13,197
+75,TEEMA,Lead Development and Analytics Engineer,12708,Full-time,N/A,"Pennsylvania, United States",True,22,47
+76,24 Seven Talent,Frontend Web Developer (Machine Learning),12640,Contract,Mid-Senior level,United States,True,223,472
+77,Capgemini,Solution Architect- Data Engineering Any Cloud must have Databricks,12500,Full-time,Mid-Senior level,United States,True,67,181
+78,Airdrop,Investment Analyst,12500,Full-time,N/A,New York City Metropolitan Area,True,0,168
+79,NSG - Real Estate & Construction (Noor Staffing Group),Lead Superintendent - Data Center/Mission Critical,12500,Full-time,Mid-Senior level,Dallas-Fort Worth Metroplex,False,7,29
+80,Airdrop,Investment Analyst,12500,Full-time,N/A,New York City Metropolitan Area,True,0,205
+81,Insight Global,Data Analytics Manager,12500,Full-time,Mid-Senior level,"New York, NY",False,67,196
+82,Airdrop,Investment Analyst,12500,Full-time,N/A,New York City Metropolitan Area,True,0,212
+83,Airdrop,Investment Analyst,12500,Full-time,N/A,New York City Metropolitan Area,True,0,241
+84,Airdrop,Investment Analyst,12500,Full-time,N/A,New York City Metropolitan Area,True,0,203
+85,Bank of America,"Assistant Vice President, Quantitative Finance Analyst",12500,Full-time,Mid-Senior level,"Jersey City, NJ",False,10,65
+86,Airdrop,Investment Analyst,12500,Full-time,N/A,New York City Metropolitan Area,True,0,235
+87,Airdrop,Investment Analyst,12500,Full-time,N/A,New York City Metropolitan Area,True,0,227
+88,Another Source,Senior Assessment and Evaluation Analyst,12500,Full-time,Mid-Senior level,"Palo Alto, CA",False,2,68
+89,Zest AI,"Lead Backend Engineer (Typescript/AWS) - SaaS, FinTech, AI - Remote or Hybrid",12500,Full-time,Mid-Senior level,United States,True,11,32
+90,Airdrop,Investment Analyst,12500,Full-time,N/A,New York City Metropolitan Area,True,0,228
+91,Airdrop,Investment Analyst,12500,Full-time,N/A,New York City Metropolitan Area,True,0,152
+92,Airdrop,Investment Analyst,12500,Full-time,N/A,New York City Metropolitan Area,True,3,4
+93,Airdrop,Investment Analyst,12500,Full-time,N/A,New York City Metropolitan Area,True,0,0
+94,ConnectiCare,Healthcare Business Data Leader,12500,Full-time,Mid-Senior level,"Connecticut, United States",True,84,375
+95,Roth Staffing,Project Manager (Data Center Move) ,12480,Contract,Mid-Senior level,"Newport Beach, CA",True,0,337
+96,Strategic Staffing Solutions,Information Security Analyst,12320,Contract,Associate,"Charlotte, NC",False,0,216
+97,Geomagical Labs,Data Analyst - Remote / Contract,12320,Contract,Associate,"Palo Alto, CA",True,300,1138
+98,Google,"Cloud Customer Engineer, Data Management, Google Cloud",12291,Full-time,N/A,"Reston, VA",False,0,28
+99,Google,"Cloud Customer Engineer, Data Management, Google Cloud",12291,Full-time,N/A,"Atlanta, GA",False,2,40
+100,Google,"Cloud Customer Engineer, Data Management, Google Cloud",12291,Full-time,N/A,"New York, NY",False,1,24
+101,XPO,"Senior Manager, Cost Model Analytics - Remote",12170,Full-time,N/A,"Atlanta, GA",True,21,92
+102,Honeywell,ISC Analytics Manager,12083,Full-time,Mid-Senior level,"South Bend, IN",False,0,1
+103,Honeywell,ISC Analytics Manager,12083,Full-time,Mid-Senior level,"Greer, SC",False,0,1
+104,Honeywell,ISC Analytics Manager,12083,Full-time,Mid-Senior level,"Torrance, CA",False,0,0
+105,Honeywell,ISC Analytics Manager,12083,Full-time,Mid-Senior level,"Clearwater, FL",False,1,3
+106,Honeywell,ISC Analytics Manager,12083,Full-time,Mid-Senior level,"Minneapolis, MN",False,0,0
+107,Honeywell,ISC Analytics Manager,12083,Full-time,Mid-Senior level,"Redmond, WA",False,0,11
+108,"Milestone Technologies, Inc.",Data Scientist/ Product Analyst ,12000,Contract,Mid-Senior level,"San Francisco, CA",False,7,37
+109,PRI Technology,Senior Revenue Growth Management Category Analyst ,12000,Contract,Mid-Senior level,"Franklin, TN",False,3,83
+110,Juniper Square,Information Security Analyst,11941,Full-time,Mid-Senior level,"Chicago, IL",True,76,350
+111,Juniper Square,Information Security Analyst,11941,Full-time,Mid-Senior level,"Dallas, TX",True,147,488
+112,Juniper Square,Information Security Analyst,11941,Full-time,Mid-Senior level,"New York, NY",True,131,516
+113,Aimic Inc,"Data Governance Lead in Health Care (Only Local to MD, VA & DC States)",11875,Full-time,Mid-Senior level,"Washington, DC",True,0,23
+114,Idaho National Laboratory,Transportation Data Quality Assurance Analyst,11869,Full-time,Entry level,"Idaho Falls, ID",False,22,82
+115,Google,"Data Engineer, Google Nest",11833,Full-time,N/A,"Mountain View, CA",False,278,945
+116,Insight Global,Data Analytics Manager - Strategic Sourcing,11666,Full-time,Mid-Senior level,"Manhattan, NY",False,22,93
+117,Insight Global,Dynamic 365 Functional Analyst,11666,Full-time,Mid-Senior level,"Houston, TX",True,0,114
+118,Edelman,"Vice President, AI Platform Evaluation and Offering Development Lead",11625,Full-time,Executive,"New York, NY",False,1,14
+119,Motion Recruitment,Business Intelligence Analyst,11520,Contract,Associate,"Mountain View, CA",False,110,294
+120,Motion Recruitment,Business Intelligence Analyst,11520,Contract,Associate,"San Diego, CA",False,101,284
+121,"Pinnacle Group, Inc.",Data Analyst ,11360,Contract,Mid-Senior level,"Manhattan, NY",False,208,514
+122,Idaho National Laboratory,Data Scientist,11284,Full-time,Entry level,"Idaho Falls, ID",False,16,89
+123,EdgeLink, Infor CloudSuite ERP System Analyst ,11250,Full-time,Mid-Senior level,"Colorado, United States",True,28,137
+124,Robert Half,Business Intelligence Lead,11250,Full-time,Mid-Senior level,"Sugar Land, TX",False,77,226
+125,Lyft,"Data Analyst, Real-Time Supply Management (Hybrid)",11250,Full-time,N/A,"San Francisco, CA",False,347,1038
+126,Phreesia,"Senior Product Manager, Data Products",11250,Full-time,Mid-Senior level,United States,True,54,293
+127,Invitation Homes,Data Engineer IV,11234,Full-time,Mid-Senior level,"Dallas, TX",False,9,29
+128,Insight Global,Data Steward,11200,Full-time,Mid-Senior level,"Charlotte, NC",True,0,80
+129,Akkodis,Data Analyst,11200,Contract,Mid-Senior level,"Pittsburgh, PA",False,100,271
+130,Eliassen Group,Treasury ALM Analyst,11200,Contract,Mid-Senior level,San Francisco Bay Area,True,14,62
+131,Booz Allen Hamilton,Industrial Base Outreach Analyst,11158,Full-time,N/A,"Arlington, VA",False,0,13
+132,Booz Allen Hamilton,"Operations Research Analyst, Senior",11158,Full-time,N/A,"Colorado Springs, CO",False,0,17
+133,Booz Allen Hamilton,Cyber Threat Intelligence Analyst,11158,Full-time,N/A,"Fort Bragg, North Carolina, United States",False,1,18
+134,Blueprint Intergovernmental Agency,"Deputy Director, Business Vitality and Intelligence",11075,Full-time,N/A,"Tallahassee, FL",False,1,30
+135,"Multi Media, LLC",Product Data Analyst,11041,Full-time,Mid-Senior level,United States,True,157,297
+136,Franklin Fitch,Senior Financial Business Intelligence Analyst,11041,Full-time,Mid-Senior level,New York City Metropolitan Area,False,53,111
+137,Links Technology Solutions,Sr Database Design Analyst ,11040,Contract,Mid-Senior level,United States,True,102,148
+138,Eliassen Group,Senior Financial Analyst,11040,Contract,Mid-Senior level,San Francisco Bay Area,True,15,50
+139,Amazon,Business Intelligence Engineer,11025,Full-time,N/A,"Bellevue, WA",False,59,325
+140,Cambia Health Solutions,Machine Learning Scientist I,11020,Full-time,Mid-Senior level,"Portland, OR",False,31,102
+141,Cambia Health Solutions,Machine Learning Scientist I,11020,Full-time,Mid-Senior level,"Utah, United States",False,32,95
+142,lululemon,"Senior Business Analyst, People Systems (Talent & Learning) * Hybrid * Seattle",11016,Full-time,Mid-Senior level,"Seattle, WA",False,36,282
+143,Insight Global,Sr Data Engineer,10920,Contract,Mid-Senior level,"Boston, MA",True,135,289
+144,Elevate Digital,Senior Data Engineer,10833,Part-time,Mid-Senior level,"Charlotte, NC",False,0,132
+145,Wright Technical Services,Senior SAP FI/CO Business Analyst,10833,Full-time,Mid-Senior level,Cincinnati Metropolitan Area,False,30,72
+146,Control Risks,Hardware Security Analyst,10833,Full-time,Mid-Senior level,"Fremont, CA",False,24,99
+147,LinQuest,Data Scientist / Operations Research Analyst,10833,Full-time,Entry level,"Colorado Springs, CO",False,41,215
+148,Treasury Wine Estates,HRIS Analyst,10750,Full-time,Associate,"Napa, CA",False,3,15
+149,US Tech Solutions,Business Analyst V,10720,Contract,Mid-Senior level,"San Francisco, CA",False,99,267
+150,Eclaro,Master Data Specialist,10720,Contract,Associate,"Ayer, MA",False,8,59
+151,FleishmanHillard,"Research Director/Vice President - Insights + Analytics, True Global Intelligence (Hybrid)",10720,Full-time,Executive,"St Louis, MO",False,2,19
+152,Flexton Inc.,Sr. Data Engineer,10720,Contract,Mid-Senior level,"Austin, TX",False,39,106
+153,"Milestone Technologies, Inc.",Oracle Business Intelligence Analyst,10683,Full-time,Mid-Senior level,"Long Beach, CA",False,17,119
+154,Robert Half,IT Data Warehouse Analyst,10416,Full-time,Mid-Senior level,"Houston, TX",False,75,182
+155,Premier International,"Manager, Oracle Data Conversion Lead",10416,Full-time,N/A,"Chicago, IL",False,11,78
+156,Dexian,Google Analytics Analyst,10416,Full-time,Mid-Senior level,"McLean, VA",False,91,239
+157,Comet,ML Ops Engineer,10416,Full-time,Mid-Senior level,United States,True,73,178
+158,Robert Half,Senior Treasury Analyst,10416,Full-time,Mid-Senior level,"Pleasanton, CA",True,24,63
+159,Piper Companies,Data Analytics Solutions Engineer,10416,Full-time,Entry level,United States,True,0,0
+160,Staffingine LLC,Salesforce Business Analyst (Service Focused),10416,Full-time,N/A,"Sunnyvale, CA",False,11,19
+161,Experis,Sr Business System Analyst - East Coast,10400,Contract,Mid-Senior level,"Princeton, NJ",False,0,0
+162,LeadStack Inc.,Azure Data Engineer,10400,Contract,Mid-Senior level,United States,True,386,906
+163,Rangam,Master Data Specialist,10400,Contract,Mid-Senior level,"Ayer, MA",False,7,66
+164,Harnham,Sr. BI Analyst (Video Streaming),10400,Contract,Mid-Senior level,"Los Angeles, CA",False,137,302
+165,Franklin Fitch,Senior Financial Business Intelligence Analyst,10208,Full-time,Mid-Senior level,Atlanta Metropolitan Area,False,36,75
+166,B&H Photo Video,Information Technology Security Analyst,10208,Full-time,Mid-Senior level,New York City Metropolitan Area,False,75,273
+167,Publicis Sapient,Senior Data Engineer (Public Sector),10125,Full-time,Mid-Senior level,"Arlington, VA",True,1,14
+168,Insight Global,Data Engineer,10080,Contract,Mid-Senior level,United States,True,255,568
+169,"TSR Consulting Services, Inc.",Master Data Specialist- W2 only ,10080,Contract,Mid-Senior level,"Ayer, MA",False,6,49
+170,"Norton Staffing, Inc.",Sr. IT Business Analyst (Agile),10080,Full-time,Mid-Senior level,"Chesterfield, MO",False,0,0
+171,Robert Half,Senior Financial Analyst,10000,Full-time,Mid-Senior level,"Orange County, CA",False,27,84
+172,LHH,Information Technology Security Analyst,10000,Full-time,Mid-Senior level,"Camarillo, CA",False,9,40
+173,Mastech Digital,Agile Tools Analyst & Administrator,10000,Full-time,Mid-Senior level,"Dallas, TX",False,17,114
+174,Booz Allen Hamilton,Data Scientist,9962,Full-time,N/A,"Chantilly, VA",False,8,47
+175,Booz Allen Hamilton,Data Scientist,9962,Full-time,N/A,"McLean, VA",False,4,49
+176,Booz Allen Hamilton,Data Scientist,9958,Full-time,N/A,"Norfolk, VA",False,7,59
+177,Booz Allen Hamilton,Cybersecurity Policy and Compliance Analyst,9958,Full-time,N/A,"King George, VA",False,2,25
+178,Booz Allen Hamilton,"IT Business Analyst, Senior",9958,Full-time,N/A,"Oak Ridge, TN",True,10,50
+179,R&B Services Inc.,"IT Security Analyst "" lOCAL RICHMOND CANDIDATES ONLY""",9920,Contract,N/A,"Richmond, VA",False,5,22
+180,KORE1,HR Sr Business Systems Analyst,9920,Contract,Mid-Senior level,"California, United States",True,13,26
+181,Publicis Sapient,Senior Data Engineer,9791,Full-time,Mid-Senior level,"Virginia, United States",False,25,86
+182,Publicis Sapient,Senior Data Engineer,9791,Full-time,Mid-Senior level,"Cleveland, OH",False,21,86
+183,Publicis Sapient,Senior Data Engineer,9791,Full-time,Mid-Senior level,"Miami, FL",False,26,92
+184,Publicis Sapient,Senior Data Engineer,9791,Full-time,Mid-Senior level,"Chicago, IL",False,22,99
+185,Publicis Sapient,Senior Data Engineer,9791,Full-time,Mid-Senior level,"Atlanta, GA",False,27,116
+186,Dynamite Jobs,Senior Data Analyst,9791,Full-time,N/A,United States,True,86,462
+187,Piper Companies,Cyber Security Analyst - Long Term Opportunity,9791,Full-time,Entry level,"Springfield, VA",False,0,0
+188,T. Rowe Price,Marketing Insights and Data Analytics Manager,9791,Full-time,Mid-Senior level,"Owings Mills, MD",False,13,121
+189,TalentPlug LLC,Client Analytics Manager,9791,Full-time,Mid-Senior level,United States,True,17,57
+190,Blackbaud,Senior Threat Detection Analyst,9779,Full-time,Mid-Senior level,"New Hampshire, United States",True,0,3
+191,Blackbaud,Senior Threat Detection Analyst,9779,Full-time,Mid-Senior level,"North Carolina, United States",True,0,6
+192,Blackbaud,Senior Threat Detection Analyst,9779,Full-time,Mid-Senior level,"Michigan, United States",True,0,9
+193,Blackbaud,Senior Threat Detection Analyst,9779,Full-time,Mid-Senior level,"South Dakota, United States",True,0,4
+194,Blackbaud,Senior Threat Detection Analyst,9779,Full-time,Mid-Senior level,"Indiana, United States",True,0,3
+195,Western Governors University,Senior Compensation Analyst,9729,Full-time,Mid-Senior level,"Orlando, FL",True,2,31
+196,Western Governors University,Senior Compensation Analyst,9729,Full-time,Mid-Senior level,"Cincinnati, OH",True,1,13
+197,Western Governors University,Senior Compensation Analyst,9729,Full-time,Mid-Senior level,"Jacksonville, FL",True,3,15
+198,Western Governors University,Senior Compensation Analyst,9729,Full-time,Mid-Senior level,"Raleigh, NC",True,3,19
+199,Western Governors University,Senior Compensation Analyst,9729,Full-time,Mid-Senior level,"Los Angeles, CA",True,5,20
+200,Western Governors University,Senior Compensation Analyst,9729,Full-time,Mid-Senior level,"Tampa, FL",True,3,26
+201,Western Governors University,Senior Compensation Analyst,9729,Full-time,Mid-Senior level,"Chicago, IL",True,5,30
+202,Western Governors University,Senior Compensation Analyst,9729,Full-time,Mid-Senior level,"Seattle, WA",True,6,28
+203,Western Governors University,Senior Compensation Analyst,9729,Full-time,Mid-Senior level,"Houston, TX",True,5,32
+204,Western Governors University,Senior Compensation Analyst,9729,Full-time,Mid-Senior level,"San Antonio, TX",True,6,17
+205,Western Governors University,Senior Compensation Analyst,9729,Full-time,Mid-Senior level,"Atlanta, GA",True,4,26
+206,Western Governors University,Senior Compensation Analyst,9729,Full-time,Mid-Senior level,"Austin, TX",True,4,27
+207,Western Governors University,Senior Compensation Analyst,9729,Full-time,Mid-Senior level,"Philadelphia, PA",True,2,26
+208,Western Governors University,Senior Compensation Analyst,9729,Full-time,Mid-Senior level,"St Louis, MO",True,2,14
+209,Holland & Hart LLP,Applications Analyst III,9710,Full-time,Associate,"Salt Lake City, UT",False,3,35
+210,Holland & Hart LLP,Applications Analyst III,9710,Full-time,Associate,"Boulder, CO",False,0,27
+211,HirePlus Infotech LLC,Data Modeler,9600,Contract,N/A,"Chicago, IL",False,13,48
+212,"Milestone Technologies, Inc.",ServiceNow CMDB Business Analyst,9583,Full-time,Mid-Senior level,"Seattle, WA",False,4,39
+213,New York Life Insurance Company,Senior Data Warehouse Developer,9583,Full-time,N/A,"Tampa, FL",False,0,0
+214,Ancestry,"Sr. Analyst, Marketing Analytics",9583,Full-time,Mid-Senior level,"San Francisco, CA",False,4,14
+215,Pinpoint Talent,Financial Analyst,9583,Full-time,Associate,"Oakland, CA",False,71,160
+216,Davis Polk & Wardwell LLP,"RPA Developer, Business Operations & Data Analytics",9583,Full-time,Mid-Senior level,New York City Metropolitan Area,False,77,196
+217,ADP,Senior Accessibility Analyst,9558,Full-time,N/A,"Forest Home, NY",False,0,3
+218,TIAA,Senior Systems Analyst,9437,Full-time,N/A,"New York, NY",False,0,0
+219,Edelman,AI Communications Lead,9416,Full-time,Mid-Senior level,"New York, NY",False,10,34
+220,aquesst,Senior Application Analyst,9375,Full-time,Mid-Senior level,Atlanta Metropolitan Area,False,4,9
+221,The General®,Product Analytics Lead(Open to Remote),9354,Full-time,Mid-Senior level,"Nashville, TN",True,15,64
+222,B&H Photo Video,Business System Analyst,9208,Full-time,Mid-Senior level,New York City Metropolitan Area,False,102,193
+223,Talent Acquisitions Group Inc - Executive Search Firm,Financial Planning Analyst,9166,Full-time,Mid-Senior level,"Newark, NJ",False,42,109
+224,UL Solutions,Strategy & Portfolio Innovation Analyst,9166,Full-time,N/A,"Triangle, NC",False,6,32
+225,UL Solutions,Strategy & Portfolio Innovation Analyst,9166,Full-time,N/A,"Brea, CA",False,8,33
+226,UL Solutions,Strategy & Portfolio Innovation Analyst,9166,Full-time,N/A,"Chicago, IL",False,8,60
+227,UL Solutions,Strategy & Portfolio Innovation Analyst,9166,Full-time,N/A,"Northbrook, IL",False,4,30
+228,Perennial Resources International,Information Security Analyst,9166,Full-time,Associate,"New York, NY",False,60,116
+229,Turn2Partners,Senior Financial Analyst,9166,Full-time,Mid-Senior level,"Arlington, VA",False,35,75
+230,"Frontdoor, Inc.",Senior Data Analyst,9125,Full-time,Mid-Senior level,"Memphis, TN",False,93,197
+231,University of Kentucky,Evaluation and Data Director,9094,Full-time,Director,"Lexington, KY",False,3,41
+232,Petco,"Sr. Analyst, Analytics",9075,Full-time,Mid-Senior level,"San Diego, CA",False,164,309
+233,Queen Consulting Group,SQL Analyst,8960,Contract,Mid-Senior level,"Augusta, ME",False,68,196
+234,Ace Hardware Corporation,Software Engineering Analyst II,8933,Full-time,Entry level,"Oak Brook, IL",False,8,32
+235,WestEd,Database Analyst,8901,Full-time,Associate,"San Francisco, CA",False,7,82
+236,Prosum,UX/UI Designer - Data Intelligence ,8800,Contract,Mid-Senior level,"Los Angeles, CA",True,154,386
+237,USCTEK,Big Data Software Engineer W2 ONLY,8800,Contract,N/A,"Dearborn, MI",False,6,20
+238,Vaco,EDI Business Analyst,8750,Full-time,Mid-Senior level,"Dallas, TX",False,66,149
+239,Tatum by Randstad,Financial Analyst,8750,Full-time,Director,"Plano, TX",False,97,184
+240,Rahi,Senior Financial Analyst,8750,Full-time,Mid-Senior level,"Fremont, CA",False,46,130
+241,Wyze,Senior Finance Analyst,8750,Full-time,N/A,"Kirkland, WA",False,25,139
+242,KTek Resourcing,Business Analyst,8750,Full-time,Mid-Senior level,"Chicago, IL",False,0,161
+243,Turn2Partners,"Senior Financial Analyst, FP&A ",8750,Full-time,Director,"Arlington, VA",False,39,97
+244,Association of Universities for Research in Astronomy,Scientific Programmer/Data Calibration Engineer,8666,Full-time,Mid-Senior level,"Boulder, CO",False,0,20
+245,Apex Systems,Security Analyst,8640,Contract,Mid-Senior level,"Orlando, FL",False,82,229
+246,Expedia Group,Media Insights & Planning Analyst (US - Contract)    ,8640,Contract,Associate,"Seattle, WA",False,21,122
+247,Defense Company,Senior Program Financial Analyst,8541,Full-time,Executive,"San Diego, CA",False,14,83
+248,Robert Half,Senior Accounting Analyst,8541,Full-time,Associate,"San Ramon, CA",False,19,66
+249,Leeds Professional Resources,Senior SEC Reporting Analyst – Remote Position ,8541,Full-time,Associate,"Florida, United States",True,74,178
+250,Idaho National Laboratory,Export Compliance Analyst,8532,Full-time,Mid-Senior level,"Idaho Falls, ID",False,0,5
+251,Queen Consulting Group,Senior Business Analyst (Production Support),8458,Full-time,Mid-Senior level,"New Haven, CT",True,140,272
+252,Amazon,"Business Analyst, Relay Mobile",8441,Full-time,N/A,"Bellevue, WA",False,50,323
+253,LTIMindtree,Big Data Developer,8333,Full-time,Mid-Senior level,"Atlanta, GA",False,64,209
+254,Delta Dallas,Benefits Analyst-Brokerage,8333,Full-time,Associate,"Dallas, TX",False,12,79
+255,Insight Recruiting,Analyst Financial Advisory,8333,Full-time,Associate,San Francisco Bay Area,False,24,55
+256,My Working Soul,Natural Language Processing (NLP) Data Scientist.,8333,Full-time,N/A,United States,True,0,0
+257,Alexander Technology Group,ERP Business Analyst,8333,Full-time,Mid-Senior level,"Norwood, MA",False,7,25
+258,Kinesso,"Manager, Audience Analytics",8333,Full-time,Mid-Senior level,"New York, United States",False,2,48
+259,Lorien,Analytics Project Manager,8320,Contract,Mid-Senior level,"Irvine, CA",False,53,333
+260,Intelliswift Software,Sr. Payroll Operations Analyst,8320,Contract,Mid-Senior level,"Phoenix, AZ",False,3,20
+261,IBM,IBM Financing Consolidation Accounting Analyst,8166,Full-time,N/A,"Armonk, NY",False,0,0
+262,Advantasure,Business Analyst,8166,Full-time,Mid-Senior level,United States,True,146,500
+263,Insight Global,Senior Business Analyst,8160,Contract,Mid-Senior level,Oklahoma City Metropolitan Area,False,56,200
+264,Seattle Department of Transportation,Senior Human Resources Data Analyst (Senior Management Systems Analyst),8160,Full-time,Mid-Senior level,"Seattle, WA",False,11,97
+265,Virginia Department of Transportation,Senior Management Analyst (Wage),8160,Full-time,Mid-Senior level,"Richmond, VA",False,0,2
+266,"Fairview Search Group, LLC",Financial Analyst,8125,Full-time,Mid-Senior level,"Charlotte, NC",False,78,175
+267,DWS Group,Real Estate Transactions Analyst,8125,Full-time,Associate,"New York, NY",False,219,496
+268,"Milestone Technologies, Inc.",Data Center Lab Technician Tier 2,8083,Full-time,Entry level,"Santa Clara, CA",False,4,35
+269,Prime Team Partners,Data Analytics Specialist,8000,Contract,Associate,"Irvine, CA",False,96,237
+270,iAppsData Inc.,Budget Analyst,8000,Full-time,N/A,"Atlanta, GA",False,5,9
+271,Crossover ,"AI Prompt Engineer, gt.school (Remote) - $100,000/year USD",8000,Full-time,Mid-Senior level,"Bloomington–Normal, IL",True,10,19
+272,First Tech Federal Credit Union,"Capital Markets Financial Modeling Analyst, Senior",8000,Full-time,Mid-Senior level,"Hillsboro, OR",False,0,19
+273,GRAIL,Eligibility Data Analyst # 3219,8000,Full-time,Mid-Senior level,"Menlo Park, CA",False,104,301
+274,Phaxis,Data Integration Engineer- REMOTE,8000,Contract,Associate,United States,True,217,630
+275,Booz Allen Hamilton,"Imagery Analyst, Mid",7975,Full-time,N/A,"Fort Belvoir, VA",False,2,20
+276,Booz Allen Hamilton,Defense Congressional Analyst,7975,Full-time,N/A,"Washington, DC",False,5,73
+277,Booz Allen Hamilton,"Imagery Analyst, Mid",7975,Full-time,N/A,"Las Cruces, NM",False,1,12
+278,Booz Allen Hamilton,ATO Cybersecurity Analyst,7975,Full-time,N/A,"McLean, VA",True,25,147
+279,Booz Allen Hamilton,Data Engineer,7975,Full-time,N/A,"Arlington, VA",False,5,24
+280,Mastercard,Fusion Center Lead Analyst,7958,Full-time,Mid-Senior level,"Missouri, United States",False,1,14
+281,Soni,Marketing Analytics Manager,7916,Full-time,Mid-Senior level,Nashville Metropolitan Area,True,38,255
+282,McMaster-Carr,Product Development Analyst,7916,Full-time,Associate,"Elmhurst, IL",False,20,112
+283,Federal Home Loan Bank of Des Moines,Senior Rental Housing Analyst,7916,Full-time,Mid-Senior level,"Des Moines, IA",False,6,65
+284,Fourth Floor,Production Operations Analyst,7916,Full-time,Associate,New York City Metropolitan Area,False,60,139
+285,"Community Options, Inc.",FV- Board Certified Behavior Analyst (BCBA),7916,Full-time,Executive,"Moonachie, NJ",False,0,1
+286,Ziply Fiber,Senior Business Intelligence Analyst,7916,Full-time,Mid-Senior level,"Everett, WA",False,14,44
+287,Robert Half,Sr. Financial Analyst - Global Public Company,7916,Full-time,Mid-Senior level,"Columbus, Ohio Metropolitan Area",False,28,96
+288,"Career Moves, LLC",Senior SOX Analyst,7916,Full-time,Associate,"Connecticut, United States",False,14,81
+289,KAPITAL,Business Analytics Consultant- Revenue Cycle,7916,Full-time,Mid-Senior level,United States,True,99,476
+290,GE Digital,Implementation Data Engineer,7908,Full-time,Entry level,"North Dakota, United States",True,74,276
+291,Parsons Corporation,Intelligence Analyst,7837,Full-time,Mid-Senior level,"Charlottesville, VA",False,8,94
+292,Ascendient Healthcare Advisors,"Analyst or Senior Analyst, Healthcare Consulting",7833,Full-time,N/A,United States,True,150,402
+293,Gainwell Technologies,Advisor Business Analyst,7804,Full-time,Mid-Senior level,"Gainesville, MS",False,10,44
+294,Catalina Island Conservancy,Senior Grants & Financial Analyst,7791,Full-time,N/A,"Long Beach, CA",False,8,22
+295,Google,"Data Center Facilities Technician, Controls",7791,Full-time,N/A,"Red Oak, TX",False,2,9
+296,Raytheon,Senior Analyst - O&M Field Engineer (onsite),7750,Full-time,Mid-Senior level,"Aurora, CO",False,0,0
+297,Leeds Professional Resources,Senior SEC Reporting Analyst,7708,Full-time,Mid-Senior level,Miami-Fort Lauderdale Area,True,41,109
+298,SPECTRAFORCE,Supply Chain Analyst III,7680,Contract,Mid-Senior level,"Fremont, CA",False,20,76
+299,Edwards Lifesciences,Senior Supply Chain Data Analyst,7666,Full-time,N/A,"Irvine, CA",False,21,122
+300,Blackbaud,Senior Threat Detection Analyst,7591,Full-time,Mid-Senior level,"Colorado, United States",True,0,11
+301,US Tech Solutions,Research Analyst,7520,Contract,Mid-Senior level,"Redmond, WA",False,40,126
+302,ACL Digital,Business Analyst - SAP HR Payroll,7520,Contract,Mid-Senior level,"Austin, TX",False,3,21
+303,Maxar Technologies,Geospatial Operations Analyst - TS with Poly,7500,Full-time,N/A,"Las Cruces, NM",False,3,19
+304,Harvard Maintenance,Human Resources Business Analyst,7500,Full-time,Mid-Senior level,New York City Metropolitan Area,False,7,17
+305,Lendmark Financial Services,Credit Data Analyst II,7500,Full-time,Mid-Senior level,"Lawrenceville, GA",False,149,244
+306,Deering Companies,Real Estate Investment Analyst,7500,Full-time,N/A,"Coral Gables, FL",False,51,152
+307,Körber Supply Chain,Global Information Security Analyst,7500,Full-time,Mid-Senior level,United States,True,93,331
+308,Insight Global,SAP Security Analyst,7416,Contract,Mid-Senior level,"Bryn Mawr, PA",False,28,129
+309,Baylor Scott & White Health,Analytics Developer II Remote,7334,Contract,Entry level,"Dallas, TX",True,6,28
+310,HealthCare Recruiters International,Technical Data Manager - clinical trails ,7291,Full-time,Mid-Senior level,Los Angeles Metropolitan Area,False,0,84
+311,Fourth Floor,"Financial Analyst, Costing",7291,Full-time,Mid-Senior level,New York City Metropolitan Area,False,57,148
+312,Freddie Mac,"Multifamily Underwriting, Sr. Analyst (Risk Distribution & Credit) - Hybrid - 3 days in office - VA",7250,Full-time,Mid-Senior level,"McLean, VA",False,4,30
+313,Hiscox,Pricing Analyst,7208,Full-time,N/A,"New York, NY",False,5,63
+314,GovCIO,OCM Data Analyst (Remote),7208,Full-time,Entry level,"Fairfax, VA",False,47,165
+315,TekWissen ®,Digital Product Analyst,7200,Contract,Associate,"Columbus, OH",False,23,83
+316,Lexicon Solutions,Quality Assurance Analyst,7200,Contract,Mid-Senior level,"Portland, Oregon Metropolitan Area",True,358,657
+317,Volto Consulting,Business Analyst,7200,Contract,N/A,"Austin, Texas Metropolitan Area",False,0,0
+318,Agility Partners,Senior Business Analyst,7200,Contract,Mid-Senior level,United States,True,199,402
+319,Booz Allen Hamilton,Salesforce Business Analyst,7133,Full-time,N/A,"Melbourne, FL",False,14,65
+320,Booz Allen Hamilton,Human Resources Business Performance Analyst,7129,Full-time,N/A,"McLean, VA",False,3,20
+321,Eastridge Workforce Solutions,Payroll Analyst,7083,Full-time,Mid-Senior level,"San Diego, CA",False,16,49
+322,Odoo,Business Systems Analyst (Spanish Fluency),7083,Full-time,Entry level,San Francisco Bay Area,False,5,23
+323,"Community Options, Inc.",Board Certified Behavior Analyst (BCBA),7083,Full-time,Executive,"Columbia, MD",False,0,3
+324,Jobot,"Analyst, Corporate Development",7083,Full-time,Mid-Senior level,"Greenville, SC",True,80,229
+325,DNA Partners,Political Legal Analyst - Law Firm,7083,Full-time,Associate,Washington DC-Baltimore Area,False,33,158
+326,CareFirst BlueCross BlueShield,Financial Analyst (Hybrid),7050,Full-time,Entry level,"Owings Mills, MD",False,2,18
+327,Insight Global,SAP Security Analyst,7041,Full-time,N/A,"Bryn Mawr, PA",False,10,46
+328,LHH,Business Intelligence Developer,7040,Contract,Mid-Senior level,"Florida, United States",True,0,1
+329,Google,"Data Center Technician, Global Server Operations, Machine Learning",7000,Full-time,N/A,"Bridgeport, AL",False,0,9
+330,Google,Data Center Technician,7000,Full-time,N/A,"Pryor, OK",False,6,38
+331,Technology at Arizona State University,Sr. Cybersecurity Analyst,6920,Full-time,Mid-Senior level,"Tempe, AZ",False,8,134
+332,Specialized Recruiting Group - Grand Rapids,Senior Cost Analyst,6875,Full-time,Mid-Senior level,"Grand Rapids, MI",False,4,22
+333,"Community Options, Inc.",Board Certified Behavior Analyst (BCBA),6875,Full-time,Executive,"Chattanooga, TN",False,0,0
+334,"Community Options, Inc.",Board Certified Behavior Analyst (BCBA),6875,Full-time,Executive,"Maryville, TN",False,0,1
+335,"Community Options, Inc.",Board Certified Behavior Analyst (BCBA),6875,Full-time,Executive,"Nashville, TN",False,0,3
+336,Panasonic Avionics Corporation,Supply Chain Analyst II - Hybrid,6833,Full-time,Mid-Senior level,"Bothell, WA",False,34,119
+337,NV Energy,Revenue Requirement & FERC Analyst,6737,Full-time,N/A,"Reno, NV",False,4,39
+338,Akkodis,RPA System Analyst,6720,Contract,N/A,"Jacksonville, FL",True,0,74
+339,V R Della Infotech INC,Senior Financial Analyst,6720,Contract,Mid-Senior level,"Santa Monica, CA",False,21,80
+340,US Tech Solutions,Market Intelligence Analyst,6720,Contract,Mid-Senior level,"Beaverton, OR",False,0,69
+341,"Akraya, Inc.",Insights Analyst,6720,Contract,N/A,"San Francisco, CA",True,58,149
+342,T-Mobile,Senior Financial Analyst,6720,Part-time,Mid-Senior level,"Bellevue, WA",False,3,12
+343,ML OUTSOURCING SERVICES PRIVATE LIMITED,Treasury Analyst,6720,Contract,Mid-Senior level,Washington DC-Baltimore Area,True,0,143
+344,Milliman,Healthcare Data Analyst,6716,Full-time,Mid-Senior level,"San Diego, CA",False,19,91
+345,Global Data Management Inc,Big Data Developer- W2 Contract Only,6666,Contract,N/A,"Woodbridge, NJ",True,0,101
+346,Adecco Search,Procurement Analyst,6666,Full-time,Associate,"Downey, CA",False,16,46
+347,LHH,Operations Analyst,6666,Full-time,Associate,"Federal Way, WA",False,7,21
+348,Cetera Financial Group,Sr. Financial Analyst,6666,Full-time,Mid-Senior level,"El Segundo, CA",False,0,14
+349,Lucid Consulting Group,Senior Financial Analyst,6666,Contract,N/A,United States,True,0,357
+350,MarketAxess,Senior Analyst,6666,Full-time,Mid-Senior level,"New York, NY",False,14,79
+351,GHX,Revenue Cycle Systems Analyst,6625,Contract,Entry level,United States,True,45,311
+352,Constellation,"Analyst, Compensation Operations",6600,Full-time,Mid-Senior level,United States,True,0,0
+353,Constellation,"Analyst, Compensation Operations",6600,Full-time,Mid-Senior level,"Chicago, IL",False,0,0
+354,Gainwell Technologies,Senior Professional Business Analyst,6566,Full-time,Mid-Senior level,"Kentucky, United States",False,0,0
+355,eTeam,Financial Analyst,6560,Contract,Associate,"Ridgefield, CT",False,29,73
+356,HCLTech,SAS Analyst,6500,Full-time,Associate,"San Antonio, Texas Metropolitan Area",False,53,135
+357,Sumitomo Mitsui Banking Corporation,Sustainability Analyst,6500,Full-time,N/A,"New York, NY",False,60,254
+358,Sumitomo Mitsui Banking Corporation,Corporate Citizenship - Analyst,6500,Full-time,N/A,"New York, NY",False,15,87
+359,Under Armour,Allocation Analyst,6412,Full-time,Entry level,"Baltimore, MD",False,44,256
+360,Russell Tobin,Product Analyst,6400,Contract,Mid-Senior level,"Columbus, Ohio Metropolitan Area",False,31,96
+361,AccessHope,Oncology Data Abstractor,6400,Full-time,N/A,United States,True,41,235
+362,ASK Consulting,Associate Data Analyst - Analytics and Insights,6400,Contract,Mid-Senior level,"Morris Plains, NJ",False,0,256
+363,Driven Brands Inc.,Procurement Analyst - US Glass,6329,Full-time,Mid-Senior level,"Benicia, CA",False,10,28
+364,"Flight Centre Travel Group, The Americas","Wholesale Business Analyst - Montvale, NJ (Hybrid)",6250,Full-time,N/A,"Montvale, NJ",False,13,29
+365,Federal Home Loan Bank of Des Moines,Senior Homeownership Analyst,6250,Full-time,Mid-Senior level,"Des Moines, IA",False,5,61
+366,Quest Financial,Payroll Analyst,6250,Full-time,Mid-Senior level,"Chandler, AZ",False,18,54
+367,healthPrecision,Application Analyst,6250,Full-time,N/A,New York City Metropolitan Area,False,39,120
+368,Zippy,Senior Accounting Analyst (Liabilities/AP),6250,Full-time,Mid-Senior level,"Dallas, TX",False,0,2
+369,Caris Life Sciences,Clinical Data Monitor I,6250,Full-time,Entry level,"Nevada, United States",True,0,15
+370,Caris Life Sciences,Clinical Data Monitor I,6250,Full-time,Entry level,"Florida, United States",True,0,50
+371,Caris Life Sciences,Clinical Data Monitor I,6250,Full-time,Entry level,"Iowa, United States",True,0,13
+372,Caris Life Sciences,Clinical Data Monitor I,6250,Full-time,Entry level,"Colorado, United States",True,0,25
+373,Caris Life Sciences,Clinical Data Monitor I,6250,Full-time,Entry level,"Louisiana, United States",True,0,11
+374,Caris Life Sciences,Clinical Data Monitor I,6250,Full-time,Entry level,"Tennessee, United States",True,0,27
+375,Caris Life Sciences,Clinical Data Monitor I,6250,Full-time,Entry level,"California, United States",True,0,79
+376,Caris Life Sciences,Clinical Data Monitor I,6250,Full-time,Entry level,"Arizona, United States",True,0,23
+377,Caris Life Sciences,Clinical Data Monitor I,6250,Full-time,Entry level,"Arkansas, United States",True,0,9
+378,Mastercard,"Quality Analyst, Attribution SCI0118",6250,Full-time,Mid-Senior level,"Goodland, KS",False,3,11
+379,Mastercard,"Quality Analyst, Attribution SCI0118",6250,Full-time,Mid-Senior level,"Missouri, United States",False,2,22
+380,Flight Centre Travel Group,"Wholesale Business Analyst - Montvale, NJ (Hybrid)",6250,Full-time,Mid-Senior level,"Montvale, NJ",False,25,94
+381,Freddie Mac,Multifamily Real Estate Analyst,6250,Full-time,Entry level,"McLean, VA",False,29,156
+382,"IDR, Inc.",GIS Technical Analyst,6240,Contract,Mid-Senior level,"Atlanta, GA",False,0,65
+383,Cypress HCM,Deal Desk Analyst 2,6240,Contract,Associate,"San Jose, CA",False,18,105
+384,Robert Half,HR System Analyst,6240,Full-time,Associate,"Hillsboro, OR",False,18,80
+385,The Mom Project,Senior Financial Analyst,6240,Contract,Mid-Senior level,"Santa Monica, CA",False,2,59
+386,California Department of Industrial Relations,Enforcement Complaint Analyst,6212,Full-time,Associate,"Santa Ana, CA",False,23,156
+387,California Department of Toxic Substances Control,ASSOCIATE GOVERNMENTAL PROGRAM ANALYST,6212,Full-time,Entry level,"Sacramento, CA",False,2,9
+388,California Governor's Office of Emergency Services,Legislative Analyst,6212,Full-time,Associate,"Sacramento, CA",False,0,22
+389,California Governor's Office of Emergency Services,Associate Governmental Program Analyst,6212,Full-time,Associate,"Sacramento, CA",False,0,10
+390,California Governor's Office of Business and Economic Development (GO-Biz),Telework Option - Media Analyst,6212,Full-time,Entry level,"Sacramento, CA",True,23,241
+391,Adecco Search,AR Analyst ,6169,Full-time,Associate,"Oakland County, MI",False,28,63
+392,Lee Kum Kee USA,Business Analyst,6083,Full-time,N/A,"City of Industry, CA",False,11,25
+393,ENGIE North America Inc.,Total Rewards Analyst,6083,Full-time,Mid-Senior level,"Houston, TX",False,2,26
+394,TekStream Solutions,Budget and Financial Analyst ,5958,Full-time,Associate,"Washington, DC",False,8,38
+395,"Pinnacle Group, Inc.",Business Analyst/Data Remediation,5920,Contract,Associate,"Charlotte, NC",False,71,214
+396,Yuma Regional Medical Center,Compensation Analyst,5916,Full-time,Associate,"Greater Yuma, AZ Area",False,10,29
+397,Lincoln Financial Group,"Specialist, Investment Analytics",5904,Full-time,N/A,"Charlotte, NC",False,4,17
+398,Caris Life Sciences,Clinical Data Coordinator I,5833,Full-time,Entry level,"Wyoming, United States",True,0,36
+399,Caris Life Sciences,Clinical Data Coordinator I,5833,Full-time,Entry level,"Georgia, United States",True,0,120
+400,Parkside Financial Bank & Trust,Wealth Management Financial Analyst,5833,Full-time,Mid-Senior level,"Denver, CO",False,38,170
+401,The Scotts Miracle-Gro Company,"Senior Analyst, Sales",5829,Full-time,Mid-Senior level,"Bentonville, AR",False,6,33
+402,DISH Network,New Grad - Data Analyst II,5808,Full-time,Mid-Senior level,"Englewood, CO",False,368,822
+403,The Mom Project,Function/Automation Analyst,5760,Contract,Mid-Senior level,"Englewood, CO",False,4,34
+404,Quanex,Master Data Analyst ,5693,Full-time,Associate,"Akron, OH",False,112,174
+405,Richmond American Homes,National Purchasing Analyst,5625,Full-time,N/A,"Denver, CO",False,3,11
+406,Odoo,ERP Business Analyst,5625,Full-time,Entry level,Buffalo-Niagara Falls Area,False,16,39
+407,Louisiana Department of Health,MEDICAID ANALYST SUPERVISOR,5623,Full-time,Mid-Senior level,"Alexandria, LA",False,0,6
+408,Acer,Credit Control Analyst (Temporary) ,5600,Full-time,Mid-Senior level,"San Jose, CA",False,21,118
+409,"Nuveen, a TIAA company",Distribution Analyst,5600,Full-time,N/A,"Chicago, IL",False,0,0
+410,"Nuveen, a TIAA company",Distribution Analyst,5600,Full-time,N/A,"Los Angeles, CA",False,0,0
+411,YUPRO Placement,Data Optimization Analyst,5600,Full-time,Associate,"San Fernando, CA",False,102,237
+412,Soni,Marketing Analytics Coordinator,5541,Full-time,Associate,"Nashville, TN",False,24,113
+413,Labcorp,RCM Data Analyst,5524,Full-time,Entry level,"Burlington, NC",False,66,146
+414,NYU Langone Health,Pharmacy Business & Analytics Coordinator,5517,Full-time,N/A,"New York, NY",False,2,15
+415,Blend360,Implementation Analyst,5440,Contract,Associate,United States,True,76,424
+416,Aditi Consulting,AML Compliance Analyst,5440,Contract,Associate,"Austin, TX",False,30,96
+417,The Select Group,Business Intelligence Analyst,5440,Contract,Associate,"Orlando, FL",True,219,520
+418,TeeTurtle,Marketing Analyst,5416,Full-time,N/A,United States,True,115,514
+419,U&I Entertainment,Deductions Analyst,5416,Full-time,N/A,Greater Minneapolis-St. Paul Area,False,21,119
+420,Ztek Consulting,Procurement Analyst,5416,Contract,Mid-Senior level,"Irvine, CA",False,66,164
+421,Honest Game,Enterprise Data Specialist,5416,Full-time,N/A,Greater Chicago Area,True,6,21
+422,CGI,Business Analyst – Entry Level,5341,Full-time,Mid-Senior level,"Charleston, SC",False,81,309
+423,Advantasure,Medicare Enrollment Business Analyst,5333,Full-time,Mid-Senior level,United States,True,52,246
+424,NYU Langone Health,Accounts Payable Systems Analyst,5330,Full-time,N/A,"Bethpage, NY",False,0,10
+425,Rang Technologies Inc,Trade Compliance Analyst,5280,Contract,N/A,"Houston, TX",False,0,38
+426,RSM US LLP,Business Intelligence Consulting Intern - Summer 2024,5280,Full-time,N/A,"Dallas, TX",False,3,18
+427,Ohio Department of Mental Health & Addiction Services,Hybrid - Senior Financial Analyst,5280,Full-time,Mid-Senior level,"Columbus, OH",False,1,6
+428,Collabera,Data Center Technician/ HVAC Technician,5280,Full-time,Entry level,"Hilliard, OH",False,0,19
+429,Georgia Institute of Technology,Financial Analyst II (SEAL CCRF Research and Grants Financial Analyst II),5205,Full-time,Entry level,"Smyrna, GA",False,2,23
+430,The Johns Hopkins University,Budget Analyst,5133,Full-time,Entry level,Washington DC-Baltimore Area,False,44,111
+431,SSi People,Data Analyst,5120,Contract,Associate,"Oklahoma City, OK",False,0,350
+432,Metropolitan Transportation Authority,Pension Operations Analyst (TCU),5013,Other,Mid-Senior level,"New York, NY",False,2,13
+433,Creative Financial Staffing (CFS),Pricing Analyst,5000,Full-time,Mid-Senior level,"Kenosha, WI",False,31,81
+434,CrossCountry Freight Solutions,Pricing Analyst,5000,Full-time,Mid-Senior level,"Salt Lake City, UT",False,0,0
+435,EPITEC,Business Analyst,4960,Contract,Associate,"Lyon, MI",False,62,221
+436,Magnit,Financial Analyst,4960,Contract,Mid-Senior level,"Corning, NY",False,36,107
+437,LHH,Software Analyst,4640,Contract,Mid-Senior level,"Oakland, CA",False,25,104
+438,Apex Systems,(Night Shift) Maritime Diesel Engine Analyst,4640,Contract,N/A,"Houston, TX",False,4,76
+439,BayOne Solutions,Datacenter Analyst,4640,Contract,N/A,"Columbus, OH",False,54,15
+440,Ohio Department of Public Safety,Data Quality Assurance Coordinator (Hybrid Eligible),4640,Full-time,Entry level,"Columbus, OH",False,3,29
+441,E-Solutions,Quality Analyst,4583,Full-time,N/A,"Thousand Oaks, CA",False,7,57
+442,COOP Ale Works,Business Intelligence Analyst,4583,Full-time,N/A,"Oklahoma City, OK",False,0,9
+443,Technology Navigators,"Underwriting Technician - Data Entry, Medical/Insurance",4583,Contract,Associate,"Austin, TX",False,5,29
+444,MasTec Communications Group,Proposal Coordinator / Business Analyst,4583,Full-time,Entry level,United States,True,84,346
+445,Randstad Life Sciences US,Microbiology Analyst,4500,Full-time,Associate,"Vernon Hills, IL",False,19,70
+446,Planet Forward,Geographic Information Systems Analyst,4480,Contract,Associate,"Glen Allen, VA",False,21,85
+447,Feet First Partners - Franchisee of The Good Feet Store,Retail Video Analyst,4375,Full-time,N/A,"Portsmouth, NH",False,0,61
+448,Activ8 Recruitment & Solutions,Marketing Research Analyst - Manufacturer (33351) ,4375,Full-time,Associate,"Brentwood, TN",False,12,25
+449,Collective Health,Eligibility Analyst,4320,Full-time,Entry level,"Lehi, UT",False,12,52
+450,BayOne Solutions,Datacenter Analyst,4320,Contract,N/A,"Columbus, OH",False,1,9
+451,IST Management,Network Analyst - IT Help Desk,4291,Full-time,Entry level,"Atlanta, GA",False,23,69
+452,CTG,Document Control Analyst,4166,Contract,Associate,"Whiting, IN",False,13,126
+453,Finsight Group Inc (FINSIGHT),Client & Operational Support Analyst,4166,Full-time,N/A,"Miami, FL",False,12,132
+454,Insight Global,Business Operations Analyst ,4160,Full-time,Associate,United States,True,0,1113
+455,Solugenix,Accounting Analyst,4160,Contract,Mid-Senior level,"Scottsdale, AZ",True,65,229
+456,Louisiana Department of Health,Budget Analyst 1-3,4122,Full-time,Mid-Senior level,"Baton Rouge, LA",False,0,22
+457,SEI,"Operations Analyst, FOS Portfolio Reconciliation",4114,Full-time,Mid-Senior level,"Denver, CO",False,0,0
+458,Dexian,Commercial Lending Financial Analyst,4000,Full-time,Entry level,"Newark, DE",False,18,60
+459,"Akraya, Inc.",Procurement Analyst-IC1: 23-02240,4000,Contract,Entry level,Atlanta Metropolitan Area,True,43,114
+460,Main Street America,Associate Research Analyst,4000,Full-time,Associate,United States,True,307,1228
+461,Randstad USA,Procurement Analyst,4000,Contract,Associate,"Altamonte Springs, FL",False,23,84
+462,"Berean Group International, Inc.",Accounting Analyst,4000,Contract,Mid-Senior level,United States,True,0,54
+463,Louisiana Department of Health,MEDICAID ANALYST 1-2,3928,Full-time,Entry level,"Monroe, LA",False,3,15
+464,Akkodis,Dealer Parts Support Analyst,3875,Full-time,Associate,United States,True,35,161
+465,Brooksource,Information Technology Security Analyst,3840,Full-time,Associate,"Indianapolis, IN",False,36,131
+466,"The Administration, a division of Mathys+Potestio",Merchandising Information Analyst,3840,Contract,Associate,"Beaverton, OR",False,3,27
+467,LHH,Data Specialist,3840,Full-time,Entry level,"Beaverton, OR",False,6,26
+468,Robert Half,Security Access Management Analyst ,3680,Full-time,Entry level,"Pittsburgh, PA",False,39,127
+469,Insight Global,Financial Accounting Analyst,3680,Full-time,Mid-Senior level,"Kissimmee, FL",False,10,42
+470,"LanceSoft, Inc.",Analytical Chemist,3680,Contract,Associate,"Chesterfield, MO",False,19,78
+471,Pacific Premier Bank,Bank Quality Control Analyst - New Account Quality Control Analyst,3680,Full-time,Entry level,"Irvine, CA",False,2,9
+472,Insight Global,Data Analyst,3520,Contract,Entry level,"Beaverton, OR",False,0,99
+473,Eurofins Lancaster Laboratories,"Analyst, Eurofins Environment Testing, Air Toxics, Folsom, CA",3520,Full-time,Entry level,"Folsom, CA",False,0,0
+474,Hansen Talent Group (HTG),Tech Support Analyst,3520,Full-time,Associate,"Atlanta, GA",False,15,24
+475,Navan,Workforce Management Real-Time Analyst,3516,Full-time,Mid-Senior level,United States,True,59,329
+476,"Zillion Technologies, Inc.",HR Shared Services / HR Analyst / Human Resources Analyst  ( Once a week Onsite required),3360,Contract,Mid-Senior level,"Pensacola, FL",False,0,30
+477,HelpWelp,Remote Data Entry Clerk,3360,Full-time,N/A,United States,True,1,2
+478,HelpWelp,Remote Data Entry Clerk,3360,Full-time,N/A,United States,True,0,0
+479,Novelis,HR Intern: Global DEI Analytics,3360,Internship,Internship,"Atlanta, GA",False,19,105
+480,Career Group,Temporary Operations Analyst,3200,Temporary,Entry level,"Albany, New York Metropolitan Area",False,2,31
+481,CampusPoint,Data Entry Assistant,3200,Full-time,Entry level,"Lynnwood, WA",False,0,158
+482,Insight Global,Data Entry Specialist,3200,Contract,Entry level,"Burbank, CA",False,10,35
+483,FirstService Residential Florida,Corporate Payment Application Analyst,3200,Full-time,Mid-Senior level,"Aventura, FL",False,0,2
+484,University of Virginia,CASTL Wage Data Collector,3200,Part-time,N/A,"Virginia, United States",True,4,49
+485,Akkodis,Data Entry Processing/Customer Service Representative,3040,Contract,Associate,"Phoenix, AZ",False,11,61
+486,Global Payments Inc.,Operations Analyst,3040,Full-time,Mid-Senior level,Salt Lake City Metropolitan Area,False,9,58
+487,CGI,Legal Assistant (Management Analyst I),3040,Full-time,Entry level,"Fort Worth, TX",False,3,30
+488,Insight Global,Financial Services Data Entry,2880,Contract,Associate,"Phoenix, AZ",False,3,64
+489,Encore Technologies,Service Desk Analyst (Weekday 3rd shift),2880,Full-time,Entry level,"Cincinnati, OH",False,5,45
+490,Charter Global,Data Entry Clerk,2880,Contract,Mid-Senior level,"Fairfax, VA",False,45,151
+491,The HT Group,Data Entry/Office Clerk,2880,Full-time,N/A,"Orange, TX",False,17,129
+492,Randstad,Call Center Data Entry Specialist,2560,Contract,Associate,United States,True,0,408
+493,"The Aubrey Group, LLC",Grants Research Analyst Intern,2400,Internship,N/A,"Camden, NJ",False,8,69
+494,Appen,Search Engine Analyst,2240,Part-time,N/A,"Middlesex County, NJ",True,0,2
+495,Appen,Search Engine Analyst,2240,Part-time,N/A,"Union County, NJ",True,0,2
+496,Appen,Search Engine Analyst,2240,Part-time,N/A,"Hudson County, NJ",True,1,7
+497,Appen,Search Engine Analyst,2240,Part-time,N/A,"Suffolk City County, VA",True,2,5
+498,Appen,Search Engine Analyst,2240,Part-time,N/A,"North Bergen, NJ",True,0,6
+499,Appen,Search Engine Analyst,2240,Part-time,N/A,"Passaic, NJ",True,0,9
+500,Appen,Search Engine Analyst,2240,Part-time,N/A,"New Jersey, United States",True,1,3
+501,Appen,Search Engine Analyst,2240,Part-time,N/A,"Newark, TX",True,3,12
+502,Appen,Search Engine Analyst,2240,Part-time,N/A,"Oklahoma, United States",True,0,4
+503,Appen,Search Engine Analyst,2240,Part-time,N/A,"Bergenfield, NJ",True,1,8
+504,Appen,Search Engine Analyst,2240,Part-time,N/A,"Bristol County, MA",True,2,12
+505,Appen,Search Engine Analyst,2240,Part-time,N/A,"Bergen County, NJ",True,1,1
+506,Appen,Search Engine Analyst,2240,Part-time,N/A,"South Dakota, United States",True,2,4
+507,Appen,Search Engine Analyst,2240,Part-time,N/A,"Passaic County, NJ",True,0,3
+508,Appen,Search Engine Analyst,2240,Part-time,N/A,"Essex County, NJ",True,1,6
+509,Appen,Search Engine Analyst,2240,Part-time,N/A,"Arkansas, United States",True,1,4
+510,Appen,Search Engine Analyst,2240,Part-time,N/A,"Philadelphia, PA",True,2,21
+511,Advance Auto Parts,AI District 23 - Store Hourly,2080,Full-time,Entry level,"Raynham, MA",False,0,0
+512,Advance Auto Parts,AI District 04 - Store Hourly,1760,Full-time,Entry level,"Middletown, CT",False,0,0
+513,eBusiness Technologies Corp.,Senior Business Intelligence Developer,10,Contract,Executive,"McKinney, TX",False,41,155
+514,"Solari, Inc.","Manager, Data and Reporting",9,Full-time,N/A,United States,True,43,458
+515,Tata Consultancy Services,Gaming Business Analyst ,8,Full-time,Mid-Senior level,"Bellevue, WA",False,71,260
+516,The Judge Group,Quality Assurance Analyst,4,Contract,Mid-Senior level,"Charlotte, NC",False,47,99
+517,ACL Digital,Data Analyst,3,Contract,Associate,"Oklahoma City, OK",False,0,148
+518,LHH,Senior Business Process Analyst,3,Contract,Mid-Senior level,"Florida, United States",True,0,0
+519,Magnify,Contract & Pricing Analyst,2,Contract,Associate,"Georgia, United States",True,91,303
+520,RaceTrac,Tax Analyst,0,Full-time,Entry level,"Atlanta, GA",False,0,0
+521,"Sapience, Inc",Teradata Developer,0,Contract,N/A,United States,True,13,56
+522,AWP Safety,Sr. Financial Analyst,0,Full-time,Associate,"Dallas, TX",False,65,142
+523,"Universal Screen Arts, Inc.",Seasonal Payroll/Data Entry Clerk,0,Temporary,N/A,"Hudson, OH",False,55,325
+524,TriState Capital Bank,Enterprise Business Analyst,0,Full-time,Mid-Senior level,Greater Pittsburgh Region,False,192,323
+525,TQI Solutions,Principal Analyst CNAF,0,Full-time,N/A,"Norfolk, VA",False,3,62
+526,Huhtamaki,Financial Analyst,0,Full-time,N/A,"Fulton, NY",False,33,124
+527,Cambria,CRM & Sales Enablement Analyst,0,Full-time,Associate,"Eden Prairie, MN",False,33,249
+528,DiLytics,Data Analytics Consultant,0,Full-time,N/A,"Sacramento, CA",True,7,26
+529,Ethos BeathChapman,NEW & REMOTE CONTRACT - PRINCIPAL CONSULTANT / IBM Planning Analytics / Cognos TM1 Practice Lead ,0,Contract,Mid-Senior level,United States,True,0,3
+530,Private Consultancy,IBM TM1 / Planning Analytics Consultants,0,Full-time,Mid-Senior level,United States,True,0,14
+531,OCLC,Senior Business Systems Analyst,0,Full-time,N/A,"Dublin, OH",False,0,17
+532,TekValue IT Solutions,Azure Data Engineer,0,Contract,N/A,United States,True,311,534
+533,AutoNation,Compliance Analyst,0,Full-time,Associate,Miami-Fort Lauderdale Area,False,9,81
+534,The START Center for Cancer Care,Clinical Research Budget Analyst,0,Full-time,N/A,"San Antonio, TX",False,5,25
+535,Premier International,Senior Oracle HCM Data & Technology Consultant,0,Full-time,N/A,Greater Chicago Area,True,45,116
+536,Avis Budget Group,Sr. Financial Analyst,0,Full-time,Mid-Senior level,"Parsippany, NJ",False,24,78
+537,Falcon Smart IT (FalconSmartIT),Senior Programmer/Analyst,0,Contract,Mid-Senior level,"Maryland, United States",True,0,90
+538,Tech Mahindra,Service Desk Analyst,0,Full-time,Mid-Senior level,"Plano, TX",False,72,170
+539,eTeam,Salesforce business Analyst only Local,0,Contract,N/A,"Sunnyvale, CA",False,0,43
+540,Saransh Inc,SAP Master Data Consultants,0,Contract,N/A,"Dallas, TX",True,0,43
+541,PRI Global,Supply Chain Analyst,0,Contract,Mid-Senior level,"Fremont, CA",False,35,140
+542,Mastech Digital,Business Analyst- Healthcare,0,Full-time,Mid-Senior level,United States,True,273,740
+543,"Tanisha Systems, Inc",Epic Resolute PB/Claims Analyst,0,Full-time,N/A,United States,True,0,4
+544,Sud Recruiting,"Strategic Pricing, Senior Analyst",0,Full-time,Mid-Senior level,Dallas-Fort Worth Metroplex,False,0,103
+545,Pactiv Evergreen Inc.,Data analyst II,0,Full-time,N/A,"Lake Forest, IL",False,49,114
+546,W3Global,Business Analyst - W2 Only,0,Contract,N/A,"Louisville, KY",False,0,63
+547,KnowledgeBank,Management Analyst (Talent Acquisition),0,Full-time,N/A,United States,True,49,186
+548,DUAL North America,"Business Analyst, Property  ",0,Full-time,Associate,United States,True,285,725
+549,"Zillion Technologies, Inc.",Artificial Intelligence (AI) Strategist  - 100% REMOTE ROLE,0,Contract,Mid-Senior level,United States,True,71,231
+550,SysMind,Data Architect,0,Contract,N/A,"Juno Beach, FL",False,0,30
+551,1 POINT SYSTEM LLC,Applications Analyst Programmer-Snowflake (W2),0,Contract,N/A,"Charlotte, NC",False,0,22
+552,Vaco,Financial Analyst,0,Full-time,Mid-Senior level,"Crawfordsville, IN",False,28,63
+553,TechTriad,Senior Business Intelligence Engineer,0,Contract,N/A,"Winston-Salem, NC",False,11,78
+554,Sud Recruiting,Head of Data Science,0,Full-time,Director,Charlotte Metro,False,43,133
+555,Lakeside Partners,Senior Analyst,0,Full-time,N/A,"Seattle, WA",False,0,1
+556,Vision Technology Services,Data Scientist,0,Contract,Mid-Senior level,"Baltimore, MD",False,141,347
+557,Exelon,Network Cloud Solution Analyst,0,Full-time,Mid-Senior level,"Baltimore, MD",False,2,17
+558,Spark Foundry,"Senior Analyst, Precision (New Client)",0,Full-time,N/A,"Chicago, IL",False,4,20
+559,Exelon,Network Cloud Solution Analyst,0,Full-time,Mid-Senior level,"Washington, DC",False,1,11
+560,Truity Partners,Senior Financial Analyst (38577),0,Full-time,Mid-Senior level,"Rosemont, IL",False,13,36
+561,Apexon,PMO Analyst,0,Full-time,N/A,"Nashville, TN",False,0,20
+562,Yochana IT Solutions INC,SFDC Data Architect,0,Contract,N/A,"Austin, TX",False,0,17
+563,eStaff LLC,Senior System Analyst,0,Contract,N/A,United States,True,0,1
+564,Titan Electric Southeast,Operations Analyst,0,Full-time,N/A,"Tampa, FL",False,34,139
+565,MSRcosmos LLC,Senior Data Analyst,0,Contract,N/A,"Dallas, TX",False,0,19
+566,Photon,Product Analyst,0,Contract,Mid-Senior level,"Alpharetta, GA",False,47,145
+567,Shipley Do-Nuts,Supply Chain Analyst,0,Full-time,Mid-Senior level,"Houston, TX",False,112,262
+568,Cerity Partners,Jr. Financial Analyst,0,Full-time,Associate,"Cleveland, OH",False,44,150
+569,VDart,Data Engineer/SQL Developer,0,Contract,N/A,"Morrisville, PA",False,0,150
+570,"Gresham Partners, LLC",Business Intelligence Developer,0,Full-time,N/A,"Chicago, IL",False,41,85
+571,Hirexa Solutions,Data Engineer(Must be local to GA),0,Contract,N/A,"Atlanta, GA",False,0,126
+572,Resource Logistics Inc.,Data Steward,0,Contract,N/A,"Piscataway, NJ",False,9,33
+573,John Deere,Senior Data Architect,0,Full-time,Mid-Senior level,Des Moines Metropolitan Area,False,15,74
+574,"Levi, Ray & Shoup, Inc. (LRS)",Azure Data Engineer,0,Contract,Entry level,"Nashville, TN",True,0,80
+575,The CARIAN Group,Data Scientist – (Remote),0,Full-time,Associate,"New York, United States",True,577,1334
+576,Sanhua International USA,Tax Analyst,0,Full-time,N/A,"Houston, TX",False,5,39
+577,Loxo@Lilly,"Contractor-Laboratory Capabilities, Clinical Data Management (Consultant)",0,Contract,Mid-Senior level,United States,True,27,174
+578,"Stellar Consulting Solutions, LLC",Trace Link Analyst,0,Contract,Mid-Senior level,United States,True,0,144
+579,"LanceSoft, Inc.",Trade Compliance Analyst,0,Contract,N/A,"Houston, TX",False,10,37
+580,"ICONIC Infosys, Inc",ServiceNow Business Analyst,0,Contract,N/A,United States,True,51,168
+581,MethodHub,Data Analyst,0,Full-time,N/A,United States,True,53,193
+582,Vaco,Senior Financial Analyst,0,Full-time,Mid-Senior level,"Atlanta, GA",False,35,100
+583,Exelon,Network Cloud Solution Analyst,0,Full-time,Mid-Senior level,"Newark, DE",False,0,11
+584,Wave Digital Assets,Middle Office Analyst,0,Full-time,N/A,Los Angeles Metropolitan Area,False,69,233
+585,Ztek Consulting,Data Scientists / AIML Engineer,0,Contract,Mid-Senior level,"Charlotte, NC",False,116,333
+586,Paladin Consulting,IT Compliance Analyst,0,Full-time,N/A,"Katy, TX",False,53,131
+587,Spark Foundry,"Senior Vice President, Analytics (New Client)",0,Full-time,N/A,"Chicago, IL",False,20,157
+588,Jewelers Mutual Group,Customer Care Quality Analyst,0,Full-time,Associate,"Neenah, WI",False,8,47
+589,Sud Recruiting,"Marketing Sciences, Data Scientist",0,Full-time,Mid-Senior level,United States,True,170,525
+590,San Manuel Band of Mission Indians,Senior Compensation Analyst,0,Full-time,Mid-Senior level,"Highland, CA",False,3,50
+591,UST,Remote : Senior Business Analyst : Healthcare Billing Exp,0,Full-time,Entry level,"Virginia, United States",True,0,191
+592,St. John Knits,CRM Marketing Analyst,0,Full-time,Associate,"Irvine, CA",False,67,220
+593,US Tech Solutions,GIS Technology Analyst / Land Technology Analyst,0,Contract,Mid-Senior level,"Atlanta, GA",False,14,62
+594,Chancelight Education,Board Certified Behavior Analyst (BCBA) → $2000 Sign-on Bonus!,0,Full-time,Mid-Senior level,"Columbus, GA",False,0,4
+595,Exelon,Network Cloud Solution Analyst,0,Full-time,Mid-Senior level,"Chicago, IL",False,4,25
+596,XDuce,"Murex BO/MXML Consultant : Chicago, IL/Toronto, ON | Hybrid",0,Contract,N/A,"Chicago, IL",False,5,20
+597,Smart IT Frame LLC,Business Analysts with Logistics Management,0,Contract,Mid-Senior level,"Fort Wayne, IN",False,0,103
+598,CA-One Tech Cloud Inc,Test Data management,0,Contract,N/A,Washington DC-Baltimore Area,True,0,42
+599,HIC Global Solutions ,Teradata Developer,0,Contract,N/A,"Charlotte, NC",False,0,45
+600,OBXtek,"Acquisition Program Analyst, Sr - 5518",0,Full-time,Mid-Senior level,"Arlington, VA",False,0,33
+601,Insight Global,SAP Security Analyst,0,Full-time,Mid-Senior level,"Bryn Mawr, PA",False,29,122
+602,VDart,GCP Data Architect/Lead,0,Contract,N/A,"Milwaukee, WI",False,0,27
+603,nextgen,Business Analyst,0,Contract,N/A,"Austin, TX",True,0,172
+604,REI,Commercial Performance Senior Analyst,0,Full-time,Associate,Greater Seattle Area,False,48,269
+605,"Sunrise Systems, Inc.",SAP/Master Data Specialist,0,Contract,Mid-Senior level,"Ayer, MA",False,8,63
+606,"American Honda Motor Company, Inc.",Data Management Lead,0,Full-time,Mid-Senior level,"Marysville, OH",False,5,91
+607,Brooksource,Senior Business Analyst,0,Contract,Mid-Senior level,United States,True,415,843
+608,Sibitalent Corp,Hiring for Informatica Data Quality Developer || 100% Remote,0,Contract,N/A,"Texas, United States",True,0,131
+609,Outworx Group,Financial Planning Analyst,0,Full-time,Associate,"Elgin, IL",False,24,74
+610,TekWissen ®,Enterprise Data Architect,0,Contract,N/A,United States,True,0,72
+611,Falcon Smart IT (FalconSmartIT),Business Analyst,0,Contract,Mid-Senior level,United States,True,0,340
+612,Exelon,Network Cloud Solution Analyst,0,Full-time,Mid-Senior level,"Philadelphia, PA",False,0,10
+613,Exelon,Network Cloud Solution Analyst,0,Full-time,Mid-Senior level,"Oakbrook Terrace, IL",False,1,25
+614,eStaff LLC,Time and Attendance Systems Analyst -UKG,0,Contract,N/A,United States,True,0,84
+615,Quantum World Technologies Inc.,Azure data architect,0,Contract,N/A,"North Carolina, United States",True,0,40
+616,VDart,GCP Data Lead,0,Contract,N/A,"Milwaukee, WI",False,0,26
+617,LS Direct,Data Analyst,0,Full-time,Entry level,"Suffern, NY",False,500,724
+618,"Zodiac Solutions, Inc",Senior Data Engineer,0,Full-time,N/A,"Wilmington, DE",False,0,40
+619,Techswitch LLC,Murex Business Analyst,0,Contract,N/A,"Piscataway, NJ",False,11,72
+620,Mastech Digital,Business Analyst - Principal,0,Contract,Mid-Senior level,"Lakeland, FL",True,0,297
+621,Sud Recruiting,"Data Science, Senior Director",0,Full-time,Director,Charlotte Metro,False,35,108
+622,ATC,"Data Project Manager (PMP, GIS, Cloud, Data Management)",0,Contract,Mid-Senior level,"Richmond, VA",False,0,50
+623,Diverse Lynx,Telecom Business Analyst  (Telecom Domain with Root Cause Experience ),0,Contract,N/A,United States,True,0,38
+624,itel,Roofing/Siding Analyst,0,Full-time,Associate,"Jacksonville, FL",False,5,29
+625,OBXtek,"Legislative Analyst, Sr - 5592",0,Full-time,Mid-Senior level,"Arlington, VA",False,6,60
+626,"Service Global, Inc.",Business Analyst/ Tableau Developer,0,Contract,N/A,"Malvern, PA",False,36,94
+627,BayOne Solutions,Help Desk Analyst,0,Contract,Entry level,"San Francisco, CA",False,24,85
+628,US Tech Solutions,Bioinformatics Analyst III - Computational Oncology,0,Contract,Mid-Senior level,United States,True,67,302
+629,Healthfirst,Healthcare Analyst | Hybrid NYC,0,Full-time,Mid-Senior level,"New York, NY",False,52,281
+630,"LanceSoft, Inc.",Data Analyst,0,Contract,N/A,"Minneapolis, MN",False,49,129
+631,VySystems,Salesforce Business analyst (Marketing cloud),0,Contract,N/A,"Duluth, GA",False,16,55
+632,Organic Valley,Application Systems Analyst - Supply Chain,0,Full-time,Mid-Senior level,"Cashton, WI",False,8,99
+633,The CARIAN Group,Power BI Data Analyst – (Remote),0,Full-time,Associate,"Maryland, United States",True,742,1459
+634,"Stellar IT Solutions, Inc.",Senior Business Analyst,0,Contract,N/A,"Columbia, SC",False,10,49
+635,Business Integra Inc,Business Systems Analyst (Clinical Solutions),0,Contract,N/A,United States,True,0,51
+636,"Omniskope, Inc",Salesforce Business Analyst,0,Full-time,Mid-Senior level,Greater St. Louis,False,27,70
+637,Maxonic,Global Data Insights Analyst (Only W2),0,Contract,Mid-Senior level,"San Francisco, CA",True,144,411
+638,Insight Global,SAP FICO Configuration Analyst,0,Contract,N/A,Dallas-Fort Worth Metroplex,False,10,81
+639,Omni Logistics,Treasury Analyst,0,Full-time,Associate,Dallas-Fort Worth Metroplex,False,25,52
+640,Insight Global,IT Cyber Security Analyst,0,Full-time,Mid-Senior level,"Ramsey, NJ",False,75,217
+641,Sterrofox,Azure Databricks Architect with hands on Data Lakehouse or Delta Lakehouse implementation and Unity Catalog and Airflow,0,Contract,Mid-Senior level,"Kansas City, MO",False,0,74
+642,Sterrofox,GCP Data Lead/Architect,0,Contract,Mid-Senior level,"Milwaukee, WI",False,0,56
+643,Enterprise Solutions Inc.,Senior Data Engineer,0,Full-time,N/A,United States,True,0,84
+644,Ventures Unlimited Inc,SAP Analytical Cloud SME,0,Contract,N/A,"Harrisburg, PA",False,0,29
+645,Sterrofox,AWS Data Engineer ,0,Contract,Mid-Senior level,"Hartford County, CT",False,0,378
+646,Sumeru Inc,Business Analyst,0,Full-time,N/A,"Tampa, FL",False,0,63
+647,Vaco,Senior Financial Analyst - Healthcare ($85-95K) Hybrid,0,Full-time,Mid-Senior level,"Tampa, FL",False,26,79
+648,Genpact,Enterprise Data Management Admin,0,Full-time,Mid-Senior level,"Newport Beach, CA",False,1,25
+649,Georgia Tech Research Institute,AI/ML Engineer - ATAS - Open Rank,0,Full-time,Entry level,"Atlanta, GA",False,15,76
+650,Insight Global,Data Center Technician,0,Contract,Associate,"Goodyear, AZ",False,0,43
+651,TekisHub Consulting Services ,Network Data Admin,0,Contract,N/A,"Tulsa, OK",False,0,27
+652,W3R Consulting,Global Cybersecurity Risk Analyst - REMOTE,0,Contract,N/A,"Chicago, IL",True,53,143
+653,Amentum,Data Scientist,0,Full-time,Entry level,"Fort Bragg, North Carolina, United States",False,54,215
+654,"Infomatics, Inc",Business Analyst,0,Contract,Mid-Senior level,"Pontiac, MI",False,0,247
+655,Allied Universal,Billing and Collections Analyst,0,Full-time,Entry level,"Conshohocken, PA",False,3,16
+656,Cynosure Technologies LLC,REMOTE - Servicenow Business Analyst ,0,Contract,Mid-Senior level,United States,True,0,387
+657,Youngsoft Inc,Global Digital Business Analyst,0,Contract,N/A,"Dearborn, MI",False,11,46
+658,Bravens Inc.,Business Analyst,0,Contract,N/A,"Atlanta, GA",False,25,79
+659,Intellectt Inc,Senior Clinical Data Coordinator,0,Contract,Mid-Senior level,"Santa Clara, CA",False,0,33
+660,Mastech Digital,Salesforce Business Analyst,0,Contract,Mid-Senior level,United States,True,141,371
+661,FORVIS,CRM Analyst,0,Contract,Associate,Charlotte Metro,False,13,61
+662,Prime Consulting Inc,Data Scientist,0,Full-time,N/A,"St Louis, MO",False,56,104
+663,US Tech Solutions,Data Engineer,0,Contract,Mid-Senior level,United States,True,403,612
+664,Explorer Development Center,Board Certified Behavior Analyst (BCBA),0,Full-time,N/A,"San Diego, CA",False,0,17
+665,Sud Recruiting,"Senior Analyst, Business Planning & Analysis",0,Full-time,Mid-Senior level,New York City Metropolitan Area,False,71,140
+666,DWS Group,Data Governance Program Lead,0,Full-time,Mid-Senior level,"Chicago, IL",False,26,86
+667,Clarifai,Technical Product Marketing Manager - Machine Learning,0,Full-time,Mid-Senior level,United States,True,78,377
+668,Wheaton College,Career Coach + Communications and Data Manager,0,Full-time,N/A,"Wheaton, IL",False,16,88
+669,Healthfirst,IT Data Analytics Analyst,0,Full-time,Entry level,"New York, NY",False,128,308
+670,Tampa Electric,HRIS Analyst,0,Full-time,Mid-Senior level,"Tampa, FL",False,4,52
+671,"Zillion Technologies, Inc.",Text Data Labeling Analyst - Machine Learning (Hybrid Role 1 Day a week Onsite) ,0,Contract,Mid-Senior level,"Vienna, VA",False,72,195
+672,Vaco,Senior Financial Analyst - PowerBI ($85-95K) Hybrid,0,Full-time,Mid-Senior level,"Tampa, FL",False,35,74
+673,Dale WorkForce Solutions,Business Analyst,0,Contract,Mid-Senior level,United States,True,372,791
+674,SysMind,Data architect/Data analyst,0,Contract,N/A,"Juno Beach, FL",False,31,56
+675,ZETTALOGIX INC,GCP Data lead/Architect ,0,Contract,Mid-Senior level,"Milwaukee, WI",False,16,59
+676,NiSource,Lead Financial Analyst - Accounting,0,Full-time,Mid-Senior level,"Columbus, OH",False,3,65
+677,Optomi,Network System Analyst,0,Full-time,Associate,"Dallas, TX",False,28,56
+678,Software Concepts LLC,Quality Analyst,0,Contract,N/A,United States,True,0,119
+679,The Judge Group,Data Analytics Engineer,0,Contract,Associate,United States,True,252,508
+680,Sud Recruiting,Senior Demand Planning Analyst,0,Full-time,Mid-Senior level,New York City Metropolitan Area,False,31,60
+681,Sud Recruiting,"Senior Analyst, Demand Planning & Analysis",0,Full-time,Mid-Senior level,New York City Metropolitan Area,False,33,69
+682,Republic Services,Logistics Analyst,0,Full-time,N/A,"Houston, TX",False,17,69
+683,Labcorp,Sales Compensation Analyst,0,Full-time,Mid-Senior level,Raleigh-Durham-Chapel Hill Area,True,31,183
+684,Labcorp,Revenue Analyst,0,Full-time,Mid-Senior level,Greater Indianapolis,True,30,185
+685,Sud Recruiting,"Senior Data Analyst, Forecasting",0,Full-time,Mid-Senior level,New York City Metropolitan Area,False,0,186
+686,Zeektek,Financial Analyst - Staffing and Resource Planning 100% Remote Contract to Permanent Job ,0,Contract,Mid-Senior level,United States,True,143,440
+687,Insight Global,Senior Information Security Analyst,0,Full-time,Mid-Senior level,"Long Beach, CA",True,0,18
+688,Rootshell Inc,Business Analyst With Salesforce PRM,0,Contract,N/A,"Santa Clara, CA",False,15,30
+689,Zeektek,"Manufacturing Planning Analyst 100% Onsite in Sunnyvale, Ca. ",0,Contract,Mid-Senior level,United States,True,20,173
+690,Avient Corporation,"Analyst, Service Desk",0,Full-time,Entry level,"Avon Lake, OH",False,1,21
+691,University of Virginia,"OnCore Compliance Analyst (varying levels - remote), Clinical Trials",0,Full-time,Mid-Senior level,"National, MD",True,13,71
+692,Nityo Infotech,Business Analyst with Telecom Promos,0,Contract,N/A,"St Louis, MO",True,0,50
+693,Bravens Inc.,MDM Data Architect,0,Full-time,N/A,"Raleigh, NC",False,5,13
+694,Brunel,Compliance Analyst,0,Contract,N/A,"Houston, TX",False,20,128
+695,Photon,Business Analyst - Marketing,0,Full-time,Mid-Senior level,"Kentucky, United States",False,58,138
+696,"Boston Government Services, LLC (BGS)",Management Analyst (28769),0,Full-time,Mid-Senior level,"Washington, DC",False,1,29
+697,Truist,Associate Cyber Data Engineer,0,Full-time,N/A,"Atlanta, GA",False,28,177
+698,Blue Cross Blue Shield of Michigan,Analyst - Senior,0,Full-time,Mid-Senior level,"Detroit, MI",False,8,41
+699,KIK Consumer Products,Manufacturing Financial Analyst,0,Full-time,Mid-Senior level,"Lawrenceville, GA",False,23,56
+700,Truist,Associate Cyber Data Engineer,0,Full-time,N/A,"Charlotte, NC",False,34,153
+701,KRG Technologies Inc.,DATA ENGINEER with SQL SSIS SSRS,0,Full-time,N/A,"Wilmington, DE",False,0,42
+702,Grainger,Engineering Business Analyst,0,Full-time,Mid-Senior level,"Chicago, IL",False,13,111
+703,Baird,Internship – Equity Research Analyst (Summer 2024),0,Full-time,Internship,"Milwaukee, WI",False,25,160
+704,Smarxion,Machine Learning Engineer,0,Full-time,N/A,United States,True,296,665
+705,RTC,Sr. Financial Analyst,0,Full-time,Associate,"Beaverton, OR",False,1,51
+706,Bank of America,Data Network Engineering Manager,0,Full-time,Mid-Senior level,"Charlotte, NC",False,4,26
+707,Aspen Technology,Sr Financial Analyst,0,Full-time,Mid-Senior level,"Bedford, MA",False,12,53
+708,topGrads,Entry Level Data Analyst,0,Full-time,N/A,United States,True,0,167
+709,Bank of America,Equity Research Analyst/Associate- Utilities & Clean Energy,0,Full-time,Mid-Senior level,"Houston, TX",False,24,234
+710,Baird,Equity Research Analyst (Summer 2024 Start),0,Full-time,Mid-Senior level,"Milwaukee, WI",False,18,138
+711,Eastridge Workforce Solutions,Sr. Systems Analyst,0,Full-time,Mid-Senior level,"San Diego, CA",False,4,25
+712,Bank of America,Vice President; Quantitative Finance Analyst,0,Full-time,Executive,"Chicago, IL",False,1,61
+713,Signify Technology,Senior Data Engineer (Scala/Spark),0,Full-time,Mid-Senior level,NAMER,True,42,232
+714,"Zillion Technologies, Inc.",HR Shared Services / HR Analyst / Human Resources Analyst  ( Once a week Onsite required),0,Contract,Mid-Senior level,"Vienna, VA",False,11,54
+715,TikTok,Engineering Manager (Machine Learning Focused) - Search E-commerce,0,Full-time,Director,"San Jose, CA",False,10,78
+716,AMBRION,Senior Data Analyst,0,Full-time,Mid-Senior level,Greater Minneapolis-St. Paul Area,False,159,216
+717,"Hathority, LLC - Integration & Innovation",Technical Project Manager - Data Integration,0,Full-time,N/A,"Phoenix, AZ",False,30,75
+718,Eastridge Workforce Solutions,Sr Finance Systems Analyst,0,Full-time,Mid-Senior level,"Irvine, CA",False,12,34
+719,Netsmart,Resourcing Analyst,0,Full-time,Entry level,"Overland Park, KS",False,8,62
+720,Amazon,"Business Analyst, AHS Help Desk",0,Full-time,N/A,"Tempe, AZ",False,40,230
+721,Insight Global,Digital Marketing Measurement Analyst  ,0,Contract,Associate,"Beaverton, OR",False,32,112
+722,People Tech Group Inc,SAP Data Lead,0,Full-time,N/A,"Scranton, PA",True,0,39
+723,Palo Alto Networks,"Senior Manager, Marketing Analytics",0,Full-time,Mid-Senior level,"Santa Clara, CA",True,66,529
+724,"Zillion Technologies, Inc.",HR Shared Services / HR Analyst / Human Resources Analyst  ( Once a week Onsite required),0,Contract,Mid-Senior level,"Pensacola, FL",False,14,50
+725,Kiva Capital Partners,Private Equity Analyst,0,Internship,N/A,"San Francisco, CA",True,53,450
+726,Apidel Technologies,"Application Development - Quality Assurance Analyst (SDET, Automated, Java, Python) III",0,Contract,N/A,"Philadelphia, PA",False,16,36
+727,Cost.U.Less,Data Analyst,0,Full-time,Entry level,"Boca Raton, FL",False,152,307
+728,Star Technology Solutions Inc (StarTechs Inc),Data Governance Manager/Architect,0,Contract,N/A,"New Jersey, United States",True,0,43
+729,Elevance Health,Principal Enterprise Architect - Data Platforms,0,Full-time,Director,"Atlanta, GA",False,11,89
+730,Spokane Transit Authority,Geographic Information Systems Analyst,0,Full-time,N/A,Spokane-Coeur d'Alene Area,False,3,33
+731,Appen,British Data Collector in United States,0,Contract,Entry level,"North Carolina, United States",True,1,26
+732,AveryMo,Venture Capital Research Analyst,0,Full-time,N/A,United States,True,60,207
+733,People Tech Group Inc,Azure Data engineer,0,Full-time,N/A,"Seattle, WA",False,31,54
+734,Connections Behavior Planning & Intervention,Board Certified Behavior Analyst - Clinic + Sign-on Bonus,0,Full-time,N/A,"Kent, WA",False,0,7
+735,Quantum Integrators,SAP Business Analyst – PP/QM,0,Full-time,Mid-Senior level,"Bridgewater, NJ",False,41,72
+736,The Cigna Group,Claims Systems Configuration Senior Analyst - Client Support - eviCore - Remote,0,Full-time,Mid-Senior level,"Franklin, TN",False,11,118
+737,Appen,British Data Collector in United States,0,Contract,Entry level,"Texas, United States",True,5,34
+738,Insight Global,Senior Information Security Analyst,0,Full-time,Associate,"California, United States",True,126,284
+739,Appen,British Data Collector in United States,0,Contract,Entry level,"New Hampshire, United States",True,0,16
+740,AllSTEM Connections,Construction Data Center Project Manager,0,Full-time,Associate,United States,True,27,105
+741,Nextgen Technologies Inc,Deal Desk Analyst,0,Contract,N/A,"San Jose, CA",False,8,47
+742,Lakeside Partners,Senior Analyst,0,Full-time,N/A,"Minneapolis, MN",False,21,90
+743,Palermo's Pizza,Master Data Steward,0,Full-time,Mid-Senior level,"Milwaukee, WI",False,0,13
+744,Genentech,Senior Data Scientist,0,Full-time,Mid-Senior level,"South San Francisco, CA",False,11,84
+745,Cozen O'Connor,Financial Analyst,0,Full-time,N/A,"Philadelphia, PA",False,6,28
+746,Glocomms,Senior ML OPS Engineer | E-commerce | Hybrid | Boston MA,0,Full-time,Mid-Senior level,"Boston, MA",False,11,27
+747,W3Global,BPO Phone Supplier Management Senior Analyst (1247814),0,Contract,Mid-Senior level,"Chandler, AZ",True,2,14
+748,W3Global,Chemical Analytical Technician,0,Full-time,Entry level,"Wallingford, CT",False,0,4
+749,CSafe,Data Scientist,0,Full-time,N/A,"Cincinnati, OH",False,26,143
+750,Genentech,Senior Data Scientist,0,Full-time,Mid-Senior level,"South San Francisco, CA",False,15,80
+751,BNY Mellon,"Vice President, IT Risk Analyst",0,Full-time,N/A,"Pittsburgh, PA",False,0,8
+752,Amtex Systems Inc.,"SOC Analyst (Tier/Level 3) - Houston, TX",0,Contract,Mid-Senior level,"Houston, TX",False,12,61
+753,Intellectt Inc,SAP Procurement Analyst with Power BI ,0,Contract,Mid-Senior level,"Irvine, CA",False,8,26
+754,W3Global,Data Scientist- AD Tech,0,Contract,Entry level,"Santa Clara, CA",False,16,65
+755,World Wide Technology,Data Project Manager,0,Contract,Mid-Senior level,United States,True,56,178
+756,GumGum,Senior Data Scientist,0,Full-time,Mid-Senior level,United States,True,38,184
+757,United Wholesale Mortgage,Senior Data Scientist,0,Full-time,Mid-Senior level,"Pontiac, MI",False,6,23
+758,Pinterest,"Manager II, Machine Learning",0,Full-time,Mid-Senior level,"Seattle, WA",False,3,40
+759,The Intersect Group,Data Engineer,0,Contract,Mid-Senior level,"Cleveland, GA",False,135,213
+760,Samaritan's Purse,GSOC Analyst,0,Full-time,Entry level,"Boone, NC",False,1,12
+761,Hexaware Technologies,Product Analyst with Salesforce,0,Full-time,Mid-Senior level,"McLean, VA",False,14,49
+762,Fresenius Medical Care,Sr Enterprise Systems Analyst - SAP SCM,0,Full-time,Associate,"Lexington, MA",True,7,40
+763,Celerion,Senior Clinical Data Manager,0,Full-time,Mid-Senior level,"Tempe, AZ",False,3,10
+764,IMR Soft LLC ,JDE Business Analyst,0,Contract,N/A,United States,True,8,42
+765,Brunel,Trading Analyst,0,Contract,N/A,"Houston, TX",False,10,115
+766,Quisitive,Senior Lead Data Scientist,0,Full-time,Mid-Senior level,United States,True,29,163
+767,Experis,Data Center Technical Operations Engineer I,0,Contract,Entry level,"Hilliard, OH",False,1,17
+768,Verizon,Senior Data Engineer,0,Full-time,Mid-Senior level,"Temple Terrace, FL",False,2,20
+769,Verizon,Senior Data Engineer,0,Full-time,Mid-Senior level,"Alpharetta, GA",False,11,42
+770,Optomi,Business Intelligence Analyst,0,Full-time,Mid-Senior level,United States,True,646,1337
+771,Academic Partnerships,Senior Marketing Data Analyst,0,Full-time,Mid-Senior level,United States,True,23,104
+772,InfoStride ,Network Security Analyst,0,Contract,Mid-Senior level,"Austin, TX",True,43,117
+773,Verizon,Local Strategy & Analytics Manager - Coastal Plains,0,Full-time,Mid-Senior level,"Austin, TX",False,4,32
+774,Verizon,Local Strategy & Analytics Manager - Coastal Plains,0,Full-time,Mid-Senior level,"Irving, TX",False,1,6
+775,Verizon,Senior Data Engineer,0,Full-time,Mid-Senior level,"Irving, TX",False,6,42
+776,Beacon Hill Staffing Group,Accounting Analyst (AP/AR),0,Full-time,Entry level,"Dallas, TX",False,3,12
+777,CDK Global,Customer Experience Research Analyst**REMOTE**,0,Full-time,N/A,"Seattle, WA",False,16,95
+778,Feuji Inc,JD Edwards Business Analyst,0,Full-time,Mid-Senior level,"Mount Prospect, IL",False,7,34
+779,Victra - Verizon Authorized Retailer,Financial Reporting Analyst,0,Full-time,N/A,"Raleigh, NC",False,0,1
+780,Victra - Verizon Authorized Retailer,Financial Reporting Analyst,0,Full-time,N/A,"Raleigh, NC",False,0,6
+781,LCG Consulting,ELECTRICITY MARKET AND ENERGY ANALYST,0,Full-time,N/A,"Los Altos, CA",False,5,13
+782,WalkWater Technologies,Senior Financial Analyst,0,Contract,Entry level,"Santa Monica, CA",False,6,34
+783,South32,Accounting Analyst,0,Full-time,Entry level,"Tucson, AZ",False,1,9
+784,Ashley Furniture Industries,Financial Analyst-Logistics,0,Full-time,Associate,"Charlotte, NC",False,29,100
+785,RujhaLIfe,Financial Analyst - Wellness Hospitality,0,Contract,N/A,United States,True,38,159
+786,Mitchell Martin Inc.,Financial Reporting Accounting Analyst,0,Full-time,Associate,"New York, NY",False,7,36
+787,Roadz,Artificial Intelligence Engineer,0,Full-time,N/A,"Palo Alto, CA",False,35,96
+788,Insight Global,Data Entry Specialist,0,Contract,Associate,"Burbank, CA",False,13,47
+789,Transcend Solutions,Data Engineer,0,Contract,Associate,"New Jersey, United States",True,56,120
+790,Avalara,"Tax Analyst, Sales & Use Tax",0,Full-time,Associate,"Durham, NC",False,0,13
+791,Appen,Data Collection  -  Supplementary Income,0,Contract,Entry level,"Brockton, MA",True,0,6
+792,Amazon Web Services (AWS),"Data Center Civil Engineer, Data Center Design Engineering",0,Full-time,N/A,"Herndon, VA",False,0,9
+793,Whetstone Capital Advisors,Junior Analyst,0,Full-time,N/A,Kansas City Metropolitan Area,False,65,180
+794,Avesta Computer Services,Lead Data Engineer,0,Full-time,Mid-Senior level,United States,True,11,38
+795,"TalentBurst, an Inc 5000 company",No C2C-Only Local-Payroll Systems  Analyst,0,Contract,Mid-Senior level,"Austin, TX",False,0,11
+796,Appen,Data Collection  -  Supplementary Income,0,Contract,Entry level,"New Bedford, MA",True,1,5
+797,Info Way Solutions,Business System Analyst,0,Contract,N/A,United States,True,31,60
+798,DevCare Solutions,Senior Business Analyst,0,Contract,N/A,"Lansing, MI",False,3,7
+799,WalkWater Technologies,Compliance Business Analyst,0,Contract,Entry level,"Cupertino, CA",False,12,43
+800,BrainX,Artificial Intelligence Engineer,0,Part-time,N/A,United States,True,52,155
+801,DIA,Marketing Analyst,0,Full-time,Associate,United States,True,13,112
+802,Appen,Data Collection  -  Supplementary Income,0,Contract,Entry level,"Quincy, MA",True,0,3
+803,topGrads,Data Analyst,0,Full-time,N/A,United States,True,53,126
+804,Intelliswift Software,Digital / Marketing Analyst,0,Contract,N/A,"Ridgefield Park, NJ",False,6,13
+805,LA JOLLA COVE INVESTORS,Junior Analyst,0,Contract,N/A,"California, United States",True,0,65
+806,Orgro,SAP Analytical Cloud SME,0,Contract,N/A,"Middletown, PA",False,1,4
+807,Carvana,"Senior Manager, Credit Strategy and Analytics",0,Full-time,Mid-Senior level,"Tempe, AZ",False,6,49
+808,Tennessee Valley Authority,"Consultant, Analytics & Technology - 515422",0,Full-time,Mid-Senior level,"Nashville, TN",False,0,0
+809,Royal Caribbean Group,"Analyst, Sr Cybersecurity Deception",0,Full-time,Mid-Senior level,"Miami, FL",False,0,0
+810,Elbit Systems of America,"Manager, Algorithm AI Engineering",0,Full-time,Mid-Senior level,"Orlando, FL",True,0,0
+811,Ulta Beauty,Supply Chain Wholesale Sr Analyst,0,Full-time,N/A,"Bolingbrook, IL",False,0,0
+812,Direct Supply,Staff Data Engineer,0,Full-time,Mid-Senior level,"Milwaukee, WI",False,0,0
+813,Northern Trust Corporation,HR Service Center Analyst,0,Full-time,Entry level,"Tempe, AZ",False,0,0
+814,PenFed Credit Union,"(Hybrid) Senior Manager, Market Risk Quantitative Analytics",0,Full-time,N/A,"McLean, VA",False,0,0
+815,FIS,Financial Analyst Senior,0,Full-time,Mid-Senior level,"Jacksonville, FL",False,0,0
+816,Lumen Technologies,Lead Business Analyst - Federal,0,Full-time,Mid-Senior level,United States,True,0,0
+817,Gigiid,Lead Data Architect,0,Full-time,N/A,United States,True,0,1
+818,Lumen Technologies,Lead Operations Analyst - US Work From Home,0,Full-time,Mid-Senior level,United States,True,0,1
+819,NetSuite,NetSuite Sales Operations Analyst,0,Full-time,Mid-Senior level,United States,True,0,1
+820,Experis,IT Business Systems Analyst - Advanced,0,Contract,Mid-Senior level,"Princeton, NJ",False,0,0
+821,NetSuite,NetSuite Sales Operations Analyst,0,Full-time,Mid-Senior level,"Santa Monica, CA",False,0,0
+822,The Lubrizol Corporation,Financial Analyst,0,Full-time,N/A,"Brecksville, OH",False,0,0
+823,Experis,Senior Clinical Data Coordinator - C,0,Contract,Mid-Senior level,"Alameda, CA",False,0,0
+824,Experis,Sr Business System Analyst - West Coast,0,Contract,Mid-Senior level,"Redwood City, CA",False,0,0
+825,St. Jude Children's Research Hospital - ALSAC,Manager – Development Analytics,0,Full-time,Mid-Senior level,"Memphis, TN",False,0,0
+826,Huntington National Bank,IT Risk Senior Analyst - Hybrid Role,0,Full-time,Mid-Senior level,"Columbus, OH",False,0,0
+827,Olivi.Growth,Data Ops Support Engineer,0,Full-time,Mid-Senior level,"Houston, TX",True,0,2
+828,Huntington National Bank,IT Risk Senior Analyst - Hybrid Role,0,Full-time,Mid-Senior level,"Columbus, OH",False,0,0
+829,Amazon Web Services (AWS),"AWS SOC Security Analyst II, AWS Security Operations Center (SOC)",0,Full-time,Mid-Senior level,"Herndon, VA",False,0,0
+830,Raytheon,"Senior Analyst, Engineering Services",0,Full-time,Entry level,"Tucson, AZ",False,0,0
+831,Manuka Health,Commercial Analyst – North America,0,Full-time,Mid-Senior level,United States,True,0,1
+832,Tata Consultancy Services, Gaming Business Analyst,0,Full-time,Mid-Senior level,"Bellevue, WA",False,3,11
+833,AMB Sports + Entertainment,Data Engineer,0,Full-time,N/A,United States,True,0,0
+834,Networkobjects Inc,Senior Business Analyst/ Sr. Business Architect,0,Contract,N/A,"Phoenix, AZ",True,1,1
+835,Radinnova,Senior Business Intelligence Lead,0,Contract,N/A,United States,True,0,1
+836,Sterrofox,Business Analyst IV,0,Contract,Mid-Senior level,"St. Louis City County, MO",False,0,0
+837,Zippy,Loan Data Quality Specialist ,0,Full-time,Mid-Senior level,"Arizona, United States",True,0,2
+838,Storm3,ML Infrastructure Team Lead,0,Full-time,Director,United States,True,0,0
+839,Wipro,Business Analyst,0,Full-time,N/A,"Minneapolis, MN",False,0,2
+840,Sumeru Inc,Sr. Technical Business Analyst,0,Full-time,N/A,"Tampa, FL",False,10,19
+841,Mindlance,Bioinformatics Analyst,0,Contract,N/A,United States,True,0,163
+842,DigiTran Technologies Inc.,RAID Data Recovery Administrator,0,Part-time,Mid-Senior level,"Herndon, VA",True,33,149
+843,SDG Group USA,Manager Data Analytics,0,Full-time,Mid-Senior level,"Bedminster, NJ",False,51,130
+844,TestingXperts,Business Analyst (with AI /ML exp),0,Contract,N/A,United States,True,0,44
+845,Contriva Consulting Inc,Business Analyst,0,Contract,Mid-Senior level,"California, United States",False,29,263
+846,TEK Inspirations LLC,Business Analyst,0,Contract,N/A,United States,True,0,119
+847,Prime Consulting Inc,Data Scientist,0,Full-time,N/A,"St Louis, MO",False,37,82
+848,Backpack Talent,Environmental Engineer & Data Scientist,0,Full-time,Mid-Senior level,"Denver, CO",False,67,272
+849,CBL Solutions,Data Engineer (Oracle and DataStage).,0,Contract,N/A,United States,True,0,101
+850,Versapay,"Financial Analyst, Payment Settlement Reconciliations",0,Full-time,Entry level,United States,True,0,859
+851,Lactalis American Group,Tax Analyst,0,Full-time,Associate,"Chicago, IL",False,6,38
+852,WhiteCap Search,Business Analyst - Healthcare,0,Contract,Mid-Senior level,"Hauppauge, NY",False,35,199
+853,Regal Rexnord,Data Analyst III,0,Full-time,Mid-Senior level,"Chicago, IL",False,34,84
+854,City of Atlanta,Data/Reporting Analyst,0,Full-time,Mid-Senior level,"Atlanta, GA",False,59,241
+855,Regal Rexnord,Sr. Financial Analyst,0,Full-time,Mid-Senior level,"Marengo, IL",False,2,20
+856,Honeywell,Program Controls Analyst I,0,Full-time,Mid-Senior level,"Clearwater, FL",False,8,33
+857,Robinhood,"Senior Business Systems Analyst, Finance",0,Full-time,Mid-Senior level,Buffalo-Niagara Falls Area,False,12,87
+858,GSK,Staff Data Engineer and Team Lead,0,Full-time,N/A,"Cambridge, MA",False,7,53
+859,Robinhood,"Senior Business Systems Analyst, Finance",0,Full-time,Mid-Senior level,United States,True,81,555
+860,GSK,Staff Data Engineer and Team Lead,0,Full-time,N/A,"Seattle, WA",False,6,41
+861,GSK,Staff Data Engineer and Team Lead,0,Full-time,N/A,"Collegeville, PA",False,4,39
+862,"X, the moonshot factory","Machine Learning Infrastructure Software Engineer, Project Tidal (6 months contract)",0,Contract,Mid-Senior level,"Mountain View, CA",False,27,280
+863,GSK,Staff Data Engineer and Team Lead,0,Full-time,N/A,"South San Francisco, CA",False,3,46
+864,GSK,Manager - Analytical Development,0,Full-time,N/A,"Waltham, MA",False,11,72
+865,Crown Castle,Financial Analyst II- Sales Compensation Analyst,0,Full-time,Entry level,"Boston, MA",False,7,39
+866,Honeywell,Sr Finance Analyst,0,Full-time,Mid-Senior level,"Phoenix, AZ",False,4,40
+867,Crown Castle,Financial Analyst II- Sales Compensation Analyst,0,Full-time,Entry level,"Charleston, South Carolina, United States",False,6,23
+868,"Community Options, Inc.",Board Certified Behavior Analyst (BCBA),0,Full-time,Executive,"San Antonio, TX",False,0,3
+869,Crown Castle,Financial Analyst II- Sales Compensation Analyst,0,Full-time,Entry level,"Westford, MA",False,3,29
+870,Koniag Government Services,Sr. Cognos Analyst (Remote),0,Full-time,Mid-Senior level,"Riverdale, MD",True,17,40
+871,TTI Floor Care North America,Sourcing Analyst,0,Full-time,Mid-Senior level,"Charlotte, NC",False,5,28
+872,Crunchyroll,Senior Data Analyst - eCommerce,0,Full-time,Mid-Senior level,"San Francisco, CA",False,110,386
+873,Guidehouse,"Data Governance, Senior Consultant",0,Full-time,Mid-Senior level,"McLean, VA",False,1,7
+874,Orion Innovation,Senior Business Analyst,0,Full-time,Mid-Senior level,"Chicago, IL",False,25,88
+875,AstraZeneca,"Director, OBU Data Science & AI",0,Full-time,Mid-Senior level,"Wilmington, DE",False,3,14
+876,ADM,"Business Analyst – Decatur, IL",0,Full-time,N/A,"Decatur, IL",False,14,51
+877,The Lacek Group,"Senior Analyst, Data Intelligence",0,Full-time,Associate,"Minneapolis, MN",True,51,149
+878,AstraZeneca,SAP S/4HANA Data Design Lead – Order & Distribution to Cash,0,Full-time,Mid-Senior level,"Wilmington, DE",False,3,39
+879,Mixpanel,Revenue Operations Analyst,0,Full-time,Mid-Senior level,"San Francisco, CA",False,77,236
+880,ICE,"Engineer, Information Security Intelligence",0,Full-time,N/A,"Atlanta, GA",False,10,51
+881,Bunzl Distribution NA,Business Integrity Analyst - Hybrid - Greater Chicago Area,0,Full-time,Mid-Senior level,"Morton Grove, IL",False,5,26
+882,Ankura,"University Associate, D&E Valuation & Transaction Disputes (Forensic Accounting/Data Analytics)",0,Full-time,Entry level,"Chicago, IL",False,7,35
+883,Codeworks IT Careers ,Data Masking Mainfram Analystinframe,0,Contract,Entry level,"Franklin, WI",False,2,62
+884,Ocean Spray Cranberries,Contract Manufacturing Analyst,0,Full-time,Entry level,"Lakeville, MA",False,1,28
+885,COLSA,Cyber Analyst 2,0,Full-time,Mid-Senior level,"San Diego, CA",False,4,17
+886,COLSA,Information System Security Manager (ISSM)/RMF Analyst,0,Full-time,Mid-Senior level,"San Antonio, TX",False,4,21
+887,Daikin Applied Americas,Sr. Financial Analyst,0,Full-time,Mid-Senior level,"Phoenix, AZ",False,2,9
+888,COLSA,Cyber Analyst 3,0,Full-time,Mid-Senior level,"San Diego, CA",False,1,7
+889,Tandym Group,Kyriba Production Support Analyst (Remote),0,Contract,Entry level,"Cambridge, MA",True,4,74
+890,Sev1Tech LLC,Budget Analyst,0,Contract,Mid-Senior level,"Aberdeen, MD",False,0,18
+891,Teradyne,Financial Analyst/Accountant - New College Graduate,0,Full-time,Entry level,"North Reading, MA",False,42,148
+892,COLSA,BASEC RMF Cyber Analyst/ISSM,0,Full-time,Entry level,"Huntsville, AL",False,1,7
+893,Bimbo Bakeries USA,Payroll Analyst,0,Full-time,Mid-Senior level,"Drums, PA",False,0,20
+894,LMI,Data Architect (Visualization),0,Full-time,Mid-Senior level,"Scott AFB, IL",False,6,22
+895,Manufacturers Bank,Project Portfolio Analyst,0,Full-time,N/A,"Arizona, United States",False,4,8
+896,Sev1Tech LLC,Data Architect,0,Full-time,Mid-Senior level,"Mechanicsburg, PA",False,1,8
+897,Navitus Health Solutions,"Analyst I, Pharmacy Discount Programs-Remote",0,Full-time,N/A,"Madison, WI",False,0,19
+898,Deluxe,Credit Analyst,0,Full-time,Associate,"Fort Worth, TX",False,17,68
+899,Booz Allen Hamilton,Data Scientist,0,Full-time,N/A,"Atlanta, GA",True,43,248
+900,XPO,"Senior Manager, Cost Model Analytics - Hybrid",0,Full-time,N/A,"North Richland Hills, TX",False,1,13
+901,Avalara,Billing Operations Analyst I,0,Full-time,N/A,"Durham, NC",False,8,37
+902,Caris Life Sciences,Data Integration Specialist,0,Full-time,Entry level,"Irving, TX",False,8,43
+903,Mastercard,"Director, Data Strategy, Retail and Commerce",0,Full-time,Director,"Duluth, GA",True,26,162
+904,7-Eleven,FP&A Financial Analyst,0,Full-time,N/A,"Irving, TX",False,21,88
+905,Spectrum,Business Analyst,0,Full-time,Mid-Senior level,"Stamford, CT",False,83,241
+906,"Hanger, Inc.",IT Asset Analyst I,0,Full-time,Entry level,"Austin, Texas Metropolitan Area",False,7,46
+907,Discount Tire,Analytics Data Solutions Architect - Streaming,0,Full-time,Mid-Senior level,"Scottsdale, AZ",False,0,31
+908,Spectrum,Supply Chain Data Analyst,0,Full-time,Mid-Senior level,"Charlotte, NC",False,62,260
+909,Merative,Technical Support Analyst I,0,Full-time,Entry level,"Hartland, WI",False,0,15
+910,"Milestone Technologies, Inc.",Data Center Logistics Associate L1,0,Full-time,Entry level,"Los Lunas, NM",False,0,5
+911,Spectrum,Senior QA Analyst,0,Full-time,Mid-Senior level,"Charlotte, NC",False,27,101
+912,Nextdoor,Senior Analytics Engineer,0,Full-time,Mid-Senior level,"San Francisco, CA",False,119,380
+913,"Milestone Technologies, Inc.",Data Center Logistics Team Lead,0,Full-time,Mid-Senior level,"Temple, TX",False,2,11
+914,Spectrum,Business Planning Analyst,0,Full-time,Mid-Senior level,"Stamford, CT",False,34,92
+915,"Milestone Technologies, Inc.",Data Center Logistics Associate L1,0,Full-time,Entry level,"Altoona, IA",False,0,7
+916,"Milestone Technologies, Inc.",Data Center Service Site Support L2,0,Full-time,Entry level,"New Albany, OH",False,1,10
+917,"Milestone Technologies, Inc.",Data Center Logistics Associate L1,0,Full-time,Entry level,"Papillion, NE",False,0,4
+918,"Milestone Technologies, Inc.",Data Center Technician IC1,0,Full-time,Entry level,"Forest City, NC",False,2,16
+919,"Milestone Technologies, Inc.",Data Center Logistics Associate L1,0,Full-time,Entry level,"Springfield, NE",False,0,4
+920,"Milestone Technologies, Inc.",Data Center Logistics Associate L3,0,Part-time,Mid-Senior level,"Mesa, AZ",False,1,13
+921,"Milestone Technologies, Inc.",Data Center Technician IC1,0,Full-time,Entry level,"Gallatin, TN",False,0,14
+922,"Milestone Technologies, Inc.",Data Center Technical Lead,0,Full-time,Mid-Senior level,"Prineville, OR",False,1,5
+923,"Milestone Technologies, Inc.",Data Center Logistics Associate L3,0,Full-time,Mid-Senior level,"Los Lunas, NM",False,0,2
+924,Volvo Financial Services,Wholesale Analyst,0,Full-time,N/A,"Greensboro, NC",False,5,39
+925,Eclaro,Business Analyst-Level III,0,Contract,Mid-Senior level,"Albany, NY",False,3,28
+926,"1st-Recruit LLC, An E-Verified Company",Income/Dividend/ P&I Processing Analyst,0,Contract,N/A,United States,True,12,61
+927,Valiant Integrated Services,Human Resources Systems Analyst,0,Full-time,Mid-Senior level,"Herndon, VA",False,0,11
+928,"Medline Industries, LP","Implementation Analyst (Hybrid, Libertyville IL)",0,Full-time,Mid-Senior level,"Libertyville, IL",False,2,11
+929,hear.com,Junior Media Buyer/Analyst,0,Full-time,Entry level,"Miami, FL",False,9,29
+930,BrandSafway,FP&A Analyst,0,Full-time,Associate,"Atlanta, GA",False,32,88
+931,Ally,Vulnerability Data Analyst,0,Full-time,Entry level,"Charlotte, NC",False,45,183
+932,OZ,Project Manager / Scrum Master with Business Analyst Experience,0,Contract,N/A,"Fort Lauderdale, FL",False,47,182
+933,Michael Page,Manager Portfolio Analytics,0,Full-time,Mid-Senior level,"New York, NY",False,2,66
+934,Allergan Data Labs,Senior Data Engineer,0,Full-time,Mid-Senior level,United States,True,0,156
+935,Saint-Gobain Abrasives,Financial Analyst Sales & Marketing,0,Full-time,Associate,"Worcester, MA",False,6,56
+936,SysMind Tech Private Limited,Data Tech Lead,0,Contract,N/A,"Juno Beach, FL",False,1,10
+937,Ally,Associate Analyst - Business Analytics,0,Full-time,Entry level,"Detroit, MI",False,74,196
+938,First Horizon Bank,Credit Analyst - Healthcare Sponsor Finance,0,Full-time,Associate,"Brentwood, TN",False,6,62
+939,ALKU,Data Privacy analyst (NOT ATTORNEY) with 1-3 years of experience ONLY not a BI/technical role please no data architects/developers,0,Contract,Entry level,United States,True,49,234
+940,HCA Healthcare,Virtual Insurance Operations Analyst,0,Full-time,Mid-Senior level,"Salem, VA",False,0,2
+941,HCA Healthcare,Virtual Insurance Operations Analyst,0,Full-time,Mid-Senior level,"Gainesville, FL",False,0,3
+942,"Milestone Technologies, Inc.",Data Center Logistics Associate L1,0,Full-time,Entry level,"Fort Worth, TX",False,0,4
+943,HCA Healthcare,Virtual Insurance Operations Analyst,0,Full-time,Mid-Senior level,"Richmond, VA",False,0,9
+944,HCA Healthcare,Virtual Insurance Operations Analyst,0,Full-time,Mid-Senior level,"Pasadena, TX",False,0,0
+945,The JPI Group,Business Analyst,0,Full-time,Mid-Senior level,"Chicago, IL",False,21,90
+946,Blue Cross Blue Shield of Arizona,Senior Financial Analyst/Accountant,0,Full-time,Mid-Senior level,"Phoenix, AZ",False,0,12
+947,The Mom Project,Senior Financial Analyst,0,Full-time,Mid-Senior level,"Villa Park, IL",False,0,3
+948,HCA Healthcare,Virtual Insurance Operations Analyst,0,Full-time,Mid-Senior level,"Ocala, FL",False,0,5
+949,HCA Healthcare,Virtual Insurance Operations Analyst,0,Full-time,Mid-Senior level,"Richmond, VA",False,2,5
+950,"Milestone Technologies, Inc.",Data Center Logistics Associate L1,0,Full-time,Entry level,"Los Lunas, NM",False,1,4
+951,RF-SMART,Business Analyst Intern- Spring 2024,0,Part-time,N/A,"Highlands Ranch, CO",False,3,19
+952,Morgan Stanley,Threat Hunt Analyst,0,Full-time,N/A,"Baltimore, MD",False,15,53
+953,Genesys,"Manager, Renewal Quoting and Analytics",0,Full-time,Mid-Senior level,"Boston, MA",True,5,33
+954,Genesys,"Manager, Renewal Quoting and Analytics",0,Full-time,Mid-Senior level,"Arizona, United States",True,1,8
+955,Genesys,"Manager, Renewal Quoting and Analytics",0,Full-time,Mid-Senior level,"Kentucky, United States",True,0,2
+956,Majhi Group,Data Engineer,0,Contract,N/A,"New York, NY",False,25,54
+957,Genesys,"Manager, Renewal Quoting and Analytics",0,Full-time,Mid-Senior level,"California, United States",True,4,30
+958,Genesys,"Manager, Renewal Quoting and Analytics",0,Full-time,Mid-Senior level,"Illinois, United States",True,1,13
+959,Peritus Inc,"Data Engineer with Python AWS, ETL with 10+years exp",0,Contract,N/A,"Dallas, TX",False,13,23
+960,Genesys,"Manager, Renewal Quoting and Analytics",0,Full-time,Mid-Senior level,"North Dakota, United States",True,0,1
+961,E-Solutions,salesforce Business analyst ,0,Contract,Mid-Senior level,"Salt Lake City, UT",False,9,28
+962,Compunnel Inc.,Sr. Agile Tools Analyst (Need a Jira Align SME / Jira Align Consultant),0,Contract,N/A,"Irving, TX",False,0,10
+963,Onwardpath,Business Analyst CGI Advantage,0,Part-time,Mid-Senior level,"Los Angeles, CA",True,68,247
+964,Morgan Stanley,Investment Analyst - Parametric,0,Full-time,N/A,"Minneapolis, MN",False,13,87
+965,VySystems,Lead Data Engineer,0,Contract,Mid-Senior level,United States,True,46,130
+966,ABS Group,Business Development Analyst,0,Full-time,Mid-Senior level,"Washington, DC",False,5,18
+967,Genesys,"Manager, Renewal Quoting and Analytics",0,Full-time,Mid-Senior level,"South Dakota, United States",True,0,3
+968,HCA Healthcare,Compliance Analyst Work From Home,0,Full-time,Mid-Senior level,"Brentwood, TN",True,55,412
+969,Genesys,"Manager, Renewal Quoting and Analytics",0,Full-time,Mid-Senior level,"Durham, NC",True,3,18
+970,Genesys,"Manager, Renewal Quoting and Analytics",0,Full-time,Mid-Senior level,"New York, United States",True,2,19
+971,Genesys,"Manager, Renewal Quoting and Analytics",0,Full-time,Mid-Senior level,"Maryland, United States",True,0,3
+972,Genesys,"Manager, Renewal Quoting and Analytics",0,Full-time,Mid-Senior level,"Ohio, United States",True,0,5
+973,Evoque,"Director, Data Center Construction",0,Full-time,Executive,"Irving, TX",False,3,14
+974,Genesys,"Manager, Renewal Quoting and Analytics",0,Full-time,Mid-Senior level,"Texas, United States",True,2,16
+975,Genesys,"Manager, Renewal Quoting and Analytics",0,Full-time,Mid-Senior level,"Maine, United States",True,0,1
+976,Raymond James,"Sr. Analyst Strategic Platform Development, RCS",0,Full-time,N/A,"St Petersburg, FL",False,0,2
+977,Genesys,"Manager, Renewal Quoting and Analytics",0,Full-time,Mid-Senior level,"West Virginia, United States",True,0,3
+978,Superbeo,Data Entry Clerk IV,0,Contract,N/A,"Philadelphia, PA",False,5,22
+979,Novi Labs,Senior Data Engineer,0,Full-time,N/A,United States,True,52,136
+980,Libbey,Desktop Support Analyst,0,Full-time,Associate,"Toledo, OH",False,3,11
+981,Fresno Madera Farm Credit,Credit Analyst,0,Full-time,Associate,"Fresno, CA",False,29,98
+982,EquipmentShare,Financial Data Analyst (Python),0,Full-time,Mid-Senior level,"Columbia, MO",True,28,124
+983,"Team Builders Recruiting and Consulting, LLC",Web Analyst,0,Full-time,Mid-Senior level,"Tampa, FL",False,1,11
+984,Plante Moran,Investment Research Analyst - Intern (2024),0,Full-time,Internship,"Southfield, MI",False,2,9
+985,NLB Services,EPIC/Resolute PB/Claims Analyst,0,Contract,Mid-Senior level,"Minnesota, United States",True,5,14
+986,TriOptus,Financial Analyst,0,Full-time,Entry level,"Nashville, TN",False,6,12
+987,Madison Square Garden Entertainment Corp.,Senior HCM Configuration Analyst,0,Full-time,N/A,"New York, NY",False,0,4
+988,Plante Moran,Investment Research Analyst - Intern (2024),0,Full-time,Internship,"Kalamazoo, MI",False,0,4
+989,Fidelity Investments,Head of FI and IWMS Data Management,0,Full-time,N/A,"Durham, NC",False,0,2
+990,Plante Moran,Investment Research Analyst - Entry Level (2024),0,Full-time,Entry level,"Southfield, MI",False,6,26
+991,Fidelity Investments,Principal Data Quality Engineer,0,Full-time,N/A,"Durham, NC",False,1,2
+992,ADP,Indeed Event Only - Tech Support Analyst II,0,Full-time,N/A,"Augusta, GA",False,0,1
+993,UW-Madison College of Letters & Science,Metadata Administrator,0,Part-time,Mid-Senior level,"Madison, WI",False,0,4
+994,Fidelity Investments,Cloud Engineer - Security Analytics,0,Full-time,N/A,"Merrimack, NH",False,2,8
+995,ADP,Senior Data Scientist,0,Full-time,Associate,"Roseland, NJ",False,9,39
+996,Nakupuna Companies,Junior Business Analyst,0,Full-time,Entry level,"Arlington, VA",False,0,11
+997,Fidelity Investments,Principal Data Quality Engineer,0,Full-time,N/A,"Boston, MA",False,0,3
+998,Fidelity Investments,Principal Systems Analyst,0,Full-time,N/A,"Smithfield, RI",False,0,0
+999,Fidelity Investments,Cloud Engineer - Security Analytics,0,Full-time,N/A,"Westlake, TX",False,2,6
+1000,Fidelity Investments,Principal Data Quality Engineer,0,Full-time,N/A,"Boston, MA",False,0,2
+1001,Fidelity Investments,Principal Systems Analyst,0,Full-time,N/A,"Merrimack, NH",False,0,0
+1002,Ally,Senior Analyst IT Cyber Risk,0,Full-time,Mid-Senior level,"Charlotte, NC",False,0,2
+1003,Comcast,"Sr Analyst, Business Support & Analytics",0,Full-time,N/A,"Chelmsford, MA",False,2,7
+1004,Munich Re,"Software/Data Engineer, NA Integrated Analytics (2024 New Grad - New York)",0,Full-time,Entry level,New York City Metropolitan Area,False,45,112
+1005,The Mom Project,Business Analyst,0,Contract,Mid-Senior level,"Redmond, WA",False,5,15
+1006,Comcast,"Analyst, Global Risk Management",0,Full-time,N/A,"Philadelphia, PA",False,2,8
+1007,The Mom Project,Business Analyst,0,Contract,Mid-Senior level,"Houston, TX",False,0,0
+1008,T-Mobile,"Analyst, Cybersecurity Policy and Compliance - Government",0,Full-time,Entry level,"Overland Park, KS",False,0,8
+1009,Evoque,"Director, Data Center Design",0,Full-time,Executive,"Irving, TX",False,1,16
+1010,Genesys,"Manager, Renewal Quoting and Analytics",0,Full-time,Mid-Senior level,"Washington, DC",True,1,9
+1011,The Mom Project,Business Analyst,0,Contract,Mid-Senior level,"Los Angeles, CA",False,0,3
+1012,T-Mobile,"Sr Analyst, Finance",0,Full-time,Mid-Senior level,"Overland Park, KS",False,0,5
+1013,Genesys,"Manager, Renewal Quoting and Analytics",0,Full-time,Mid-Senior level,"Colorado, United States",True,0,1
+1014,VSE Corporation,Program Analyst Associate,0,Contract,Mid-Senior level,"Chesapeake, VA",False,0,0
+1015,Turnberry Solutions,Quality Assurance Analyst,0,Full-time,Mid-Senior level,"Philadelphia, PA",False,6,28
+1016,Thomson Reuters,Paid Media Operations Senior Analyst,0,Full-time,Associate,"Ann Arbor, MI",False,0,0
+1017,TELUS International,Business Analyst (with Pega or Rule Engine tool experience),0,Full-time,Mid-Senior level,"St Louis, MO",False,0,37
+1018,BUILD Chicago,Data Manager,0,Full-time,N/A,"Chicago, IL",False,1,5
+1019,Loyola Medicine,Sr. Lab Information System Analyst,0,Full-time,Mid-Senior level,"Maywood, IL",False,0,0
+1020,DataVox,Solutions Architect - Data Center Solutions,0,Full-time,Associate,Greater Houston,False,12,84
+1021,Epiq,Electronic Records Management Analyst,0,Full-time,Entry level,San Diego Metropolitan Area,False,3,12
+1022,Anblicks,Cloud/Data Architect,0,Full-time,Mid-Senior level,"Dallas, TX",False,1,19
+1023,Greystar,Development Analyst,0,Full-time,Entry level,"Boston, MA",False,0,281
+1024,PRISM,Database Management Analyst(Secret Clearance Required),0,Full-time,N/A,"Fairfax, VA",True,0,44
+1025,Harmer,Credit Analyst,0,Full-time,Associate,"Chicago, IL",False,86,399
+1026,Glanbia Performance Nutrition (GPN),Sr. Commercial Financial Analyst,0,Full-time,Associate,"Downers Grove, IL",False,9,96
+1027,NetApp,Finance Analyst Strategic Deals,0,Full-time,Mid-Senior level,Raleigh-Durham-Chapel Hill Area,True,42,213
+1028,Slate Asset Management,Analyst,0,Full-time,Entry level,"Chicago, IL",False,252,588
+1029,Springboard,Mentor - Machine Learning Career Track (Part-time/Contract),0,Contract,Mid-Senior level,United States,True,14,218
+1030,Diati Staffing,Senior Data Manager,0,Full-time,Mid-Senior level,"Gaithersburg, MD",False,0,17
+1031,Raas Infotek,Exadata Consultant/ Admin,0,Contract,N/A,United States,True,0,26
+1032,Zenex Partners,Business Analyst,0,Contract,Mid-Senior level,"Harrisburg, PA",False,0,202
+1033,ICON Strategic Solutions,Bioanalytical Laboratory Supervisor,0,Full-time,Mid-Senior level,"Whitesboro, NY",False,6,24
+1034,Compunnel Inc.,"Director Data Architect (20+ years relevant exp mandatory , No CTC or CTH)",0,Contract,Director,"Boston, MA",False,0,76
+1035,Software Technology Inc.,Data Engineer,0,Contract,Mid-Senior level,"Grand Rapids, MI",False,0,516
+1036,Northpointe Staffing Professionals ,Finance - Entry Level - Shareholder Services Analyst ,0,Temporary,N/A,"Chicago, IL",False,40,103
+1037,Webologix Ltd/ INC,Salesforce Communication Cloud Business Analyst,0,Full-time,Mid-Senior level,United States,True,62,163
+1038,Covenant Technologies,Vulnerability Analyst,0,Contract,Mid-Senior level,United States,True,222,722
+1039,Rangam,Data Entry Specialist,0,Contract,Associate,"South Burlington, VT",False,0,16
+1040,Cloudious LLC,SAP Data Product Manager With Scrum,0,Contract,Mid-Senior level,United States,True,0,68
+1041,Alpha Silicon,Salesforce (Omnichannel) Business Analyst (100% Remote),0,Full-time,Mid-Senior level,United States,True,95,290
+1042,Zimmer Biomet,Senior Financial Analyst,0,Full-time,Mid-Senior level,"Warsaw, IN",False,21,53
+1043,D&H Distributing,"Analyst, FP&A",0,Full-time,Associate,Greater Harrisburg Area,False,18,37
+1044,REDLEO SOFTWARE INC.,Integration Informatica Lead Data Architect with Healthcare/Pharma Background,0,Contract,Mid-Senior level,United States,True,50,186
+1045,"Finer Recruiting, LLC",Investment Analyst,0,Full-time,Associate,New York City Metropolitan Area,False,244,879
+1046,Magnit,Business Support Analyst,0,Contract,Associate,"California, United States",True,0,1069
+1047,Galactic Minds INC,Product Analyst,0,Contract,Mid-Senior level,"McLean, VA",False,0,49
+1048,Addison Group,Senior Financial Analyst,0,Full-time,Mid-Senior level,"Garland, TX",False,41,104
+1049,RIIM,FACETS Business Analyst,0,Contract,Mid-Senior level,"Dallas, TX",True,0,335
+1050,Covenant Technologies,Business Analyst,0,Contract,Mid-Senior level,United States,True,419,899
+1051,NLB Services,ISU Data Conversion Lead ,0,Contract,Mid-Senior level,United States,True,8,68
+1052,ClifyX,GCP Data lead/Architect,0,Contract,Mid-Senior level,"Milwaukee, WI",False,21,72
+1053,NetApp,Senior Financial Analyst,0,Full-time,Mid-Senior level,Raleigh-Durham-Chapel Hill Area,False,33,109
+1054,Huxley,Software Data Engineer (Scala/Python),0,Full-time,Entry level,"Chicago, IL",False,116,275
+1055,Capco Energy Solutions,Quality Assurance Analyst,0,Full-time,Mid-Senior level,"Houston, TX",False,66,188
+1056,Tata Technologies,CAN Data Log Engineer,0,Full-time,Mid-Senior level,"Foster City, CA",False,3,75
+1057,Non-Profit Organization,"Senior Manager, Data Architecture and Data Engineering    ",0,Full-time,N/A,Greater Philadelphia,False,22,23
+1058,Malibu Boats,IT Senior Business Analyst,0,Full-time,Associate,"Loudon, TN",False,11,44
+1059,Blue Health Intelligence,Product Analyst,0,Full-time,Mid-Senior level,United States,True,110,501
+1060,Anblicks, Cloud/Data Architect,0,Full-time,Mid-Senior level,"Dallas, TX",False,19,92
+1061,Quantum World Technologies Inc.,100% Remote _ Azure Data Architect  _ Immediate Interview !!!,0,Contract,Mid-Senior level,United States,True,0,263
+1062,Top Stack,"Fantastic Position! 100% Remote, Network Security Analyst (Full-Time, Salaried)",0,Full-time,Mid-Senior level,United States,True,214,808
+1063,Robert Walters,"Credit Analyst, Banks and Broker-Dealers",0,Full-time,Director,"New York, NY",False,39,230
+1064,Nemours,"Imaging Informatics, Cardiology - Analyst",0,Full-time,N/A,"Wilmington, DE",False,3,37
+1065,Cloud and Things,Business Analyst,0,Full-time,Mid-Senior level,"Albany, New York Metropolitan Area",False,21,37
+1066,"ActiveSoft, Inc",Data Engineer,0,Contract,Mid-Senior level,United States,True,0,362
+1067,Digitive,Business Systems Analyst,0,Contract,Mid-Senior level,United States,True,172,462
+1068,bp,Compliance Solution Developer Analyst,0,Full-time,Entry level,Greater Houston,False,0,60
+1069,At Home Group Inc.,Financial Analyst,0,Full-time,Entry level,"Coppell, TX",False,52,167
+1070,Frederick Fox,Treasury Analyst,0,Full-time,Mid-Senior level,"Glendale, CA",False,0,94
+1071,VF Corporation,"Senior Analyst, FP&A Digital Technology",0,Full-time,Associate,"Appleton, WI",False,3,26
+1072,Top Stack,Long Term Contract - Business Intelligence Analyst (Hybrid),0,Full-time,Associate,"Philadelphia, PA",False,88,170
+1073,Kenvue,"Sr Analyst, NA Marketing Technology",0,Full-time,Associate,"Skillman, NJ",False,4,44
+1074,Point & Pay,Financial Operations Analyst,0,Full-time,N/A,United States,True,51,200
+1075,Equifax,Data Engineer,0,Full-time,Mid-Senior level,"Atlanta, GA",False,77,316
+1076,Agile Datapro,Data Science & AI - ML Internship,0,Internship,Internship,San Francisco Bay Area,False,188,566
+1077,Marsh McLennan Agency,Employee Health & Benefits Marketing Analyst (MMA Bouchard),0,Full-time,Entry level,"Clearwater, FL",False,2,28
+1078,"Solve IT Strategies, Inc.",Data Engineer (W2 ONLY),0,Contract,Mid-Senior level,United States,True,0,249
+1079,Kenvue,"Sr Analyst, NA Marketing Technology",0,Full-time,Associate,Nashville Metropolitan Area,False,2,40
+1080,Wellabe,Actuary Analyst- Hybrid,0,Full-time,Mid-Senior level,"Des Moines, IA",False,6,62
+1081,North American Bancard,Financial Operations Analyst,0,Full-time,N/A,"Troy, MI",False,12,70
+1082,Anblicks,Cloud/Data Architect,0,Full-time,Mid-Senior level,"Dallas, TX",False,12,60
+1083,Toyota North America,Analyst – PC North American Parts Ordering,0,Full-time,N/A,"Georgetown, KY",False,7,63
+1084,Toyota North America,Analyst – Assembly Line Control (ALC),0,Full-time,N/A,"Georgetown, KY",False,1,34
+1085,Teachstone,CLASS Data Assessor,0,Contract,Associate,"Virginia, United States",False,7,28
+1086,Baker McKenzie Tampa Center,Conflicts Analyst,0,Full-time,Associate,"Tampa, FL",False,0,0
+1087,"University of California, San Francisco",Financial Analyst,0,Full-time,N/A,"San Francisco, CA",False,5,62
+1088,Levy Search,Senior Data Scientist,0,Full-time,Director,"Chicago, IL",True,136,305
+1089,springheadtechnologies,Senior Data Analyst (Onsite),0,Contract,Mid-Senior level,"Plano, TX",False,195,365
+1090,CreateMe,Service Desk Analyst,0,Temporary,N/A,United States,True,43,207
+1091,Intellisoft Technologies,GIS Data Architect,0,Contract,Mid-Senior level,"Austin, TX",False,0,22
+1092,AccruePartners,Pricing Data Analyst,0,Full-time,Entry level,"Charlotte, NC",False,57,195
+1093,Evalueserve,Investment Banking Analyst,0,Full-time,Entry level,"Alpharetta, GA",False,172,456
+1094,Teachstone,CLASS Data Assessor,0,Contract,Associate,"Pittsylvania County, VA",False,4,30
+1095,Marathon Cheese Corporation,Cost Analyst,0,Full-time,Associate,"Marathon City, WI",False,8,53
+1096,Baker McKenzie Tampa Center,Conflicts Analyst,0,Full-time,Associate,"Tampa, FL",False,15,195
+1097,Molex,Molex Analyst (Finance) Intern,0,Full-time,Internship,"Lisle, IL",False,13,72
+1098,Teachstone,CLASS Data Assessor,0,Contract,Associate,"Newport News City County, VA",False,5,17
+1099,SMX,Senior Financial Analyst (2599),0,Full-time,Mid-Senior level,"Huntsville, AL",False,0,11
+1100,WVU Medicine,Reimbursement Analyst-Remote,0,Full-time,Entry level,"Core, WV",False,2,20
+1101,INVISTA,Accounting Analyst,0,Full-time,Entry level,"Wichita, KS",False,1,19
+1102,"enLabel Global Services, Inc.",Quality Assurance Analyst,0,Full-time,N/A,Greater Boston,False,23,53
+1103,Teachstone,CLASS Data Assessor,0,Contract,Associate,"Chesterfield County, VA",False,5,26
+1104,Eastman,Senior Business Intelligence Analyst,0,Full-time,Mid-Senior level,"Kingsport, TN",True,82,244
+1105,First Citizens Bank,"Financial Analyst, Treasury Operations Support (Hybrid)",0,Full-time,N/A,"Morristown, NJ",False,21,108
+1106,Net2Source Inc.,Basel Business Analyst,0,Contract,Mid-Senior level,"Washington, DC",False,65,218
+1107,NBC Sports Next,Data Engineer II - NBC Sports Next,0,Full-time,Mid-Senior level,"Minneapolis, MN",True,92,301
+1108,Teachstone,CLASS Data Assessor,0,Contract,Associate,"Virginia Beach City County, VA",False,7,24
+1109,First Citizens Bank,Risk Analyst III,0,Full-time,N/A,"Raleigh, NC",True,58,355
+1110,Molex,Molex Analyst (Finance) Intern,0,Full-time,Internship,"Hudson, WI",False,2,41
+1111,Sila Solutions Group,Privacy Analyst,0,Full-time,Entry level,"Tukwila, WA",False,7,54
+1112,DocuSign,Data Engineer,0,Full-time,Entry level,"Seattle, WA",False,86,419
+1113,RBW Consulting,Senior Clinical Data Manager,0,Contract,Mid-Senior level,United States,True,108,323
+1114,Oracle,Principal Software Engineer - Cloud Data Center,0,Full-time,Mid-Senior level,Greater Seattle Area,False,15,137
+1115,Aeyon,Strategic Management Analyst-1910,0,Full-time,Mid-Senior level,"Arlington, VA",False,27,141
+1116,Basin Electric Power Cooperative,Accounting Analyst I or II (AP),0,Full-time,Associate,"Bismarck, ND",False,0,15
+1117,Compunnel Inc.,Director Data Architect ,0,Contract,Mid-Senior level,"Texas, United States",False,0,93
+1118,Oracle,Senior Software Engineer - Cloud Data Center,0,Full-time,Mid-Senior level,"Austin, Texas Metropolitan Area",False,16,165
+1119,Savannah River Nuclear Solutions,Business Analyst - Cost Ctrl,0,Full-time,Mid-Senior level,"Aiken, SC",False,12,46
+1120,USClaims,CRM Analyst,0,Full-time,N/A,"Delray Beach, FL",False,32,124
+1121,Plaxonic,Oracle EBS Techno-Functional Analyst,0,Contract,N/A,"Richmond, VA",False,4,23
+1122,Hitachi Energy,AR Analyst,0,Full-time,Mid-Senior level,"Raleigh, NC",False,2,19
+1123,Crowe,Senior Business Analyst,0,Full-time,N/A,"Dallas, TX",False,15,65
+1124,Crowe,Senior Business Analyst,0,Full-time,N/A,"Cleveland, OH",False,9,31
+1125,Crowe,Senior Business Analyst,0,Full-time,N/A,"Fort Lauderdale, FL",False,4,40
+1126,Crowe,Senior Business Analyst,0,Full-time,N/A,"Clayton, MO",False,11,39
+1127,Crowe,Senior Business Analyst,0,Full-time,N/A,"Tampa, FL",False,8,38
+1128,Penn State Health,(REMOTE) Risk Analyst- Enterprise Risk Management,0,Full-time,Mid-Senior level,United States,True,74,514
+1129,Hitachi Energy,Finance Analyst,0,Contract,Mid-Senior level,"Crystal Springs, MS",False,7,55
+1130,American National,Actuarial Analyst I,0,Full-time,Mid-Senior level,"Galveston, TX",False,0,12
+1131,Experian,Senior Compensation Analyst,0,Full-time,Associate,"Costa Mesa, CA",False,5,75
+1132,Blankfactor,Senior Data Architect,0,Full-time,Mid-Senior level,"Miami Beach, FL",False,17,50
+1133,EPRI,Legal Student Employee - Operations & Data Analyst,0,Part-time,Internship,"Knoxville, TN",False,0,18
+1134,Broadridge,Lead Data Management Services Analyst (Hybrid - Flexible Options),0,Full-time,N/A,"Pittsburgh, PA",False,8,34
+1135,Bell Flight,Trade Compliance Senior Analyst,0,Full-time,Associate,"Fort Worth, TX",False,3,25
+1136,"TalentBurst, an Inc 5000 company",ISR/C2 Analyst,0,Contract,Mid-Senior level,"Nellis AFB, NV",False,0,29
+1137,Northern Trust Corporation,Product Analyst,0,Contract,Mid-Senior level,"Chicago, IL",False,18,102

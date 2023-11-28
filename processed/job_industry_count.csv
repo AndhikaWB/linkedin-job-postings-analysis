@@ -1,0 +1,3171 @@
+,industry_name,state,count,med,sum_count,avg_med,sum_med
+0,IT Services and IT Consulting,,365,9920.0,1941,7804.0,311438.0
+1,IT Services and IT Consulting,CA,207,8320.0,1941,7804.0,311438.0
+2,IT Services and IT Consulting,TX,185,8333.0,1941,7804.0,311438.0
+3,IT Services and IT Consulting,VA,119,9920.0,1941,7804.0,311438.0
+4,IT Services and IT Consulting,WA,88,9583.0,1941,7804.0,311438.0
+5,IT Services and IT Consulting,NY,85,9600.0,1941,7804.0,311438.0
+6,IT Services and IT Consulting,FL,78,9791.0,1941,7804.0,311438.0
+7,IT Services and IT Consulting,NJ,69,4160.0,1941,7804.0,311438.0
+8,IT Services and IT Consulting,GA,62,9600.0,1941,7804.0,311438.0
+9,IT Services and IT Consulting,IL,56,8750.0,1941,7804.0,311438.0
+10,IT Services and IT Consulting,PA,52,8750.0,1941,7804.0,311438.0
+11,IT Services and IT Consulting,OH,44,4640.0,1941,7804.0,311438.0
+12,IT Services and IT Consulting,MD,43,9962.0,1941,7804.0,311438.0
+13,IT Services and IT Consulting,AZ,38,5416.0,1941,7804.0,311438.0
+14,IT Services and IT Consulting,MI,36,8800.0,1941,7804.0,311438.0
+15,IT Services and IT Consulting,NC,35,9962.0,1941,7804.0,311438.0
+16,IT Services and IT Consulting,MO,35,9333.0,1941,7804.0,311438.0
+17,IT Services and IT Consulting,MA,30,3840.0,1941,7804.0,311438.0
+18,IT Services and IT Consulting,CO,30,5208.0,1941,7804.0,311438.0
+19,IT Services and IT Consulting,TN,22,8366.0,1941,7804.0,311438.0
+20,IT Services and IT Consulting,DC,22,7975.0,1941,7804.0,311438.0
+21,IT Services and IT Consulting,SC,21,7291.0,1941,7804.0,311438.0
+22,IT Services and IT Consulting,IN,20,7040.0,1941,7804.0,311438.0
+23,IT Services and IT Consulting,MS,16,7804.0,1941,7804.0,311438.0
+24,IT Services and IT Consulting,CT,16,2880.0,1941,7804.0,311438.0
+25,IT Services and IT Consulting,MN,15,4480.0,1941,7804.0,311438.0
+26,IT Services and IT Consulting,UT,14,2400.0,1941,7804.0,311438.0
+27,IT Services and IT Consulting,OR,12,5416.0,1941,7804.0,311438.0
+28,IT Services and IT Consulting,DE,12,,1941,7804.0,311438.0
+29,IT Services and IT Consulting,WI,10,9920.0,1941,7804.0,311438.0
+30,IT Services and IT Consulting,KY,9,4833.0,1941,7804.0,311438.0
+31,IT Services and IT Consulting,IA,9,4000.0,1941,7804.0,311438.0
+32,IT Services and IT Consulting,AL,9,,1941,7804.0,311438.0
+33,IT Services and IT Consulting,NV,8,2720.0,1941,7804.0,311438.0
+34,IT Services and IT Consulting,OK,7,3520.0,1941,7804.0,311438.0
+35,IT Services and IT Consulting,KS,7,9600.0,1941,7804.0,311438.0
+36,IT Services and IT Consulting,AR,7,2240.0,1941,7804.0,311438.0
+37,IT Services and IT Consulting,RI,6,5000.0,1941,7804.0,311438.0
+38,IT Services and IT Consulting,NM,6,7916.0,1941,7804.0,311438.0
+39,IT Services and IT Consulting,NH,6,2720.0,1941,7804.0,311438.0
+40,IT Services and IT Consulting,VT,4,2720.0,1941,7804.0,311438.0
+41,IT Services and IT Consulting,SD,4,2240.0,1941,7804.0,311438.0
+42,IT Services and IT Consulting,ME,4,6375.0,1941,7804.0,311438.0
+43,IT Services and IT Consulting,ID,4,12000.0,1941,7804.0,311438.0
+44,IT Services and IT Consulting,NE,3,,1941,7804.0,311438.0
+45,IT Services and IT Consulting,ND,3,7908.0,1941,7804.0,311438.0
+46,IT Services and IT Consulting,LA,3,16666.0,1941,7804.0,311438.0
+47,IT Services and IT Consulting,MT,2,3520.0,1941,7804.0,311438.0
+48,IT Services and IT Consulting,HI,2,,1941,7804.0,311438.0
+49,IT Services and IT Consulting,WY,1,,1941,7804.0,311438.0
+50,Hospitals and Health Care,CA,176,7520.0,1607,6080.0,251893.0
+51,Hospitals and Health Care,NY,147,7083.0,1607,6080.0,251893.0
+52,Hospitals and Health Care,,140,7520.0,1607,6080.0,251893.0
+53,Hospitals and Health Care,TX,123,6880.0,1607,6080.0,251893.0
+54,Hospitals and Health Care,FL,90,4375.0,1607,6080.0,251893.0
+55,Hospitals and Health Care,MA,83,7000.0,1607,6080.0,251893.0
+56,Hospitals and Health Care,PA,72,9120.0,1607,6080.0,251893.0
+57,Hospitals and Health Care,WA,58,4800.0,1607,6080.0,251893.0
+58,Hospitals and Health Care,OH,52,11200.0,1607,6080.0,251893.0
+59,Hospitals and Health Care,MI,50,4312.0,1607,6080.0,251893.0
+60,Hospitals and Health Care,TN,43,10416.0,1607,6080.0,251893.0
+61,Hospitals and Health Care,VA,40,6240.0,1607,6080.0,251893.0
+62,Hospitals and Health Care,WI,39,5000.0,1607,6080.0,251893.0
+63,Hospitals and Health Care,NC,36,5524.0,1607,6080.0,251893.0
+64,Hospitals and Health Care,IL,34,3840.0,1607,6080.0,251893.0
+65,Hospitals and Health Care,GA,31,3200.0,1607,6080.0,251893.0
+66,Hospitals and Health Care,MD,29,3200.0,1607,6080.0,251893.0
+67,Hospitals and Health Care,CT,28,3200.0,1607,6080.0,251893.0
+68,Hospitals and Health Care,NJ,27,5500.0,1607,6080.0,251893.0
+69,Hospitals and Health Care,AZ,27,3520.0,1607,6080.0,251893.0
+70,Hospitals and Health Care,OR,24,6240.0,1607,6080.0,251893.0
+71,Hospitals and Health Care,SC,22,8666.0,1607,6080.0,251893.0
+72,Hospitals and Health Care,IN,22,4458.0,1607,6080.0,251893.0
+73,Hospitals and Health Care,UT,20,4160.0,1607,6080.0,251893.0
+74,Hospitals and Health Care,IA,19,,1607,6080.0,251893.0
+75,Hospitals and Health Care,MO,18,10416.0,1607,6080.0,251893.0
+76,Hospitals and Health Care,NV,17,6080.0,1607,6080.0,251893.0
+77,Hospitals and Health Care,KY,16,9891.0,1607,6080.0,251893.0
+78,Hospitals and Health Care,CO,16,5920.0,1607,6080.0,251893.0
+79,Hospitals and Health Care,MN,15,4166.0,1607,6080.0,251893.0
+80,Hospitals and Health Care,LA,14,4122.0,1607,6080.0,251893.0
+81,Hospitals and Health Care,WV,11,,1607,6080.0,251893.0
+82,Hospitals and Health Care,KS,11,8958.0,1607,6080.0,251893.0
+83,Hospitals and Health Care,DE,10,2400.0,1607,6080.0,251893.0
+84,Hospitals and Health Care,RI,7,7040.0,1607,6080.0,251893.0
+85,Hospitals and Health Care,NE,5,,1607,6080.0,251893.0
+86,Hospitals and Health Care,OK,4,1920.0,1607,6080.0,251893.0
+87,Hospitals and Health Care,ID,4,7840.0,1607,6080.0,251893.0
+88,Hospitals and Health Care,AK,4,7520.0,1607,6080.0,251893.0
+89,Hospitals and Health Care,WY,3,4320.0,1607,6080.0,251893.0
+90,Hospitals and Health Care,NM,3,7200.0,1607,6080.0,251893.0
+91,Hospitals and Health Care,NH,3,3360.0,1607,6080.0,251893.0
+92,Hospitals and Health Care,AL,3,,1607,6080.0,251893.0
+93,Hospitals and Health Care,ND,2,10833.0,1607,6080.0,251893.0
+94,Hospitals and Health Care,MS,2,,1607,6080.0,251893.0
+95,Hospitals and Health Care,ME,2,,1607,6080.0,251893.0
+96,Hospitals and Health Care,HI,2,6933.0,1607,6080.0,251893.0
+97,Hospitals and Health Care,VT,1,,1607,6080.0,251893.0
+98,Hospitals and Health Care,SD,1,,1607,6080.0,251893.0
+99,Hospitals and Health Care,DC,1,,1607,6080.0,251893.0
+100,Retail,CA,128,3520.0,1081,3040.0,119381.0
+101,Retail,TX,99,3040.0,1081,3040.0,119381.0
+102,Retail,NY,68,3680.0,1081,3040.0,119381.0
+103,Retail,FL,66,3520.0,1081,3040.0,119381.0
+104,Retail,MN,55,2880.0,1081,3040.0,119381.0
+105,Retail,IL,47,2240.0,1081,3040.0,119381.0
+106,Retail,,43,10291.0,1081,3040.0,119381.0
+107,Retail,NC,39,2240.0,1081,3040.0,119381.0
+108,Retail,NJ,34,6666.0,1081,3040.0,119381.0
+109,Retail,MD,32,2080.0,1081,3040.0,119381.0
+110,Retail,GA,31,2720.0,1081,3040.0,119381.0
+111,Retail,WA,29,3360.0,1081,3040.0,119381.0
+112,Retail,VA,28,4000.0,1081,3040.0,119381.0
+113,Retail,SC,28,8666.0,1081,3040.0,119381.0
+114,Retail,MI,28,4640.0,1081,3040.0,119381.0
+115,Retail,CO,27,3200.0,1081,3040.0,119381.0
+116,Retail,PA,24,2240.0,1081,3040.0,119381.0
+117,Retail,OH,23,6400.0,1081,3040.0,119381.0
+118,Retail,MA,23,3360.0,1081,3040.0,119381.0
+119,Retail,TN,19,2880.0,1081,3040.0,119381.0
+120,Retail,UT,16,3040.0,1081,3040.0,119381.0
+121,Retail,MO,15,2080.0,1081,3040.0,119381.0
+122,Retail,AL,14,,1081,3040.0,119381.0
+123,Retail,AK,14,,1081,3040.0,119381.0
+124,Retail,WI,13,,1081,3040.0,119381.0
+125,Retail,IN,12,2560.0,1081,3040.0,119381.0
+126,Retail,AZ,12,4160.0,1081,3040.0,119381.0
+127,Retail,CT,11,2720.0,1081,3040.0,119381.0
+128,Retail,AR,11,,1081,3040.0,119381.0
+129,Retail,MS,10,1760.0,1081,3040.0,119381.0
+130,Retail,NV,8,2400.0,1081,3040.0,119381.0
+131,Retail,LA,8,,1081,3040.0,119381.0
+132,Retail,OK,7,2080.0,1081,3040.0,119381.0
+133,Retail,NH,7,4375.0,1081,3040.0,119381.0
+134,Retail,OR,6,,1081,3040.0,119381.0
+135,Retail,KY,6,,1081,3040.0,119381.0
+136,Retail,KS,6,4583.0,1081,3040.0,119381.0
+137,Retail,ID,6,,1081,3040.0,119381.0
+138,Retail,NE,5,3200.0,1081,3040.0,119381.0
+139,Retail,SD,3,2080.0,1081,3040.0,119381.0
+140,Retail,NM,3,2720.0,1081,3040.0,119381.0
+141,Retail,ND,3,,1081,3040.0,119381.0
+142,Retail,IA,3,,1081,3040.0,119381.0
+143,Retail,DE,3,,1081,3040.0,119381.0
+144,Retail,RI,2,,1081,3040.0,119381.0
+145,Retail,DC,2,,1081,3040.0,119381.0
+146,Retail,WV,1,,1081,3040.0,119381.0
+147,Retail,VT,1,,1081,3040.0,119381.0
+148,Retail,MT,1,,1081,3040.0,119381.0
+149,Retail,HI,1,,1081,3040.0,119381.0
+150,Staffing and Recruiting,,131,9583.0,991,5833.0,251615.0
+151,Staffing and Recruiting,CA,129,7680.0,991,5833.0,251615.0
+152,Staffing and Recruiting,TX,77,7200.0,991,5833.0,251615.0
+153,Staffing and Recruiting,NY,63,7083.0,991,5833.0,251615.0
+154,Staffing and Recruiting,NC,53,8320.0,991,5833.0,251615.0
+155,Staffing and Recruiting,FL,49,5833.0,991,5833.0,251615.0
+156,Staffing and Recruiting,NJ,33,5440.0,991,5833.0,251615.0
+157,Staffing and Recruiting,PA,31,10331.0,991,5833.0,251615.0
+158,Staffing and Recruiting,OH,31,8958.0,991,5833.0,251615.0
+159,Staffing and Recruiting,GA,28,4960.0,991,5833.0,251615.0
+160,Staffing and Recruiting,SC,26,5600.0,991,5833.0,251615.0
+161,Staffing and Recruiting,MA,25,8958.0,991,5833.0,251615.0
+162,Staffing and Recruiting,IL,23,5625.0,991,5833.0,251615.0
+163,Staffing and Recruiting,MI,22,6560.0,991,5833.0,251615.0
+164,Staffing and Recruiting,WA,21,4320.0,991,5833.0,251615.0
+165,Staffing and Recruiting,VA,20,9600.0,991,5833.0,251615.0
+166,Staffing and Recruiting,OR,20,6400.0,991,5833.0,251615.0
+167,Staffing and Recruiting,MD,20,5208.0,991,5833.0,251615.0
+168,Staffing and Recruiting,MN,19,6250.0,991,5833.0,251615.0
+169,Staffing and Recruiting,AZ,17,3360.0,991,5833.0,251615.0
+170,Staffing and Recruiting,CO,16,7083.0,991,5833.0,251615.0
+171,Staffing and Recruiting,WI,14,7708.0,991,5833.0,251615.0
+172,Staffing and Recruiting,TN,12,6043.0,991,5833.0,251615.0
+173,Staffing and Recruiting,MO,12,6880.0,991,5833.0,251615.0
+174,Staffing and Recruiting,IN,11,7083.0,991,5833.0,251615.0
+175,Staffing and Recruiting,CT,11,6560.0,991,5833.0,251615.0
+176,Staffing and Recruiting,DC,9,5833.0,991,5833.0,251615.0
+177,Staffing and Recruiting,IA,8,,991,5833.0,251615.0
+178,Staffing and Recruiting,KY,7,3958.0,991,5833.0,251615.0
+179,Staffing and Recruiting,KS,6,3680.0,991,5833.0,251615.0
+180,Staffing and Recruiting,NV,5,4800.0,991,5833.0,251615.0
+181,Staffing and Recruiting,RI,4,5000.0,991,5833.0,251615.0
+182,Staffing and Recruiting,NE,4,3458.0,991,5833.0,251615.0
+183,Staffing and Recruiting,MS,4,5120.0,991,5833.0,251615.0
+184,Staffing and Recruiting,OK,3,12000.0,991,5833.0,251615.0
+185,Staffing and Recruiting,NM,3,2400.0,991,5833.0,251615.0
+186,Staffing and Recruiting,LA,3,3840.0,991,5833.0,251615.0
+187,Staffing and Recruiting,HI,3,,991,5833.0,251615.0
+188,Staffing and Recruiting,AR,3,4500.0,991,5833.0,251615.0
+189,Staffing and Recruiting,AL,3,3840.0,991,5833.0,251615.0
+190,Staffing and Recruiting,WV,2,,991,5833.0,251615.0
+191,Staffing and Recruiting,UT,2,,991,5833.0,251615.0
+192,Staffing and Recruiting,AK,2,3040.0,991,5833.0,251615.0
+193,Staffing and Recruiting,VT,1,,991,5833.0,251615.0
+194,Staffing and Recruiting,SD,1,,991,5833.0,251615.0
+195,Staffing and Recruiting,NH,1,,991,5833.0,251615.0
+196,Staffing and Recruiting,MT,1,,991,5833.0,251615.0
+197,Staffing and Recruiting,ME,1,11520.0,991,5833.0,251615.0
+198,Staffing and Recruiting,ID,1,,991,5833.0,251615.0
+199,Financial Services,,138,8250.0,934,7666.0,325761.0
+200,Financial Services,NY,101,9802.0,934,7666.0,325761.0
+201,Financial Services,CA,63,8000.0,934,7666.0,325761.0
+202,Financial Services,TX,62,6250.0,934,7666.0,325761.0
+203,Financial Services,FL,59,8845.0,934,7666.0,325761.0
+204,Financial Services,IL,45,8750.0,934,7666.0,325761.0
+205,Financial Services,NC,41,5920.0,934,7666.0,325761.0
+206,Financial Services,GA,39,7754.0,934,7666.0,325761.0
+207,Financial Services,MO,37,2720.0,934,7666.0,325761.0
+208,Financial Services,AZ,29,4000.0,934,7666.0,325761.0
+209,Financial Services,MA,23,7916.0,934,7666.0,325761.0
+210,Financial Services,NJ,22,9000.0,934,7666.0,325761.0
+211,Financial Services,PA,21,7666.0,934,7666.0,325761.0
+212,Financial Services,VA,20,8845.0,934,7666.0,325761.0
+213,Financial Services,CO,20,5833.0,934,7666.0,325761.0
+214,Financial Services,WI,17,5280.0,934,7666.0,325761.0
+215,Financial Services,MD,16,7050.0,934,7666.0,325761.0
+216,Financial Services,MI,15,4583.0,934,7666.0,325761.0
+217,Financial Services,OH,14,5920.0,934,7666.0,325761.0
+218,Financial Services,SC,13,5760.0,934,7666.0,325761.0
+219,Financial Services,MN,13,5000.0,934,7666.0,325761.0
+220,Financial Services,OK,12,8160.0,934,7666.0,325761.0
+221,Financial Services,KS,12,2720.0,934,7666.0,325761.0
+222,Financial Services,CT,11,11250.0,934,7666.0,325761.0
+223,Financial Services,TN,7,7754.0,934,7666.0,325761.0
+224,Financial Services,AR,7,5417.0,934,7666.0,325761.0
+225,Financial Services,WV,6,12500.0,934,7666.0,325761.0
+226,Financial Services,WA,6,5208.0,934,7666.0,325761.0
+227,Financial Services,LA,6,30208.0,934,7666.0,325761.0
+228,Financial Services,IN,6,7683.0,934,7666.0,325761.0
+229,Financial Services,DE,6,7754.0,934,7666.0,325761.0
+230,Financial Services,DC,6,6666.0,934,7666.0,325761.0
+231,Financial Services,UT,5,6041.0,934,7666.0,325761.0
+232,Financial Services,NV,5,3680.0,934,7666.0,325761.0
+233,Financial Services,NE,5,5000.0,934,7666.0,325761.0
+234,Financial Services,IA,5,4300.0,934,7666.0,325761.0
+235,Financial Services,AL,5,12500.0,934,7666.0,325761.0
+236,Financial Services,OR,4,3360.0,934,7666.0,325761.0
+237,Financial Services,NH,4,8416.0,934,7666.0,325761.0
+238,Financial Services,KY,3,,934,7666.0,325761.0
+239,Financial Services,RI,2,9000.0,934,7666.0,325761.0
+240,Financial Services,ND,1,12500.0,934,7666.0,325761.0
+241,Financial Services,ME,1,,934,7666.0,325761.0
+242,Financial Services,ID,1,12500.0,934,7666.0,325761.0
+243,Software Development,,175,10416.0,792,10416.0,439970.0
+244,Software Development,CA,105,11508.0,792,10416.0,439970.0
+245,Software Development,WA,59,11650.0,792,10416.0,439970.0
+246,Software Development,TX,50,11545.0,792,10416.0,439970.0
+247,Software Development,NY,49,11666.0,792,10416.0,439970.0
+248,Software Development,FL,30,8845.0,792,10416.0,439970.0
+249,Software Development,VA,28,13387.0,792,10416.0,439970.0
+250,Software Development,GA,28,8845.0,792,10416.0,439970.0
+251,Software Development,MA,23,13220.0,792,10416.0,439970.0
+252,Software Development,IL,21,9375.0,792,10416.0,439970.0
+253,Software Development,NC,20,9779.0,792,10416.0,439970.0
+254,Software Development,AZ,17,5833.0,792,10416.0,439970.0
+255,Software Development,NJ,16,6666.0,792,10416.0,439970.0
+256,Software Development,CO,14,7591.0,792,10416.0,439970.0
+257,Software Development,PA,13,9125.0,792,10416.0,439970.0
+258,Software Development,MI,12,9779.0,792,10416.0,439970.0
+259,Software Development,MD,12,11445.0,792,10416.0,439970.0
+260,Software Development,OH,10,8125.0,792,10416.0,439970.0
+261,Software Development,TN,9,5920.0,792,10416.0,439970.0
+262,Software Development,OR,9,6250.0,792,10416.0,439970.0
+263,Software Development,DC,8,2400.0,792,10416.0,439970.0
+264,Software Development,UT,6,9445.0,792,10416.0,439970.0
+265,Software Development,SD,6,11445.0,792,10416.0,439970.0
+266,Software Development,MO,6,,792,10416.0,439970.0
+267,Software Development,WI,5,13387.0,792,10416.0,439970.0
+268,Software Development,IN,5,9779.0,792,10416.0,439970.0
+269,Software Development,DE,5,12045.0,792,10416.0,439970.0
+270,Software Development,SC,4,7291.0,792,10416.0,439970.0
+271,Software Development,OK,4,11445.0,792,10416.0,439970.0
+272,Software Development,MN,4,33333.0,792,10416.0,439970.0
+273,Software Development,KY,4,11445.0,792,10416.0,439970.0
+274,Software Development,CT,4,8000.0,792,10416.0,439970.0
+275,Software Development,AL,4,10416.0,792,10416.0,439970.0
+276,Software Development,NH,3,9779.0,792,10416.0,439970.0
+277,Software Development,ND,3,7908.0,792,10416.0,439970.0
+278,Software Development,MS,3,,792,10416.0,439970.0
+279,Software Development,AR,3,11445.0,792,10416.0,439970.0
+280,Software Development,RI,2,11445.0,792,10416.0,439970.0
+281,Software Development,NE,2,11445.0,792,10416.0,439970.0
+282,Software Development,ME,2,,792,10416.0,439970.0
+283,Software Development,LA,2,16666.0,792,10416.0,439970.0
+284,Software Development,KS,2,,792,10416.0,439970.0
+285,Software Development,NV,1,3840.0,792,10416.0,439970.0
+286,Software Development,NM,1,,792,10416.0,439970.0
+287,Software Development,MT,1,13387.0,792,10416.0,439970.0
+288,Software Development,ID,1,,792,10416.0,439970.0
+289,Software Development,IA,1,22654.0,792,10416.0,439970.0
+290,"Technology, Information and Internet",CA,114,12250.0,587,7958.0,271536.0
+291,"Technology, Information and Internet",WA,64,13500.0,587,7958.0,271536.0
+292,"Technology, Information and Internet",,55,9583.0,587,7958.0,271536.0
+293,"Technology, Information and Internet",NY,40,12291.0,587,7958.0,271536.0
+294,"Technology, Information and Internet",IL,35,13541.0,587,7958.0,271536.0
+295,"Technology, Information and Internet",TX,33,8750.0,587,7958.0,271536.0
+296,"Technology, Information and Internet",VA,29,11708.0,587,7958.0,271536.0
+297,"Technology, Information and Internet",GA,29,14666.0,587,7958.0,271536.0
+298,"Technology, Information and Internet",MA,21,12036.0,587,7958.0,271536.0
+299,"Technology, Information and Internet",FL,17,10833.0,587,7958.0,271536.0
+300,"Technology, Information and Internet",NJ,13,7500.0,587,7958.0,271536.0
+301,"Technology, Information and Internet",CO,13,2720.0,587,7958.0,271536.0
+302,"Technology, Information and Internet",OH,12,11250.0,587,7958.0,271536.0
+303,"Technology, Information and Internet",PA,11,3040.0,587,7958.0,271536.0
+304,"Technology, Information and Internet",NC,11,12640.0,587,7958.0,271536.0
+305,"Technology, Information and Internet",CT,10,2880.0,587,7958.0,271536.0
+306,"Technology, Information and Internet",MO,8,7958.0,587,7958.0,271536.0
+307,"Technology, Information and Internet",MD,8,4766.0,587,7958.0,271536.0
+308,"Technology, Information and Internet",TN,6,6445.0,587,7958.0,271536.0
+309,"Technology, Information and Internet",WI,5,6250.0,587,7958.0,271536.0
+310,"Technology, Information and Internet",UT,5,11083.0,587,7958.0,271536.0
+311,"Technology, Information and Internet",OR,5,11562.0,587,7958.0,271536.0
+312,"Technology, Information and Internet",AZ,5,15879.0,587,7958.0,271536.0
+313,"Technology, Information and Internet",MI,4,1750.0,587,7958.0,271536.0
+314,"Technology, Information and Internet",VT,3,2720.0,587,7958.0,271536.0
+315,"Technology, Information and Internet",SC,3,,587,7958.0,271536.0
+316,"Technology, Information and Internet",MS,3,,587,7958.0,271536.0
+317,"Technology, Information and Internet",DE,3,12045.0,587,7958.0,271536.0
+318,"Technology, Information and Internet",OK,2,7000.0,587,7958.0,271536.0
+319,"Technology, Information and Internet",NH,2,2720.0,587,7958.0,271536.0
+320,"Technology, Information and Internet",MN,2,,587,7958.0,271536.0
+321,"Technology, Information and Internet",KS,2,6250.0,587,7958.0,271536.0
+322,"Technology, Information and Internet",IN,2,2400.0,587,7958.0,271536.0
+323,"Technology, Information and Internet",DC,2,6520.0,587,7958.0,271536.0
+324,"Technology, Information and Internet",AL,2,7000.0,587,7958.0,271536.0
+325,"Technology, Information and Internet",SD,1,,587,7958.0,271536.0
+326,"Technology, Information and Internet",RI,1,,587,7958.0,271536.0
+327,"Technology, Information and Internet",NV,1,,587,7958.0,271536.0
+328,"Technology, Information and Internet",NM,1,,587,7958.0,271536.0
+329,"Technology, Information and Internet",KY,1,,587,7958.0,271536.0
+330,"Technology, Information and Internet",ID,1,,587,7958.0,271536.0
+331,"Technology, Information and Internet",IA,1,,587,7958.0,271536.0
+332,"Technology, Information and Internet",AR,1,,587,7958.0,271536.0
+333,Construction,TX,76,7040.0,534,5416.0,204427.0
+334,Construction,CA,56,7708.0,534,5416.0,204427.0
+335,Construction,,39,7708.0,534,5416.0,204427.0
+336,Construction,FL,36,5416.0,534,5416.0,204427.0
+337,Construction,GA,23,4583.0,534,5416.0,204427.0
+338,Construction,NC,21,4541.0,534,5416.0,204427.0
+339,Construction,WA,18,5425.0,534,5416.0,204427.0
+340,Construction,AZ,17,4791.0,534,5416.0,204427.0
+341,Construction,VA,14,3040.0,534,5416.0,204427.0
+342,Construction,PA,14,4583.0,534,5416.0,204427.0
+343,Construction,NY,14,9053.0,534,5416.0,204427.0
+344,Construction,TN,13,6041.0,534,5416.0,204427.0
+345,Construction,OH,13,5693.0,534,5416.0,204427.0
+346,Construction,MO,13,3680.0,534,5416.0,204427.0
+347,Construction,IN,13,5760.0,534,5416.0,204427.0
+348,Construction,LA,12,10833.0,534,5416.0,204427.0
+349,Construction,CO,11,8333.0,534,5416.0,204427.0
+350,Construction,MN,10,7208.0,534,5416.0,204427.0
+351,Construction,MA,10,1920.0,534,5416.0,204427.0
+352,Construction,IL,10,7500.0,534,5416.0,204427.0
+353,Construction,SC,9,,534,5416.0,204427.0
+354,Construction,WI,7,8333.0,534,5416.0,204427.0
+355,Construction,NJ,7,9375.0,534,5416.0,204427.0
+356,Construction,AL,7,2880.0,534,5416.0,204427.0
+357,Construction,OK,6,,534,5416.0,204427.0
+358,Construction,MD,6,5833.0,534,5416.0,204427.0
+359,Construction,ID,6,9166.0,534,5416.0,204427.0
+360,Construction,OR,5,3200.0,534,5416.0,204427.0
+361,Construction,NV,5,5120.0,534,5416.0,204427.0
+362,Construction,MI,5,3200.0,534,5416.0,204427.0
+363,Construction,KS,5,3200.0,534,5416.0,204427.0
+364,Construction,IA,5,7500.0,534,5416.0,204427.0
+365,Construction,NM,4,,534,5416.0,204427.0
+366,Construction,DC,4,,534,5416.0,204427.0
+367,Construction,MT,3,3040.0,534,5416.0,204427.0
+368,Construction,KY,3,,534,5416.0,204427.0
+369,Construction,UT,2,4000.0,534,5416.0,204427.0
+370,Construction,NE,2,3040.0,534,5416.0,204427.0
+371,Construction,CT,2,,534,5416.0,204427.0
+372,Construction,AR,2,4791.0,534,5416.0,204427.0
+373,Construction,WY,1,,534,5416.0,204427.0
+374,Construction,SD,1,,534,5416.0,204427.0
+375,Construction,ND,1,,534,5416.0,204427.0
+376,Construction,ME,1,8333.0,534,5416.0,204427.0
+377,Construction,HI,1,2560.0,534,5416.0,204427.0
+378,Construction,AK,1,,534,5416.0,204427.0
+379,Insurance,,54,8657.0,406,5938.0,221552.0
+380,Insurance,CA,29,10416.0,406,5938.0,221552.0
+381,Insurance,TX,26,5938.0,406,5938.0,221552.0
+382,Insurance,FL,25,7762.0,406,5938.0,221552.0
+383,Insurance,MO,23,2720.0,406,5938.0,221552.0
+384,Insurance,NY,22,10040.0,406,5938.0,221552.0
+385,Insurance,MI,18,4520.0,406,5938.0,221552.0
+386,Insurance,AZ,18,3360.0,406,5938.0,221552.0
+387,Insurance,GA,17,7291.0,406,5938.0,221552.0
+388,Insurance,MA,13,15241.0,406,5938.0,221552.0
+389,Insurance,NC,12,8075.0,406,5938.0,221552.0
+390,Insurance,WI,11,5670.0,406,5938.0,221552.0
+391,Insurance,TN,11,8075.0,406,5938.0,221552.0
+392,Insurance,NJ,11,6400.0,406,5938.0,221552.0
+393,Insurance,KS,10,2720.0,406,5938.0,221552.0
+394,Insurance,MD,9,5000.0,406,5938.0,221552.0
+395,Insurance,IL,9,10400.0,406,5938.0,221552.0
+396,Insurance,CT,9,11250.0,406,5938.0,221552.0
+397,Insurance,WA,8,5083.0,406,5938.0,221552.0
+398,Insurance,VA,8,3146.0,406,5938.0,221552.0
+399,Insurance,IA,8,4300.0,406,5938.0,221552.0
+400,Insurance,SC,7,3146.0,406,5938.0,221552.0
+401,Insurance,PA,7,5938.0,406,5938.0,221552.0
+402,Insurance,OK,7,2400.0,406,5938.0,221552.0
+403,Insurance,OH,7,8333.0,406,5938.0,221552.0
+404,Insurance,AL,7,8075.0,406,5938.0,221552.0
+405,Insurance,NE,5,4291.0,406,5938.0,221552.0
+406,Insurance,KY,5,6250.0,406,5938.0,221552.0
+407,Insurance,UT,2,2880.0,406,5938.0,221552.0
+408,Insurance,MS,2,5625.0,406,5938.0,221552.0
+409,Insurance,SD,1,,406,5938.0,221552.0
+410,Insurance,NV,1,18384.0,406,5938.0,221552.0
+411,Insurance,ND,1,6806.0,406,5938.0,221552.0
+412,Insurance,MN,1,3360.0,406,5938.0,221552.0
+413,Insurance,LA,1,,406,5938.0,221552.0
+414,Insurance,ID,1,,406,5938.0,221552.0
+415,Manufacturing,CA,47,5440.0,379,4000.0,189402.0
+416,Manufacturing,TX,34,4583.0,379,4000.0,189402.0
+417,Manufacturing,IL,22,7500.0,379,4000.0,189402.0
+418,Manufacturing,,21,8920.0,379,4000.0,189402.0
+419,Manufacturing,MN,20,7040.0,379,4000.0,189402.0
+420,Manufacturing,WI,19,5241.0,379,4000.0,189402.0
+421,Manufacturing,NY,18,5440.0,379,4000.0,189402.0
+422,Manufacturing,OH,17,7916.0,379,4000.0,189402.0
+423,Manufacturing,NC,16,3520.0,379,4000.0,189402.0
+424,Manufacturing,MD,14,3680.0,379,4000.0,189402.0
+425,Manufacturing,FL,14,5550.0,379,4000.0,189402.0
+426,Manufacturing,NJ,12,11208.0,379,4000.0,189402.0
+427,Manufacturing,TN,10,3040.0,379,4000.0,189402.0
+428,Manufacturing,SC,9,3520.0,379,4000.0,189402.0
+429,Manufacturing,MA,9,4000.0,379,4000.0,189402.0
+430,Manufacturing,PA,8,4160.0,379,4000.0,189402.0
+431,Manufacturing,GA,8,4166.0,379,4000.0,189402.0
+432,Manufacturing,WA,7,3200.0,379,4000.0,189402.0
+433,Manufacturing,OR,7,3520.0,379,4000.0,189402.0
+434,Manufacturing,KY,7,2240.0,379,4000.0,189402.0
+435,Manufacturing,NV,5,3200.0,379,4000.0,189402.0
+436,Manufacturing,NH,5,3040.0,379,4000.0,189402.0
+437,Manufacturing,IN,5,15040.0,379,4000.0,189402.0
+438,Manufacturing,MI,4,5833.0,379,4000.0,189402.0
+439,Manufacturing,LA,4,3916.0,379,4000.0,189402.0
+440,Manufacturing,RI,3,3840.0,379,4000.0,189402.0
+441,Manufacturing,OK,3,4541.0,379,4000.0,189402.0
+442,Manufacturing,NM,3,2400.0,379,4000.0,189402.0
+443,Manufacturing,NE,3,3840.0,379,4000.0,189402.0
+444,Manufacturing,CO,3,7291.0,379,4000.0,189402.0
+445,Manufacturing,AL,3,11937.0,379,4000.0,189402.0
+446,Manufacturing,VA,2,,379,4000.0,189402.0
+447,Manufacturing,UT,2,3520.0,379,4000.0,189402.0
+448,Manufacturing,ND,2,2720.0,379,4000.0,189402.0
+449,Manufacturing,MO,2,6240.0,379,4000.0,189402.0
+450,Manufacturing,DE,2,,379,4000.0,189402.0
+451,Manufacturing,AZ,2,2240.0,379,4000.0,189402.0
+452,Manufacturing,WV,1,2880.0,379,4000.0,189402.0
+453,Manufacturing,SD,1,,379,4000.0,189402.0
+454,Manufacturing,KS,1,,379,4000.0,189402.0
+455,Manufacturing,IA,1,,379,4000.0,189402.0
+456,Manufacturing,DC,1,,379,4000.0,189402.0
+457,Manufacturing,CT,1,3040.0,379,4000.0,189402.0
+458,Manufacturing,AR,1,,379,4000.0,189402.0
+459,Advertising Services,CA,64,8500.0,347,10000.0,334389.0
+460,Advertising Services,NY,38,8125.0,347,10000.0,334389.0
+461,Advertising Services,,37,7708.0,347,10000.0,334389.0
+462,Advertising Services,TX,21,10000.0,347,10000.0,334389.0
+463,Advertising Services,IL,21,9375.0,347,10000.0,334389.0
+464,Advertising Services,FL,15,16765.0,347,10000.0,334389.0
+465,Advertising Services,VA,12,16765.0,347,10000.0,334389.0
+466,Advertising Services,OH,10,16765.0,347,10000.0,334389.0
+467,Advertising Services,NJ,9,12000.0,347,10000.0,334389.0
+468,Advertising Services,MI,9,16765.0,347,10000.0,334389.0
+469,Advertising Services,MD,9,6412.0,347,10000.0,334389.0
+470,Advertising Services,PA,8,16765.0,347,10000.0,334389.0
+471,Advertising Services,GA,8,6270.0,347,10000.0,334389.0
+472,Advertising Services,MA,7,16765.0,347,10000.0,334389.0
+473,Advertising Services,AZ,7,7200.0,347,10000.0,334389.0
+474,Advertising Services,NV,6,2400.0,347,10000.0,334389.0
+475,Advertising Services,MN,6,16765.0,347,10000.0,334389.0
+476,Advertising Services,TN,5,16765.0,347,10000.0,334389.0
+477,Advertising Services,NC,5,4166.0,347,10000.0,334389.0
+478,Advertising Services,IN,5,16765.0,347,10000.0,334389.0
+479,Advertising Services,CO,5,16765.0,347,10000.0,334389.0
+480,Advertising Services,WI,4,,347,10000.0,334389.0
+481,Advertising Services,UT,4,3750.0,347,10000.0,334389.0
+482,Advertising Services,OR,4,4320.0,347,10000.0,334389.0
+483,Advertising Services,WA,3,16765.0,347,10000.0,334389.0
+484,Advertising Services,OK,3,,347,10000.0,334389.0
+485,Advertising Services,NE,3,3200.0,347,10000.0,334389.0
+486,Advertising Services,KS,3,,347,10000.0,334389.0
+487,Advertising Services,DC,3,4333.0,347,10000.0,334389.0
+488,Advertising Services,NH,2,16765.0,347,10000.0,334389.0
+489,Advertising Services,MO,2,,347,10000.0,334389.0
+490,Advertising Services,KY,2,,347,10000.0,334389.0
+491,Advertising Services,CT,2,16765.0,347,10000.0,334389.0
+492,Advertising Services,AR,2,,347,10000.0,334389.0
+493,Advertising Services,NM,1,,347,10000.0,334389.0
+494,Advertising Services,HI,1,16765.0,347,10000.0,334389.0
+495,Advertising Services,AL,1,1920.0,347,10000.0,334389.0
+496,Real Estate,TX,42,6250.0,336,6666.0,248252.0
+497,Real Estate,CA,36,4960.0,336,6666.0,248252.0
+498,Real Estate,FL,31,5666.0,336,6666.0,248252.0
+499,Real Estate,AZ,19,3840.0,336,6666.0,248252.0
+500,Real Estate,,17,5920.0,336,6666.0,248252.0
+501,Real Estate,GA,15,3520.0,336,6666.0,248252.0
+502,Real Estate,CO,15,5625.0,336,6666.0,248252.0
+503,Real Estate,NY,14,9166.0,336,6666.0,248252.0
+504,Real Estate,MA,13,5166.0,336,6666.0,248252.0
+505,Real Estate,SC,12,11234.0,336,6666.0,248252.0
+506,Real Estate,OH,9,8333.0,336,6666.0,248252.0
+507,Real Estate,IL,9,10406.0,336,6666.0,248252.0
+508,Real Estate,WA,8,4320.0,336,6666.0,248252.0
+509,Real Estate,NC,8,,336,6666.0,248252.0
+510,Real Estate,VA,7,6912.0,336,6666.0,248252.0
+511,Real Estate,PA,7,9166.0,336,6666.0,248252.0
+512,Real Estate,OR,7,3520.0,336,6666.0,248252.0
+513,Real Estate,LA,6,30208.0,336,6666.0,248252.0
+514,Real Estate,OK,5,,336,6666.0,248252.0
+515,Real Estate,NV,5,,336,6666.0,248252.0
+516,Real Estate,MD,5,6666.0,336,6666.0,248252.0
+517,Real Estate,UT,4,9791.0,336,6666.0,248252.0
+518,Real Estate,TN,4,2560.0,336,6666.0,248252.0
+519,Real Estate,MN,4,30208.0,336,6666.0,248252.0
+520,Real Estate,NJ,3,3520.0,336,6666.0,248252.0
+521,Real Estate,MT,3,,336,6666.0,248252.0
+522,Real Estate,IN,3,,336,6666.0,248252.0
+523,Real Estate,AL,3,11234.0,336,6666.0,248252.0
+524,Real Estate,WI,2,,336,6666.0,248252.0
+525,Real Estate,MS,2,11234.0,336,6666.0,248252.0
+526,Real Estate,MO,2,,336,6666.0,248252.0
+527,Real Estate,KS,2,11234.0,336,6666.0,248252.0
+528,Real Estate,ID,2,11234.0,336,6666.0,248252.0
+529,Real Estate,CT,2,5125.0,336,6666.0,248252.0
+530,Real Estate,AR,2,,336,6666.0,248252.0
+531,Real Estate,RI,1,,336,6666.0,248252.0
+532,Real Estate,NH,1,11234.0,336,6666.0,248252.0
+533,Real Estate,MI,1,,336,6666.0,248252.0
+534,Real Estate,ME,1,,336,6666.0,248252.0
+535,Real Estate,KY,1,,336,6666.0,248252.0
+536,Real Estate,IA,1,,336,6666.0,248252.0
+537,Real Estate,DE,1,,336,6666.0,248252.0
+538,Real Estate,DC,1,,336,6666.0,248252.0
+539,Telecommunications,TX,33,9191.0,325,4125.0,164092.0
+540,Telecommunications,NJ,27,5915.0,325,4125.0,164092.0
+541,Telecommunications,CO,24,5666.0,325,4125.0,164092.0
+542,Telecommunications,,23,7076.0,325,4125.0,164092.0
+543,Telecommunications,NY,22,5915.0,325,4125.0,164092.0
+544,Telecommunications,CA,22,7076.0,325,4125.0,164092.0
+545,Telecommunications,FL,19,4125.0,325,4125.0,164092.0
+546,Telecommunications,GA,17,3360.0,325,4125.0,164092.0
+547,Telecommunications,MA,16,2880.0,325,4125.0,164092.0
+548,Telecommunications,NC,13,3680.0,325,4125.0,164092.0
+549,Telecommunications,PA,10,4125.0,325,4125.0,164092.0
+550,Telecommunications,CT,8,2880.0,325,4125.0,164092.0
+551,Telecommunications,OH,7,4125.0,325,4125.0,164092.0
+552,Telecommunications,IL,7,4125.0,325,4125.0,164092.0
+553,Telecommunications,TN,6,,325,4125.0,164092.0
+554,Telecommunications,MN,6,4125.0,325,4125.0,164092.0
+555,Telecommunications,MI,6,4125.0,325,4125.0,164092.0
+556,Telecommunications,IN,5,2400.0,325,4125.0,164092.0
+557,Telecommunications,WA,4,7916.0,325,4125.0,164092.0
+558,Telecommunications,VA,4,4125.0,325,4125.0,164092.0
+559,Telecommunications,SC,4,4125.0,325,4125.0,164092.0
+560,Telecommunications,MO,4,3840.0,325,4125.0,164092.0
+561,Telecommunications,MD,4,4166.0,325,4125.0,164092.0
+562,Telecommunications,UT,3,4125.0,325,4125.0,164092.0
+563,Telecommunications,MS,3,4166.0,325,4125.0,164092.0
+564,Telecommunications,KS,3,,325,4125.0,164092.0
+565,Telecommunications,WY,2,3680.0,325,4125.0,164092.0
+566,Telecommunications,VT,2,2720.0,325,4125.0,164092.0
+567,Telecommunications,NM,2,2720.0,325,4125.0,164092.0
+568,Telecommunications,NH,2,2720.0,325,4125.0,164092.0
+569,Telecommunications,NE,2,4125.0,325,4125.0,164092.0
+570,Telecommunications,ND,2,4125.0,325,4125.0,164092.0
+571,Telecommunications,IA,2,4125.0,325,4125.0,164092.0
+572,Telecommunications,AZ,2,8000.0,325,4125.0,164092.0
+573,Telecommunications,WI,1,4125.0,325,4125.0,164092.0
+574,Telecommunications,SD,1,4125.0,325,4125.0,164092.0
+575,Telecommunications,OR,1,,325,4125.0,164092.0
+576,Telecommunications,OK,1,,325,4125.0,164092.0
+577,Telecommunications,MT,1,4125.0,325,4125.0,164092.0
+578,Telecommunications,DE,1,,325,4125.0,164092.0
+579,Telecommunications,DC,1,,325,4125.0,164092.0
+580,Telecommunications,AR,1,,325,4125.0,164092.0
+581,Telecommunications,AL,1,6250.0,325,4125.0,164092.0
+582,Pharmaceutical Manufacturing,,45,10250.0,307,6400.0,195791.0
+583,Pharmaceutical Manufacturing,CA,34,6720.0,307,6400.0,195791.0
+584,Pharmaceutical Manufacturing,MA,32,10080.0,307,6400.0,195791.0
+585,Pharmaceutical Manufacturing,PA,21,6720.0,307,6400.0,195791.0
+586,Pharmaceutical Manufacturing,NC,17,7708.0,307,6400.0,195791.0
+587,Pharmaceutical Manufacturing,MD,14,9583.0,307,6400.0,195791.0
+588,Pharmaceutical Manufacturing,NJ,13,6400.0,307,6400.0,195791.0
+589,Pharmaceutical Manufacturing,NY,12,6970.0,307,6400.0,195791.0
+590,Pharmaceutical Manufacturing,IL,12,4800.0,307,6400.0,195791.0
+591,Pharmaceutical Manufacturing,FL,12,5120.0,307,6400.0,195791.0
+592,Pharmaceutical Manufacturing,WI,10,14000.0,307,6400.0,195791.0
+593,Pharmaceutical Manufacturing,IN,9,4960.0,307,6400.0,195791.0
+594,Pharmaceutical Manufacturing,TX,7,2560.0,307,6400.0,195791.0
+595,Pharmaceutical Manufacturing,IA,6,6250.0,307,6400.0,195791.0
+596,Pharmaceutical Manufacturing,DE,6,6233.0,307,6400.0,195791.0
+597,Pharmaceutical Manufacturing,AZ,6,8800.0,307,6400.0,195791.0
+598,Pharmaceutical Manufacturing,VA,5,7500.0,307,6400.0,195791.0
+599,Pharmaceutical Manufacturing,MI,5,3200.0,307,6400.0,195791.0
+600,Pharmaceutical Manufacturing,WA,4,8800.0,307,6400.0,195791.0
+601,Pharmaceutical Manufacturing,MN,4,6720.0,307,6400.0,195791.0
+602,Pharmaceutical Manufacturing,TN,3,3360.0,307,6400.0,195791.0
+603,Pharmaceutical Manufacturing,OH,3,,307,6400.0,195791.0
+604,Pharmaceutical Manufacturing,NE,3,3520.0,307,6400.0,195791.0
+605,Pharmaceutical Manufacturing,MO,3,3680.0,307,6400.0,195791.0
+606,Pharmaceutical Manufacturing,GA,3,4800.0,307,6400.0,195791.0
+607,Pharmaceutical Manufacturing,CO,3,3040.0,307,6400.0,195791.0
+608,Pharmaceutical Manufacturing,SC,2,4800.0,307,6400.0,195791.0
+609,Pharmaceutical Manufacturing,NH,2,7040.0,307,6400.0,195791.0
+610,Pharmaceutical Manufacturing,ND,2,,307,6400.0,195791.0
+611,Pharmaceutical Manufacturing,KS,2,3200.0,307,6400.0,195791.0
+612,Pharmaceutical Manufacturing,SD,1,,307,6400.0,195791.0
+613,Pharmaceutical Manufacturing,RI,1,7040.0,307,6400.0,195791.0
+614,Pharmaceutical Manufacturing,OR,1,,307,6400.0,195791.0
+615,Pharmaceutical Manufacturing,ME,1,,307,6400.0,195791.0
+616,Pharmaceutical Manufacturing,DC,1,,307,6400.0,195791.0
+617,Pharmaceutical Manufacturing,CT,1,,307,6400.0,195791.0
+618,Pharmaceutical Manufacturing,AL,1,11937.0,307,6400.0,195791.0
+619,"Appliances, Electrical, and Electronics Manufacturing",CA,42,8750.0,305,6708.0,196777.0
+620,"Appliances, Electrical, and Electronics Manufacturing",TX,26,6708.0,305,6708.0,196777.0
+621,"Appliances, Electrical, and Electronics Manufacturing",,25,7916.0,305,6708.0,196777.0
+622,"Appliances, Electrical, and Electronics Manufacturing",IL,22,7916.0,305,6708.0,196777.0
+623,"Appliances, Electrical, and Electronics Manufacturing",MI,13,11666.0,305,6708.0,196777.0
+624,"Appliances, Electrical, and Electronics Manufacturing",MN,11,11083.0,305,6708.0,196777.0
+625,"Appliances, Electrical, and Electronics Manufacturing",OH,10,6708.0,305,6708.0,196777.0
+626,"Appliances, Electrical, and Electronics Manufacturing",ID,10,,305,6708.0,196777.0
+627,"Appliances, Electrical, and Electronics Manufacturing",PA,9,8750.0,305,6708.0,196777.0
+628,"Appliances, Electrical, and Electronics Manufacturing",NJ,9,10416.0,305,6708.0,196777.0
+629,"Appliances, Electrical, and Electronics Manufacturing",GA,9,4320.0,305,6708.0,196777.0
+630,"Appliances, Electrical, and Electronics Manufacturing",NY,8,2880.0,305,6708.0,196777.0
+631,"Appliances, Electrical, and Electronics Manufacturing",AZ,8,3520.0,305,6708.0,196777.0
+632,"Appliances, Electrical, and Electronics Manufacturing",NC,7,,305,6708.0,196777.0
+633,"Appliances, Electrical, and Electronics Manufacturing",IN,7,4160.0,305,6708.0,196777.0
+634,"Appliances, Electrical, and Electronics Manufacturing",FL,7,6708.0,305,6708.0,196777.0
+635,"Appliances, Electrical, and Electronics Manufacturing",WI,6,9120.0,305,6708.0,196777.0
+636,"Appliances, Electrical, and Electronics Manufacturing",SC,6,12083.0,305,6708.0,196777.0
+637,"Appliances, Electrical, and Electronics Manufacturing",MO,6,,305,6708.0,196777.0
+638,"Appliances, Electrical, and Electronics Manufacturing",TN,5,11750.0,305,6708.0,196777.0
+639,"Appliances, Electrical, and Electronics Manufacturing",MD,5,3750.0,305,6708.0,196777.0
+640,"Appliances, Electrical, and Electronics Manufacturing",MA,5,9104.0,305,6708.0,196777.0
+641,"Appliances, Electrical, and Electronics Manufacturing",KY,5,,305,6708.0,196777.0
+642,"Appliances, Electrical, and Electronics Manufacturing",IA,5,5440.0,305,6708.0,196777.0
+643,"Appliances, Electrical, and Electronics Manufacturing",CO,5,9340.0,305,6708.0,196777.0
+644,"Appliances, Electrical, and Electronics Manufacturing",VA,4,5833.0,305,6708.0,196777.0
+645,"Appliances, Electrical, and Electronics Manufacturing",NV,4,1.0,305,6708.0,196777.0
+646,"Appliances, Electrical, and Electronics Manufacturing",KS,4,,305,6708.0,196777.0
+647,"Appliances, Electrical, and Electronics Manufacturing",UT,3,4000.0,305,6708.0,196777.0
+648,"Appliances, Electrical, and Electronics Manufacturing",OR,3,3520.0,305,6708.0,196777.0
+649,"Appliances, Electrical, and Electronics Manufacturing",MS,3,,305,6708.0,196777.0
+650,"Appliances, Electrical, and Electronics Manufacturing",CT,3,,305,6708.0,196777.0
+651,"Appliances, Electrical, and Electronics Manufacturing",WV,2,2880.0,305,6708.0,196777.0
+652,"Appliances, Electrical, and Electronics Manufacturing",WA,2,8395.0,305,6708.0,196777.0
+653,"Appliances, Electrical, and Electronics Manufacturing",SD,2,2560.0,305,6708.0,196777.0
+654,"Appliances, Electrical, and Electronics Manufacturing",OK,2,7500.0,305,6708.0,196777.0
+655,"Appliances, Electrical, and Electronics Manufacturing",LA,1,,305,6708.0,196777.0
+656,"Appliances, Electrical, and Electronics Manufacturing",DE,1,,305,6708.0,196777.0
+657,Hospitality,CA,39,4000.0,277,4320.0,127412.0
+658,Hospitality,TX,32,8250.0,277,4320.0,127412.0
+659,Hospitality,FL,25,3040.0,277,4320.0,127412.0
+660,Hospitality,CO,13,2880.0,277,4320.0,127412.0
+661,Hospitality,NY,12,3360.0,277,4320.0,127412.0
+662,Hospitality,,12,5833.0,277,4320.0,127412.0
+663,Hospitality,WA,10,4000.0,277,4320.0,127412.0
+664,Hospitality,TN,10,,277,4320.0,127412.0
+665,Hospitality,NC,10,2560.0,277,4320.0,127412.0
+666,Hospitality,WI,8,5958.0,277,4320.0,127412.0
+667,Hospitality,VA,8,4000.0,277,4320.0,127412.0
+668,Hospitality,MI,8,2400.0,277,4320.0,127412.0
+669,Hospitality,GA,8,5625.0,277,4320.0,127412.0
+670,Hospitality,AZ,8,2880.0,277,4320.0,127412.0
+671,Hospitality,PA,7,6041.0,277,4320.0,127412.0
+672,Hospitality,MA,7,3520.0,277,4320.0,127412.0
+673,Hospitality,IL,7,10625.0,277,4320.0,127412.0
+674,Hospitality,HI,6,2560.0,277,4320.0,127412.0
+675,Hospitality,MN,5,4000.0,277,4320.0,127412.0
+676,Hospitality,SC,4,6875.0,277,4320.0,127412.0
+677,Hospitality,OH,3,,277,4320.0,127412.0
+678,Hospitality,NV,3,,277,4320.0,127412.0
+679,Hospitality,KY,3,,277,4320.0,127412.0
+680,Hospitality,IN,3,,277,4320.0,127412.0
+681,Hospitality,WY,2,,277,4320.0,127412.0
+682,Hospitality,NE,2,,277,4320.0,127412.0
+683,Hospitality,ND,2,7291.0,277,4320.0,127412.0
+684,Hospitality,MS,2,,277,4320.0,127412.0
+685,Hospitality,MO,2,,277,4320.0,127412.0
+686,Hospitality,MD,2,,277,4320.0,127412.0
+687,Hospitality,DC,2,,277,4320.0,127412.0
+688,Hospitality,CT,2,4320.0,277,4320.0,127412.0
+689,Hospitality,WV,1,,277,4320.0,127412.0
+690,Hospitality,VT,1,,277,4320.0,127412.0
+691,Hospitality,UT,1,6354.0,277,4320.0,127412.0
+692,Hospitality,RI,1,,277,4320.0,127412.0
+693,Hospitality,OK,1,,277,4320.0,127412.0
+694,Hospitality,NJ,1,,277,4320.0,127412.0
+695,Hospitality,ME,1,,277,4320.0,127412.0
+696,Hospitality,ID,1,6458.0,277,4320.0,127412.0
+697,Hospitality,IA,1,7291.0,277,4320.0,127412.0
+698,Hospitality,AR,1,7291.0,277,4320.0,127412.0
+699,Medical Equipment Manufacturing,CA,53,7200.0,270,6720.0,166471.0
+700,Business Consulting and Services,,44,6666.0,270,6666.0,214316.0
+701,Business Consulting and Services,VA,28,10125.0,270,6666.0,214316.0
+702,Business Consulting and Services,CA,25,7500.0,270,6666.0,214316.0
+703,Business Consulting and Services,TX,23,5280.0,270,6666.0,214316.0
+704,Medical Equipment Manufacturing,,23,8954.0,270,6720.0,166471.0
+705,Medical Equipment Manufacturing,MA,22,7360.0,270,6720.0,166471.0
+706,Business Consulting and Services,NY,19,8333.0,270,6666.0,214316.0
+707,Medical Equipment Manufacturing,TX,17,3200.0,270,6720.0,166471.0
+708,Business Consulting and Services,FL,14,9933.0,270,6666.0,214316.0
+709,Business Consulting and Services,OH,12,4166.0,270,6666.0,214316.0
+710,Business Consulting and Services,IL,12,6375.0,270,6666.0,214316.0
+711,Medical Equipment Manufacturing,NJ,11,6400.0,270,6720.0,166471.0
+712,Medical Equipment Manufacturing,IL,11,8160.0,270,6720.0,166471.0
+713,Medical Equipment Manufacturing,GA,11,7200.0,270,6720.0,166471.0
+714,Medical Equipment Manufacturing,WI,10,5241.0,270,6720.0,166471.0
+715,Business Consulting and Services,MA,9,7500.0,270,6666.0,214316.0
+716,Business Consulting and Services,DC,9,6333.0,270,6666.0,214316.0
+717,Medical Equipment Manufacturing,NY,9,5833.0,270,6720.0,166471.0
+718,Medical Equipment Manufacturing,IN,9,4960.0,270,6720.0,166471.0
+719,Medical Equipment Manufacturing,FL,9,5120.0,270,6720.0,166471.0
+720,Business Consulting and Services,WA,8,10416.0,270,6666.0,214316.0
+721,Medical Equipment Manufacturing,OH,7,,270,6720.0,166471.0
+722,Medical Equipment Manufacturing,MN,7,6720.0,270,6720.0,166471.0
+723,Medical Equipment Manufacturing,MI,7,16666.0,270,6720.0,166471.0
+724,Medical Equipment Manufacturing,AZ,7,7954.0,270,6720.0,166471.0
+725,Business Consulting and Services,PA,6,9125.0,270,6666.0,214316.0
+726,Medical Equipment Manufacturing,UT,6,,270,6720.0,166471.0
+727,Medical Equipment Manufacturing,NC,6,4960.0,270,6720.0,166471.0
+728,Business Consulting and Services,MD,5,3200.0,270,6666.0,214316.0
+729,Business Consulting and Services,CT,5,7500.0,270,6666.0,214316.0
+730,Business Consulting and Services,AZ,5,3726.0,270,6666.0,214316.0
+731,Medical Equipment Manufacturing,WA,5,3520.0,270,6720.0,166471.0
+732,Medical Equipment Manufacturing,VA,5,7500.0,270,6720.0,166471.0
+733,Medical Equipment Manufacturing,TN,5,3360.0,270,6720.0,166471.0
+734,Medical Equipment Manufacturing,PA,5,6233.0,270,6720.0,166471.0
+735,Business Consulting and Services,WI,4,5280.0,270,6666.0,214316.0
+736,Business Consulting and Services,SC,4,4320.0,270,6666.0,214316.0
+737,Business Consulting and Services,NJ,4,11138.0,270,6666.0,214316.0
+738,Business Consulting and Services,MO,4,3541.0,270,6666.0,214316.0
+739,Medical Equipment Manufacturing,SC,4,,270,6720.0,166471.0
+740,Business Consulting and Services,TN,3,4583.0,270,6666.0,214316.0
+741,Business Consulting and Services,RI,3,7500.0,270,6666.0,214316.0
+742,Business Consulting and Services,NC,3,10833.0,270,6666.0,214316.0
+743,Business Consulting and Services,MN,3,4166.0,270,6666.0,214316.0
+744,Business Consulting and Services,MI,3,,270,6666.0,214316.0
+745,Medical Equipment Manufacturing,RI,3,7040.0,270,6720.0,166471.0
+746,Business Consulting and Services,OK,2,3958.0,270,6666.0,214316.0
+747,Business Consulting and Services,NE,2,,270,6666.0,214316.0
+748,Business Consulting and Services,KS,2,3541.0,270,6666.0,214316.0
+749,Medical Equipment Manufacturing,MO,2,3680.0,270,6720.0,166471.0
+750,Medical Equipment Manufacturing,IA,2,,270,6720.0,166471.0
+751,Medical Equipment Manufacturing,AL,2,7708.0,270,6720.0,166471.0
+752,Business Consulting and Services,UT,1,,270,6666.0,214316.0
+753,Business Consulting and Services,ND,1,,270,6666.0,214316.0
+754,Business Consulting and Services,KY,1,12916.0,270,6666.0,214316.0
+755,Business Consulting and Services,IN,1,5833.0,270,6666.0,214316.0
+756,Business Consulting and Services,ID,1,8125.0,270,6666.0,214316.0
+757,Business Consulting and Services,GA,1,,270,6666.0,214316.0
+758,Business Consulting and Services,DE,1,11875.0,270,6666.0,214316.0
+759,Business Consulting and Services,CO,1,10529.0,270,6666.0,214316.0
+760,Business Consulting and Services,AR,1,,270,6666.0,214316.0
+761,Medical Equipment Manufacturing,WV,1,,270,6720.0,166471.0
+762,Medical Equipment Manufacturing,SD,1,,270,6720.0,166471.0
+763,Medical Equipment Manufacturing,NV,1,,270,6720.0,166471.0
+764,Medical Equipment Manufacturing,NH,1,7040.0,270,6720.0,166471.0
+765,Medical Equipment Manufacturing,NE,1,,270,6720.0,166471.0
+766,Medical Equipment Manufacturing,ND,1,,270,6720.0,166471.0
+767,Medical Equipment Manufacturing,ME,1,,270,6720.0,166471.0
+768,Medical Equipment Manufacturing,MD,1,8229.0,270,6720.0,166471.0
+769,Medical Equipment Manufacturing,ID,1,,270,6720.0,166471.0
+770,Medical Equipment Manufacturing,DE,1,6233.0,270,6720.0,166471.0
+771,Medical Equipment Manufacturing,CT,1,,270,6720.0,166471.0
+772,Medical Equipment Manufacturing,CO,1,,270,6720.0,166471.0
+773,Accounting,,31,8125.0,269,6875.0,212945.0
+774,Accounting,CA,28,7083.0,269,6875.0,212945.0
+775,Accounting,TX,25,5280.0,269,6875.0,212945.0
+776,Accounting,OH,18,4640.0,269,6875.0,212945.0
+777,Accounting,FL,15,9933.0,269,6875.0,212945.0
+778,Accounting,IL,12,8750.0,269,6875.0,212945.0
+779,Accounting,NY,11,11458.0,269,6875.0,212945.0
+780,Accounting,PA,10,9416.0,269,6875.0,212945.0
+781,Accounting,MI,10,,269,6875.0,212945.0
+782,Accounting,GA,10,11666.0,269,6875.0,212945.0
+783,Accounting,MO,8,8250.0,269,6875.0,212945.0
+784,Accounting,MA,8,6875.0,269,6875.0,212945.0
+785,Accounting,IN,8,6054.0,269,6875.0,212945.0
+786,Accounting,AZ,8,5208.0,269,6875.0,212945.0
+787,Accounting,VA,7,5120.0,269,6875.0,212945.0
+788,Accounting,CT,6,6875.0,269,6875.0,212945.0
+789,Accounting,NJ,5,8333.0,269,6875.0,212945.0
+790,Accounting,MN,5,5000.0,269,6875.0,212945.0
+791,Accounting,KY,5,6054.0,269,6875.0,212945.0
+792,Accounting,WA,4,8000.0,269,6875.0,212945.0
+793,Accounting,NC,4,7708.0,269,6875.0,212945.0
+794,Accounting,MD,4,6458.0,269,6875.0,212945.0
+795,Accounting,CO,4,8020.0,269,6875.0,212945.0
+796,Accounting,WI,3,5280.0,269,6875.0,212945.0
+797,Accounting,DC,3,7500.0,269,6875.0,212945.0
+798,Accounting,OR,2,5000.0,269,6875.0,212945.0
+799,Accounting,KS,2,,269,6875.0,212945.0
+800,Accounting,IA,2,5833.0,269,6875.0,212945.0
+801,Accounting,AR,2,6666.0,269,6875.0,212945.0
+802,Accounting,AL,2,3125.0,269,6875.0,212945.0
+803,Accounting,UT,1,,269,6875.0,212945.0
+804,Accounting,TN,1,,269,6875.0,212945.0
+805,Accounting,OK,1,,269,6875.0,212945.0
+806,Accounting,NE,1,3360.0,269,6875.0,212945.0
+807,Accounting,MT,1,,269,6875.0,212945.0
+808,Accounting,LA,1,,269,6875.0,212945.0
+809,Accounting,DE,1,11875.0,269,6875.0,212945.0
+810,Higher Education,IL,53,4166.0,263,4480.0,157171.0
+811,Higher Education,CA,29,6041.0,263,4480.0,157171.0
+812,Higher Education,TX,27,6400.0,263,4480.0,157171.0
+813,Higher Education,MA,19,2720.0,263,4480.0,157171.0
+814,Higher Education,OK,14,,263,4480.0,157171.0
+815,Higher Education,GA,14,4000.0,263,4480.0,157171.0
+816,Higher Education,,11,3812.0,263,4480.0,157171.0
+817,Higher Education,PA,10,7301.0,263,4480.0,157171.0
+818,Higher Education,FL,10,3916.0,263,4480.0,157171.0
+819,Higher Education,VA,9,3200.0,263,4480.0,157171.0
+820,Higher Education,WI,7,3516.0,263,4480.0,157171.0
+821,Higher Education,NY,7,5500.0,263,4480.0,157171.0
+822,Higher Education,MO,7,4160.0,263,4480.0,157171.0
+823,Higher Education,WA,5,6277.0,263,4480.0,157171.0
+824,Higher Education,TN,4,4480.0,263,4480.0,157171.0
+825,Higher Education,NJ,4,3333.0,263,4480.0,157171.0
+826,Higher Education,OH,3,9729.0,263,4480.0,157171.0
+827,Higher Education,NC,3,8000.0,263,4480.0,157171.0
+828,Higher Education,MI,3,1.0,263,4480.0,157171.0
+829,Higher Education,MD,3,,263,4480.0,157171.0
+830,Higher Education,AZ,3,3200.0,263,4480.0,157171.0
+831,Higher Education,SC,2,2236.0,263,4480.0,157171.0
+832,Higher Education,CT,2,5833.0,263,4480.0,157171.0
+833,Higher Education,CO,2,7916.0,263,4480.0,157171.0
+834,Higher Education,VT,1,5833.0,263,4480.0,157171.0
+835,Higher Education,UT,1,6354.0,263,4480.0,157171.0
+836,Higher Education,OR,1,,263,4480.0,157171.0
+837,Higher Education,NV,1,,263,4480.0,157171.0
+838,Higher Education,NH,1,7575.0,263,4480.0,157171.0
+839,Higher Education,ND,1,4500.0,263,4480.0,157171.0
+840,Higher Education,MN,1,3040.0,263,4480.0,157171.0
+841,Higher Education,KY,1,9094.0,263,4480.0,157171.0
+842,Higher Education,KS,1,2400.0,263,4480.0,157171.0
+843,Higher Education,IN,1,4583.0,263,4480.0,157171.0
+844,Higher Education,ID,1,5175.0,263,4480.0,157171.0
+845,Higher Education,AK,1,2880.0,263,4480.0,157171.0
+846,Motor Vehicle Manufacturing,MI,32,8000.0,251,4960.0,186988.0
+847,Food and Beverage Services,,27,7654.0,251,4000.0,196432.0
+848,Food and Beverage Services,CA,25,7083.0,251,4000.0,196432.0
+849,Motor Vehicle Manufacturing,OH,22,4000.0,251,4960.0,186988.0
+850,Motor Vehicle Manufacturing,CA,22,10416.0,251,4960.0,186988.0
+851,Food and Beverage Services,NY,19,7500.0,251,4000.0,196432.0
+852,Motor Vehicle Manufacturing,TX,18,4960.0,251,4960.0,186988.0
+853,Food and Beverage Services,TX,13,6666.0,251,4000.0,196432.0
+854,Food and Beverage Services,MN,13,4333.0,251,4000.0,196432.0
+855,Food and Beverage Services,FL,13,5550.0,251,4000.0,196432.0
+856,Motor Vehicle Manufacturing,,12,9583.0,251,4960.0,186988.0
+857,Motor Vehicle Manufacturing,SC,11,6458.0,251,4960.0,186988.0
+858,Food and Beverage Services,OH,10,3840.0,251,4000.0,196432.0
+859,Food and Beverage Services,MA,10,4160.0,251,4000.0,196432.0
+860,Motor Vehicle Manufacturing,TN,9,,251,4960.0,186988.0
+861,Motor Vehicle Manufacturing,NC,9,4960.0,251,4960.0,186988.0
+862,Motor Vehicle Manufacturing,IL,9,4960.0,251,4960.0,186988.0
+863,Motor Vehicle Manufacturing,FL,9,7625.0,251,4960.0,186988.0
+864,Food and Beverage Services,VA,8,3040.0,251,4000.0,196432.0
+865,Motor Vehicle Manufacturing,AZ,8,6250.0,251,4960.0,186988.0
+866,Food and Beverage Services,KY,7,2240.0,251,4000.0,196432.0
+867,Food and Beverage Services,GA,7,3040.0,251,4000.0,196432.0
+868,Motor Vehicle Manufacturing,PA,7,3333.0,251,4960.0,186988.0
+869,Food and Beverage Services,WI,6,3200.0,251,4000.0,196432.0
+870,Food and Beverage Services,TN,6,3040.0,251,4000.0,196432.0
+871,Food and Beverage Services,SC,6,3840.0,251,4000.0,196432.0
+872,Food and Beverage Services,MI,6,2560.0,251,4000.0,196432.0
+873,Food and Beverage Services,LA,6,3916.0,251,4000.0,196432.0
+874,Motor Vehicle Manufacturing,GA,6,4791.0,251,4960.0,186988.0
+875,Food and Beverage Services,RI,5,8640.0,251,4000.0,196432.0
+876,Food and Beverage Services,IL,5,3680.0,251,4000.0,196432.0
+877,Food and Beverage Services,CO,5,5916.0,251,4000.0,196432.0
+878,Motor Vehicle Manufacturing,OK,5,7500.0,251,4960.0,186988.0
+879,Motor Vehicle Manufacturing,IN,5,8333.0,251,4960.0,186988.0
+880,Food and Beverage Services,OK,4,4583.0,251,4000.0,196432.0
+881,Food and Beverage Services,ND,4,4000.0,251,4000.0,196432.0
+882,Food and Beverage Services,NC,4,3200.0,251,4000.0,196432.0
+883,Motor Vehicle Manufacturing,VA,4,4000.0,251,4960.0,186988.0
+884,Motor Vehicle Manufacturing,OR,4,4000.0,251,4960.0,186988.0
+885,Motor Vehicle Manufacturing,NJ,4,4800.0,251,4960.0,186988.0
+886,Motor Vehicle Manufacturing,MO,4,2880.0,251,4960.0,186988.0
+887,Motor Vehicle Manufacturing,MN,4,,251,4960.0,186988.0
+888,Motor Vehicle Manufacturing,MD,4,4960.0,251,4960.0,186988.0
+889,Motor Vehicle Manufacturing,KY,4,4041.0,251,4960.0,186988.0
+890,Food and Beverage Services,UT,3,6354.0,251,4000.0,196432.0
+891,Food and Beverage Services,SD,3,4583.0,251,4000.0,196432.0
+892,Food and Beverage Services,PA,3,4166.0,251,4000.0,196432.0
+893,Food and Beverage Services,MD,3,7260.0,251,4000.0,196432.0
+894,Food and Beverage Services,IN,3,2880.0,251,4000.0,196432.0
+895,Food and Beverage Services,IA,3,7291.0,251,4000.0,196432.0
+896,Food and Beverage Services,AZ,3,,251,4000.0,196432.0
+897,Food and Beverage Services,AL,3,3520.0,251,4000.0,196432.0
+898,Motor Vehicle Manufacturing,WI,3,4166.0,251,4960.0,186988.0
+899,Motor Vehicle Manufacturing,WA,3,5770.0,251,4960.0,186988.0
+900,Motor Vehicle Manufacturing,NY,3,19791.0,251,4960.0,186988.0
+901,Motor Vehicle Manufacturing,NE,3,7200.0,251,4960.0,186988.0
+902,Motor Vehicle Manufacturing,MA,3,5760.0,251,4960.0,186988.0
+903,Motor Vehicle Manufacturing,AL,3,,251,4960.0,186988.0
+904,Food and Beverage Services,NM,2,2400.0,251,4000.0,196432.0
+905,Food and Beverage Services,NJ,2,7654.0,251,4000.0,196432.0
+906,Food and Beverage Services,NH,2,3040.0,251,4000.0,196432.0
+907,Food and Beverage Services,NE,2,3840.0,251,4000.0,196432.0
+908,Food and Beverage Services,MO,2,,251,4000.0,196432.0
+909,Food and Beverage Services,DE,2,2400.0,251,4000.0,196432.0
+910,Food and Beverage Services,AR,2,7291.0,251,4000.0,196432.0
+911,Motor Vehicle Manufacturing,UT,2,,251,4960.0,186988.0
+912,Motor Vehicle Manufacturing,RI,2,5000.0,251,4960.0,186988.0
+913,Motor Vehicle Manufacturing,MS,2,,251,4960.0,186988.0
+914,Motor Vehicle Manufacturing,LA,2,7291.0,251,4960.0,186988.0
+915,Motor Vehicle Manufacturing,KS,2,,251,4960.0,186988.0
+916,Motor Vehicle Manufacturing,IA,2,4000.0,251,4960.0,186988.0
+917,Motor Vehicle Manufacturing,CT,2,1760.0,251,4960.0,186988.0
+918,Motor Vehicle Manufacturing,CO,2,3200.0,251,4960.0,186988.0
+919,Food and Beverage Services,OR,1,3520.0,251,4000.0,196432.0
+920,Food and Beverage Services,MS,1,16666.0,251,4000.0,196432.0
+921,Food and Beverage Services,HI,1,2720.0,251,4000.0,196432.0
+922,Food and Beverage Services,DC,1,9166.0,251,4000.0,196432.0
+923,Motor Vehicle Manufacturing,WV,1,7200.0,251,4960.0,186988.0
+924,Motor Vehicle Manufacturing,NV,1,,251,4960.0,186988.0
+925,Motor Vehicle Manufacturing,NM,1,,251,4960.0,186988.0
+926,Motor Vehicle Manufacturing,ID,1,,251,4960.0,186988.0
+927,Motor Vehicle Manufacturing,AR,1,,251,4960.0,186988.0
+928,Banking,TX,21,7083.0,247,5600.0,215236.0
+929,Banking,NY,21,8541.0,247,5600.0,215236.0
+930,Banking,CA,20,4640.0,247,5600.0,215236.0
+931,Banking,FL,17,4960.0,247,5600.0,215236.0
+932,Banking,,15,11200.0,247,5600.0,215236.0
+933,Banking,NC,14,9920.0,247,5600.0,215236.0
+934,Banking,NJ,13,10833.0,247,5600.0,215236.0
+935,Banking,IL,13,4000.0,247,5600.0,215236.0
+936,Banking,WA,8,4480.0,247,5600.0,215236.0
+937,Banking,GA,8,,247,5600.0,215236.0
+938,Banking,AZ,8,4000.0,247,5600.0,215236.0
+939,Banking,VA,7,5920.0,247,5600.0,215236.0
+940,Banking,CO,6,5833.0,247,5600.0,215236.0
+941,Banking,SC,5,30208.0,247,5600.0,215236.0
+942,Banking,PA,5,3680.0,247,5600.0,215236.0
+943,Banking,OR,5,3840.0,247,5600.0,215236.0
+944,Banking,MI,5,2880.0,247,5600.0,215236.0
+945,Banking,MD,5,5600.0,247,5600.0,215236.0
+946,Banking,LA,5,30208.0,247,5600.0,215236.0
+947,Banking,AR,5,5417.0,247,5600.0,215236.0
+948,Banking,WI,4,4960.0,247,5600.0,215236.0
+949,Banking,MN,4,3040.0,247,5600.0,215236.0
+950,Banking,MA,4,,247,5600.0,215236.0
+951,Banking,IN,4,,247,5600.0,215236.0
+952,Banking,OH,3,,247,5600.0,215236.0
+953,Banking,NH,3,12320.0,247,5600.0,215236.0
+954,Banking,KS,3,,247,5600.0,215236.0
+955,Banking,CT,3,3680.0,247,5600.0,215236.0
+956,Banking,TN,2,,247,5600.0,215236.0
+957,Banking,OK,2,8160.0,247,5600.0,215236.0
+958,Banking,MO,2,8333.0,247,5600.0,215236.0
+959,Banking,DE,2,4000.0,247,5600.0,215236.0
+960,Banking,UT,1,,247,5600.0,215236.0
+961,Banking,NV,1,,247,5600.0,215236.0
+962,Banking,NM,1,,247,5600.0,215236.0
+963,Banking,DC,1,7500.0,247,5600.0,215236.0
+964,Banking,AL,1,,247,5600.0,215236.0
+965,Biotechnology Research,CA,52,7680.0,246,6250.0,171463.0
+966,Biotechnology Research,,33,10250.0,246,6250.0,171463.0
+967,Biotechnology Research,MA,27,9760.0,246,6250.0,171463.0
+968,Biotechnology Research,WA,19,6241.0,246,6250.0,171463.0
+969,Biotechnology Research,PA,12,7200.0,246,6250.0,171463.0
+970,Biotechnology Research,TX,10,2560.0,246,6250.0,171463.0
+971,Biotechnology Research,NJ,9,8800.0,246,6250.0,171463.0
+972,Biotechnology Research,WI,8,5291.0,246,6250.0,171463.0
+973,Biotechnology Research,MD,8,3680.0,246,6250.0,171463.0
+974,Biotechnology Research,AZ,7,6699.0,246,6250.0,171463.0
+975,Biotechnology Research,IN,6,3040.0,246,6250.0,171463.0
+976,Biotechnology Research,NY,5,9166.0,246,6250.0,171463.0
+977,Biotechnology Research,TN,4,3360.0,246,6250.0,171463.0
+978,Biotechnology Research,NC,4,6720.0,246,6250.0,171463.0
+979,Biotechnology Research,MN,4,6720.0,246,6250.0,171463.0
+980,Biotechnology Research,IL,4,5280.0,246,6250.0,171463.0
+981,Biotechnology Research,GA,4,5833.0,246,6250.0,171463.0
+982,Biotechnology Research,VA,3,3200.0,246,6250.0,171463.0
+983,Biotechnology Research,OH,3,,246,6250.0,171463.0
+984,Biotechnology Research,MO,3,3680.0,246,6250.0,171463.0
+985,Biotechnology Research,KS,3,3200.0,246,6250.0,171463.0
+986,Biotechnology Research,CO,3,12500.0,246,6250.0,171463.0
+987,Biotechnology Research,UT,2,,246,6250.0,171463.0
+988,Biotechnology Research,NE,2,3520.0,246,6250.0,171463.0
+989,Biotechnology Research,IA,2,6250.0,246,6250.0,171463.0
+990,Biotechnology Research,FL,2,6250.0,246,6250.0,171463.0
+991,Biotechnology Research,WY,1,5833.0,246,6250.0,171463.0
+992,Biotechnology Research,WV,1,,246,6250.0,171463.0
+993,Biotechnology Research,NV,1,6250.0,246,6250.0,171463.0
+994,Biotechnology Research,MI,1,,246,6250.0,171463.0
+995,Biotechnology Research,LA,1,6250.0,246,6250.0,171463.0
+996,Biotechnology Research,DE,1,,246,6250.0,171463.0
+997,Biotechnology Research,AR,1,6250.0,246,6250.0,171463.0
+998,Non-profit Organizations,CA,59,5600.0,244,5000.0,147695.0
+999,Non-profit Organizations,NY,31,4791.0,244,5000.0,147695.0
+1000,Non-profit Organizations,,27,5120.0,244,5000.0,147695.0
+1001,Non-profit Organizations,WA,15,6720.0,244,5000.0,147695.0
+1002,Non-profit Organizations,TX,12,5208.0,244,5000.0,147695.0
+1003,Non-profit Organizations,MI,8,4833.0,244,5000.0,147695.0
+1004,Non-profit Organizations,MA,7,4320.0,244,5000.0,147695.0
+1005,Non-profit Organizations,DC,7,3360.0,244,5000.0,147695.0
+1006,Non-profit Organizations,VA,6,6080.0,244,5000.0,147695.0
+1007,Non-profit Organizations,TN,6,,244,5000.0,147695.0
+1008,Non-profit Organizations,MD,6,5750.0,244,5000.0,147695.0
+1009,Non-profit Organizations,IL,6,4166.0,244,5000.0,147695.0
+1010,Non-profit Organizations,PA,5,6227.0,244,5000.0,147695.0
+1011,Non-profit Organizations,FL,5,2720.0,244,5000.0,147695.0
+1012,Non-profit Organizations,AZ,5,5833.0,244,5000.0,147695.0
+1013,Non-profit Organizations,IA,4,2560.0,244,5000.0,147695.0
+1014,Non-profit Organizations,CO,4,3916.0,244,5000.0,147695.0
+1015,Non-profit Organizations,WI,3,5000.0,244,5000.0,147695.0
+1016,Non-profit Organizations,OR,3,4160.0,244,5000.0,147695.0
+1017,Non-profit Organizations,NC,3,11020.0,244,5000.0,147695.0
+1018,Non-profit Organizations,UT,2,3040.0,244,5000.0,147695.0
+1019,Non-profit Organizations,OH,2,2880.0,244,5000.0,147695.0
+1020,Non-profit Organizations,MN,2,,244,5000.0,147695.0
+1021,Non-profit Organizations,IN,2,2880.0,244,5000.0,147695.0
+1022,Non-profit Organizations,GA,2,10000.0,244,5000.0,147695.0
+1023,Non-profit Organizations,AR,2,4316.0,244,5000.0,147695.0
+1024,Non-profit Organizations,AL,2,2916.0,244,5000.0,147695.0
+1025,Non-profit Organizations,VT,1,6083.0,244,5000.0,147695.0
+1026,Non-profit Organizations,SC,1,,244,5000.0,147695.0
+1027,Non-profit Organizations,RI,1,7500.0,244,5000.0,147695.0
+1028,Non-profit Organizations,NV,1,,244,5000.0,147695.0
+1029,Non-profit Organizations,NJ,1,,244,5000.0,147695.0
+1030,Non-profit Organizations,ME,1,,244,5000.0,147695.0
+1031,Non-profit Organizations,ID,1,5416.0,244,5000.0,147695.0
+1032,Non-profit Organizations,CT,1,5280.0,244,5000.0,147695.0
+1033,Wellness and Fitness Services,,32,10875.0,214,6666.0,113340.0
+1034,Wellness and Fitness Services,CA,25,6975.0,214,6666.0,113340.0
+1035,Wellness and Fitness Services,IL,19,3360.0,214,6666.0,113340.0
+1036,Wellness and Fitness Services,NC,14,7083.0,214,6666.0,113340.0
+1037,Wellness and Fitness Services,FL,14,7291.0,214,6666.0,113340.0
+1038,Wellness and Fitness Services,NY,13,10040.0,214,6666.0,113340.0
+1039,Wellness and Fitness Services,NJ,9,,214,6666.0,113340.0
+1040,Wellness and Fitness Services,MI,9,,214,6666.0,113340.0
+1041,Wellness and Fitness Services,MO,7,,214,6666.0,113340.0
+1042,Wellness and Fitness Services,MA,7,7000.0,214,6666.0,113340.0
+1043,Wellness and Fitness Services,GA,7,,214,6666.0,113340.0
+1044,Wellness and Fitness Services,TX,6,,214,6666.0,113340.0
+1045,Wellness and Fitness Services,PA,5,6666.0,214,6666.0,113340.0
+1046,Wellness and Fitness Services,NV,5,18384.0,214,6666.0,113340.0
+1047,Wellness and Fitness Services,WA,4,4160.0,214,6666.0,113340.0
+1048,Wellness and Fitness Services,OH,4,7500.0,214,6666.0,113340.0
+1049,Wellness and Fitness Services,KY,4,4333.0,214,6666.0,113340.0
+1050,Wellness and Fitness Services,AZ,4,,214,6666.0,113340.0
+1051,Wellness and Fitness Services,UT,3,4583.0,214,6666.0,113340.0
+1052,Wellness and Fitness Services,SC,3,,214,6666.0,113340.0
+1053,Wellness and Fitness Services,MD,3,4333.0,214,6666.0,113340.0
+1054,Wellness and Fitness Services,AL,3,,214,6666.0,113340.0
+1055,Wellness and Fitness Services,VA,2,,214,6666.0,113340.0
+1056,Wellness and Fitness Services,OR,2,,214,6666.0,113340.0
+1057,Wellness and Fitness Services,MN,2,,214,6666.0,113340.0
+1058,Wellness and Fitness Services,KS,2,,214,6666.0,113340.0
+1059,Wellness and Fitness Services,CT,2,4583.0,214,6666.0,113340.0
+1060,Wellness and Fitness Services,TN,1,2654.0,214,6666.0,113340.0
+1061,Wellness and Fitness Services,IN,1,,214,6666.0,113340.0
+1062,Wellness and Fitness Services,DC,1,,214,6666.0,113340.0
+1063,Wellness and Fitness Services,CO,1,3520.0,214,6666.0,113340.0
+1064,Industrial Machinery Manufacturing,TX,23,7040.0,209,5416.0,138133.0
+1065,Industrial Machinery Manufacturing,,16,8541.0,209,5416.0,138133.0
+1066,Industrial Machinery Manufacturing,CA,14,8750.0,209,5416.0,138133.0
+1067,Industrial Machinery Manufacturing,MN,13,3040.0,209,5416.0,138133.0
+1068,Industrial Machinery Manufacturing,IL,12,6720.0,209,5416.0,138133.0
+1069,Industrial Machinery Manufacturing,GA,12,,209,5416.0,138133.0
+1070,Industrial Machinery Manufacturing,PA,10,5600.0,209,5416.0,138133.0
+1071,Industrial Machinery Manufacturing,OH,9,5000.0,209,5416.0,138133.0
+1072,Industrial Machinery Manufacturing,MD,9,,209,5416.0,138133.0
+1073,Industrial Machinery Manufacturing,NC,7,5416.0,209,5416.0,138133.0
+1074,Industrial Machinery Manufacturing,CT,7,8125.0,209,5416.0,138133.0
+1075,Industrial Machinery Manufacturing,TN,6,5280.0,209,5416.0,138133.0
+1076,Industrial Machinery Manufacturing,SC,6,4320.0,209,5416.0,138133.0
+1077,Industrial Machinery Manufacturing,MI,6,4000.0,209,5416.0,138133.0
+1078,Industrial Machinery Manufacturing,WI,5,,209,5416.0,138133.0
+1079,Industrial Machinery Manufacturing,WA,5,3680.0,209,5416.0,138133.0
+1080,Industrial Machinery Manufacturing,VA,5,7360.0,209,5416.0,138133.0
+1081,Industrial Machinery Manufacturing,AZ,5,,209,5416.0,138133.0
+1082,Industrial Machinery Manufacturing,NY,4,5440.0,209,5416.0,138133.0
+1083,Industrial Machinery Manufacturing,MT,4,,209,5416.0,138133.0
+1084,Industrial Machinery Manufacturing,MA,4,13541.0,209,5416.0,138133.0
+1085,Industrial Machinery Manufacturing,CO,4,3520.0,209,5416.0,138133.0
+1086,Industrial Machinery Manufacturing,OK,3,7500.0,209,5416.0,138133.0
+1087,Industrial Machinery Manufacturing,KS,3,4960.0,209,5416.0,138133.0
+1088,Industrial Machinery Manufacturing,OR,2,7062.0,209,5416.0,138133.0
+1089,Industrial Machinery Manufacturing,ND,2,,209,5416.0,138133.0
+1090,Industrial Machinery Manufacturing,LA,2,,209,5416.0,138133.0
+1091,Industrial Machinery Manufacturing,KY,2,,209,5416.0,138133.0
+1092,Industrial Machinery Manufacturing,FL,2,5120.0,209,5416.0,138133.0
+1093,Industrial Machinery Manufacturing,AL,2,,209,5416.0,138133.0
+1094,Industrial Machinery Manufacturing,RI,1,,209,5416.0,138133.0
+1095,Industrial Machinery Manufacturing,NH,1,3958.0,209,5416.0,138133.0
+1096,Industrial Machinery Manufacturing,IN,1,4160.0,209,5416.0,138133.0
+1097,Industrial Machinery Manufacturing,ID,1,,209,5416.0,138133.0
+1098,Industrial Machinery Manufacturing,IA,1,,209,5416.0,138133.0
+1099,NaN,CA,27,5603.0,206,5208.0,145494.0
+1100,NaN,TX,20,4480.0,206,5208.0,145494.0
+1101,NaN,SC,12,3520.0,206,5208.0,145494.0
+1102,NaN,NY,12,5208.0,206,5208.0,145494.0
+1103,NaN,IL,12,2880.0,206,5208.0,145494.0
+1104,NaN,WI,7,4000.0,206,5208.0,145494.0
+1105,NaN,PA,7,3958.0,206,5208.0,145494.0
+1106,NaN,FL,7,5833.0,206,5208.0,145494.0
+1107,NaN,CO,7,4640.0,206,5208.0,145494.0
+1108,NaN,UT,6,,206,5208.0,145494.0
+1109,NaN,NM,6,,206,5208.0,145494.0
+1110,NaN,GA,6,6716.0,206,5208.0,145494.0
+1111,NaN,NV,5,5637.0,206,5208.0,145494.0
+1112,NaN,MI,5,,206,5208.0,145494.0
+1113,NaN,AZ,5,3200.0,206,5208.0,145494.0
+1114,NaN,,5,4420.0,206,5208.0,145494.0
+1115,NaN,TN,4,6875.0,206,5208.0,145494.0
+1116,NaN,OR,4,5280.0,206,5208.0,145494.0
+1117,NaN,OH,4,4708.0,206,5208.0,145494.0
+1118,NaN,MD,4,7083.0,206,5208.0,145494.0
+1119,NaN,NC,3,5833.0,206,5208.0,145494.0
+1120,NaN,MA,3,8333.0,206,5208.0,145494.0
+1121,NaN,KY,3,3040.0,206,5208.0,145494.0
+1122,NaN,KS,3,,206,5208.0,145494.0
+1123,NaN,ID,3,3360.0,206,5208.0,145494.0
+1124,NaN,WY,2,,206,5208.0,145494.0
+1125,NaN,WA,2,5120.0,206,5208.0,145494.0
+1126,NaN,NJ,2,7916.0,206,5208.0,145494.0
+1127,NaN,MT,2,,206,5208.0,145494.0
+1128,NaN,MO,2,2240.0,206,5208.0,145494.0
+1129,NaN,MN,2,,206,5208.0,145494.0
+1130,NaN,LA,2,5759.0,206,5208.0,145494.0
+1131,NaN,IA,2,,206,5208.0,145494.0
+1132,NaN,AK,2,,206,5208.0,145494.0
+1133,NaN,VA,1,7690.0,206,5208.0,145494.0
+1134,NaN,SD,1,,206,5208.0,145494.0
+1135,NaN,NE,1,,206,5208.0,145494.0
+1136,NaN,MS,1,,206,5208.0,145494.0
+1137,NaN,IN,1,,206,5208.0,145494.0
+1138,NaN,CT,1,,206,5208.0,145494.0
+1139,NaN,AR,1,5829.0,206,5208.0,145494.0
+1140,NaN,AL,1,6333.0,206,5208.0,145494.0
+1141,"Transportation, Logistics, Supply Chain and Storage",TX,23,5208.0,199,4282.0,125117.0
+1142,"Transportation, Logistics, Supply Chain and Storage",CA,20,7083.0,199,4282.0,125117.0
+1143,"Transportation, Logistics, Supply Chain and Storage",,17,12291.0,199,4282.0,125117.0
+1144,"Transportation, Logistics, Supply Chain and Storage",TN,11,3040.0,199,4282.0,125117.0
+1145,"Transportation, Logistics, Supply Chain and Storage",NC,11,4960.0,199,4282.0,125117.0
+1146,"Transportation, Logistics, Supply Chain and Storage",PA,10,3916.0,199,4282.0,125117.0
+1147,"Transportation, Logistics, Supply Chain and Storage",IL,9,4160.0,199,4282.0,125117.0
+1148,"Transportation, Logistics, Supply Chain and Storage",NJ,8,11208.0,199,4282.0,125117.0
+1149,"Transportation, Logistics, Supply Chain and Storage",KS,8,,199,4282.0,125117.0
+1150,"Transportation, Logistics, Supply Chain and Storage",VA,7,2880.0,199,4282.0,125117.0
+1151,"Transportation, Logistics, Supply Chain and Storage",GA,7,6666.0,199,4282.0,125117.0
+1152,"Transportation, Logistics, Supply Chain and Storage",OH,6,2720.0,199,4282.0,125117.0
+1153,"Transportation, Logistics, Supply Chain and Storage",MA,6,4282.0,199,4282.0,125117.0
+1154,"Transportation, Logistics, Supply Chain and Storage",MI,5,4160.0,199,4282.0,125117.0
+1155,"Transportation, Logistics, Supply Chain and Storage",MD,5,4960.0,199,4282.0,125117.0
+1156,"Transportation, Logistics, Supply Chain and Storage",IN,5,2880.0,199,4282.0,125117.0
+1157,"Transportation, Logistics, Supply Chain and Storage",FL,5,6250.0,199,4282.0,125117.0
+1158,"Transportation, Logistics, Supply Chain and Storage",MN,4,7520.0,199,4282.0,125117.0
+1159,"Transportation, Logistics, Supply Chain and Storage",CO,4,3840.0,199,4282.0,125117.0
+1160,"Transportation, Logistics, Supply Chain and Storage",AZ,4,2880.0,199,4282.0,125117.0
+1161,"Transportation, Logistics, Supply Chain and Storage",WA,3,4320.0,199,4282.0,125117.0
+1162,"Transportation, Logistics, Supply Chain and Storage",UT,2,,199,4282.0,125117.0
+1163,"Transportation, Logistics, Supply Chain and Storage",SD,2,,199,4282.0,125117.0
+1164,"Transportation, Logistics, Supply Chain and Storage",SC,2,5333.0,199,4282.0,125117.0
+1165,"Transportation, Logistics, Supply Chain and Storage",OK,2,3040.0,199,4282.0,125117.0
+1166,"Transportation, Logistics, Supply Chain and Storage",NY,2,,199,4282.0,125117.0
+1167,"Transportation, Logistics, Supply Chain and Storage",NE,2,,199,4282.0,125117.0
+1168,"Transportation, Logistics, Supply Chain and Storage",WI,1,2560.0,199,4282.0,125117.0
+1169,"Transportation, Logistics, Supply Chain and Storage",OR,1,,199,4282.0,125117.0
+1170,"Transportation, Logistics, Supply Chain and Storage",NV,1,,199,4282.0,125117.0
+1171,"Transportation, Logistics, Supply Chain and Storage",NH,1,3520.0,199,4282.0,125117.0
+1172,"Transportation, Logistics, Supply Chain and Storage",MS,1,,199,4282.0,125117.0
+1173,"Transportation, Logistics, Supply Chain and Storage",MO,1,,199,4282.0,125117.0
+1174,"Transportation, Logistics, Supply Chain and Storage",LA,1,5440.0,199,4282.0,125117.0
+1175,"Transportation, Logistics, Supply Chain and Storage",KY,1,,199,4282.0,125117.0
+1176,"Transportation, Logistics, Supply Chain and Storage",DE,1,,199,4282.0,125117.0
+1177,Civil Engineering,CA,30,10625.0,189,8333.0,140258.0
+1178,Civil Engineering,TX,23,8333.0,189,8333.0,140258.0
+1179,Civil Engineering,,17,12291.0,189,8333.0,140258.0
+1180,Civil Engineering,FL,13,,189,8333.0,140258.0
+1181,Civil Engineering,OH,10,,189,8333.0,140258.0
+1182,Civil Engineering,VA,8,4480.0,189,8333.0,140258.0
+1183,Civil Engineering,NY,8,10009.0,189,8333.0,140258.0
+1184,Civil Engineering,CO,7,8333.0,189,8333.0,140258.0
+1185,Civil Engineering,WA,6,5125.0,189,8333.0,140258.0
+1186,Civil Engineering,NC,6,,189,8333.0,140258.0
+1187,Civil Engineering,AZ,6,8320.0,189,8333.0,140258.0
+1188,Civil Engineering,MI,5,,189,8333.0,140258.0
+1189,Civil Engineering,MD,5,5760.0,189,8333.0,140258.0
+1190,Civil Engineering,MA,5,,189,8333.0,140258.0
+1191,Civil Engineering,IL,5,12083.0,189,8333.0,140258.0
+1192,Civil Engineering,NJ,4,9375.0,189,8333.0,140258.0
+1193,Civil Engineering,GA,4,8333.0,189,8333.0,140258.0
+1194,Civil Engineering,WI,3,7500.0,189,8333.0,140258.0
+1195,Civil Engineering,PA,3,,189,8333.0,140258.0
+1196,Civil Engineering,NE,2,8125.0,189,8333.0,140258.0
+1197,Civil Engineering,MN,2,,189,8333.0,140258.0
+1198,Civil Engineering,LA,2,10833.0,189,8333.0,140258.0
+1199,Civil Engineering,IN,2,,189,8333.0,140258.0
+1200,Civil Engineering,UT,1,,189,8333.0,140258.0
+1201,Civil Engineering,SC,1,,189,8333.0,140258.0
+1202,Civil Engineering,NV,1,,189,8333.0,140258.0
+1203,Civil Engineering,NM,1,,189,8333.0,140258.0
+1204,Civil Engineering,NH,1,,189,8333.0,140258.0
+1205,Civil Engineering,ND,1,2400.0,189,8333.0,140258.0
+1206,Civil Engineering,MT,1,8333.0,189,8333.0,140258.0
+1207,Civil Engineering,MS,1,,189,8333.0,140258.0
+1208,Civil Engineering,ME,1,,189,8333.0,140258.0
+1209,Civil Engineering,KS,1,,189,8333.0,140258.0
+1210,Civil Engineering,ID,1,,189,8333.0,140258.0
+1211,Civil Engineering,DC,1,,189,8333.0,140258.0
+1212,Civil Engineering,AR,1,,189,8333.0,140258.0
+1213,Truck Transportation,NY,19,9106.0,187,4480.0,137787.0
+1214,Truck Transportation,TX,18,6400.0,187,4480.0,137787.0
+1215,Truck Transportation,OH,14,4160.0,187,4480.0,137787.0
+1216,Truck Transportation,PA,13,3916.0,187,4480.0,137787.0
+1217,Truck Transportation,CA,13,8958.0,187,4480.0,137787.0
+1218,Truck Transportation,NC,12,4960.0,187,4480.0,137787.0
+1219,Truck Transportation,MI,9,3666.0,187,4480.0,137787.0
+1220,Truck Transportation,IL,9,7916.0,187,4480.0,137787.0
+1221,Truck Transportation,,9,12291.0,187,4480.0,137787.0
+1222,Truck Transportation,VA,6,8160.0,187,4480.0,137787.0
+1223,Truck Transportation,TN,6,2880.0,187,4480.0,137787.0
+1224,Truck Transportation,MD,5,4960.0,187,4480.0,137787.0
+1225,Truck Transportation,CO,5,3840.0,187,4480.0,137787.0
+1226,Truck Transportation,FL,4,3200.0,187,4480.0,137787.0
+1227,Truck Transportation,AL,4,,187,4480.0,137787.0
+1228,Truck Transportation,MN,3,4475.0,187,4480.0,137787.0
+1229,Truck Transportation,MA,3,4583.0,187,4480.0,137787.0
+1230,Truck Transportation,IN,3,,187,4480.0,137787.0
+1231,Truck Transportation,IA,3,3360.0,187,4480.0,137787.0
+1232,Truck Transportation,GA,3,3840.0,187,4480.0,137787.0
+1233,Truck Transportation,AZ,3,,187,4480.0,137787.0
+1234,Truck Transportation,WA,2,4480.0,187,4480.0,137787.0
+1235,Truck Transportation,SC,2,,187,4480.0,137787.0
+1236,Truck Transportation,MS,2,,187,4480.0,137787.0
+1237,Truck Transportation,MO,2,,187,4480.0,137787.0
+1238,Truck Transportation,KY,2,6.0,187,4480.0,137787.0
+1239,Truck Transportation,KS,2,,187,4480.0,137787.0
+1240,Truck Transportation,WV,1,,187,4480.0,137787.0
+1241,Truck Transportation,UT,1,5000.0,187,4480.0,137787.0
+1242,Truck Transportation,OR,1,7062.0,187,4480.0,137787.0
+1243,Truck Transportation,OK,1,,187,4480.0,137787.0
+1244,Truck Transportation,NV,1,3360.0,187,4480.0,137787.0
+1245,Truck Transportation,NJ,1,5120.0,187,4480.0,137787.0
+1246,Truck Transportation,ND,1,5208.0,187,4480.0,137787.0
+1247,Truck Transportation,HI,1,3040.0,187,4480.0,137787.0
+1248,Truck Transportation,DE,1,3840.0,187,4480.0,137787.0
+1249,Truck Transportation,DC,1,,187,4480.0,137787.0
+1250,Truck Transportation,AR,1,,187,4480.0,137787.0
+1251,Information Services,CA,43,14708.0,179,11875.0,272653.0
+1252,Information Services,TX,21,14458.0,179,11875.0,272653.0
+1253,Information Services,,20,13541.0,179,11875.0,272653.0
+1254,Information Services,WA,18,15250.0,179,11875.0,272653.0
+1255,Information Services,NY,13,13625.0,179,11875.0,272653.0
+1256,Information Services,GA,8,15958.0,179,11875.0,272653.0
+1257,Information Services,IL,7,15958.0,179,11875.0,272653.0
+1258,Information Services,VA,5,8151.0,179,11875.0,272653.0
+1259,Information Services,MD,5,7916.0,179,11875.0,272653.0
+1260,Information Services,MA,5,13625.0,179,11875.0,272653.0
+1261,Information Services,FL,5,7040.0,179,11875.0,272653.0
+1262,Information Services,CO,4,12083.0,179,11875.0,272653.0
+1263,Information Services,PA,3,9166.0,179,11875.0,272653.0
+1264,Information Services,NC,3,13625.0,179,11875.0,272653.0
+1265,Information Services,OH,2,3360.0,179,11875.0,272653.0
+1266,Information Services,MI,2,3200.0,179,11875.0,272653.0
+1267,Information Services,AZ,2,6666.0,179,11875.0,272653.0
+1268,Information Services,UT,1,22416.0,179,11875.0,272653.0
+1269,Information Services,TN,1,,179,11875.0,272653.0
+1270,Information Services,OR,1,22416.0,179,11875.0,272653.0
+1271,Information Services,OK,1,7000.0,179,11875.0,272653.0
+1272,Information Services,NJ,1,,179,11875.0,272653.0
+1273,Information Services,NH,1,,179,11875.0,272653.0
+1274,Information Services,MO,1,10416.0,179,11875.0,272653.0
+1275,Information Services,MN,1,,179,11875.0,272653.0
+1276,Information Services,KY,1,,179,11875.0,272653.0
+1277,Information Services,IA,1,3200.0,179,11875.0,272653.0
+1278,Information Services,DE,1,,179,11875.0,272653.0
+1279,Information Services,DC,1,11875.0,179,11875.0,272653.0
+1280,Information Services,AL,1,7000.0,179,11875.0,272653.0
+1281,Environmental Services,CA,24,4976.0,178,4960.0,122457.0
+1282,Environmental Services,TX,15,3200.0,178,4960.0,122457.0
+1283,Environmental Services,,11,7500.0,178,4960.0,122457.0
+1284,Environmental Services,WI,8,4000.0,178,4960.0,122457.0
+1285,Environmental Services,OH,8,4320.0,178,4960.0,122457.0
+1286,Environmental Services,NY,8,5844.0,178,4960.0,122457.0
+1287,Environmental Services,GA,8,5208.0,178,4960.0,122457.0
+1288,Environmental Services,FL,8,4160.0,178,4960.0,122457.0
+1289,Environmental Services,PA,6,,178,4960.0,122457.0
+1290,Environmental Services,MI,6,4500.0,178,4960.0,122457.0
+1291,Environmental Services,IL,6,2720.0,178,4960.0,122457.0
+1292,Environmental Services,CO,6,6041.0,178,4960.0,122457.0
+1293,Environmental Services,AZ,6,6716.0,178,4960.0,122457.0
+1294,Environmental Services,NC,5,,178,4960.0,122457.0
+1295,Environmental Services,MN,5,5833.0,178,4960.0,122457.0
+1296,Environmental Services,NJ,4,4375.0,178,4960.0,122457.0
+1297,Environmental Services,MO,4,4960.0,178,4960.0,122457.0
+1298,Environmental Services,MD,4,1.0,178,4960.0,122457.0
+1299,Environmental Services,LA,4,8750.0,178,4960.0,122457.0
+1300,Environmental Services,TN,3,,178,4960.0,122457.0
+1301,Environmental Services,IN,3,16250.0,178,4960.0,122457.0
+1302,Environmental Services,AL,3,,178,4960.0,122457.0
+1303,Environmental Services,WA,2,5125.0,178,4960.0,122457.0
+1304,Environmental Services,VA,2,,178,4960.0,122457.0
+1305,Environmental Services,SC,2,,178,4960.0,122457.0
+1306,Environmental Services,OK,2,4000.0,178,4960.0,122457.0
+1307,Environmental Services,ME,2,,178,4960.0,122457.0
+1308,Environmental Services,MA,2,6458.0,178,4960.0,122457.0
+1309,Environmental Services,DE,2,3680.0,178,4960.0,122457.0
+1310,Environmental Services,DC,2,,178,4960.0,122457.0
+1311,Environmental Services,RI,1,3840.0,178,4960.0,122457.0
+1312,Environmental Services,NM,1,,178,4960.0,122457.0
+1313,Environmental Services,NH,1,,178,4960.0,122457.0
+1314,Environmental Services,ID,1,,178,4960.0,122457.0
+1315,Environmental Services,IA,1,,178,4960.0,122457.0
+1316,Environmental Services,CT,1,,178,4960.0,122457.0
+1317,Environmental Services,AR,1,,178,4960.0,122457.0
+1318,Oil and Gas,TX,56,7040.0,177,5966.0,95264.0
+1319,Oil and Gas,,19,10833.0,177,5966.0,95264.0
+1320,Oil and Gas,CA,17,9600.0,177,5966.0,95264.0
+1321,Oil and Gas,OK,7,,177,5966.0,95264.0
+1322,Oil and Gas,MI,7,,177,5966.0,95264.0
+1323,Oil and Gas,PA,6,,177,5966.0,95264.0
+1324,Oil and Gas,OH,6,4320.0,177,5966.0,95264.0
+1325,Oil and Gas,MN,5,,177,5966.0,95264.0
+1326,Oil and Gas,UT,4,,177,5966.0,95264.0
+1327,Oil and Gas,ND,4,,177,5966.0,95264.0
+1328,Oil and Gas,MD,4,,177,5966.0,95264.0
+1329,Oil and Gas,LA,4,,177,5966.0,95264.0
+1330,Oil and Gas,AZ,4,6255.0,177,5966.0,95264.0
+1331,Oil and Gas,VA,3,4480.0,177,5966.0,95264.0
+1332,Oil and Gas,MA,3,4320.0,177,5966.0,95264.0
+1333,Oil and Gas,IN,3,4166.0,177,5966.0,95264.0
+1334,Oil and Gas,IL,3,,177,5966.0,95264.0
+1335,Oil and Gas,WY,2,,177,5966.0,95264.0
+1336,Oil and Gas,NY,2,16287.0,177,5966.0,95264.0
+1337,Oil and Gas,NM,2,,177,5966.0,95264.0
+1338,Oil and Gas,NJ,2,,177,5966.0,95264.0
+1339,Oil and Gas,MS,2,5710.0,177,5966.0,95264.0
+1340,Oil and Gas,GA,2,,177,5966.0,95264.0
+1341,Oil and Gas,CT,2,16287.0,177,5966.0,95264.0
+1342,Oil and Gas,AL,2,,177,5966.0,95264.0
+1343,Oil and Gas,WI,1,,177,5966.0,95264.0
+1344,Oil and Gas,WA,1,5966.0,177,5966.0,95264.0
+1345,Oil and Gas,SC,1,,177,5966.0,95264.0
+1346,Oil and Gas,NC,1,,177,5966.0,95264.0
+1347,Oil and Gas,FL,1,,177,5966.0,95264.0
+1348,Oil and Gas,AK,1,,177,5966.0,95264.0
+1349,Food and Beverage Manufacturing,CA,15,6875.0,175,4000.0,141608.0
+1350,Food and Beverage Manufacturing,TX,12,6880.0,175,4000.0,141608.0
+1351,Food and Beverage Manufacturing,MN,12,6720.0,175,4000.0,141608.0
+1352,Food and Beverage Manufacturing,AR,11,4000.0,175,4000.0,141608.0
+1353,Food and Beverage Manufacturing,IL,9,3680.0,175,4000.0,141608.0
+1354,Food and Beverage Manufacturing,WI,8,6041.0,175,4000.0,141608.0
+1355,Food and Beverage Manufacturing,,8,9120.0,175,4000.0,141608.0
+1356,Food and Beverage Manufacturing,NY,7,4800.0,175,4000.0,141608.0
+1357,Food and Beverage Manufacturing,NC,6,3200.0,175,4000.0,141608.0
+1358,Food and Beverage Manufacturing,MO,6,,175,4000.0,141608.0
+1359,Food and Beverage Manufacturing,WA,5,6458.0,175,4000.0,141608.0
+1360,Food and Beverage Manufacturing,TN,5,4160.0,175,4000.0,141608.0
+1361,Food and Beverage Manufacturing,PA,5,4160.0,175,4000.0,141608.0
+1362,Food and Beverage Manufacturing,OH,5,,175,4000.0,141608.0
+1363,Food and Beverage Manufacturing,KY,5,2240.0,175,4000.0,141608.0
+1364,Food and Beverage Manufacturing,SC,4,3520.0,175,4000.0,141608.0
+1365,Food and Beverage Manufacturing,NM,4,2400.0,175,4000.0,141608.0
+1366,Food and Beverage Manufacturing,NE,4,3840.0,175,4000.0,141608.0
+1367,Food and Beverage Manufacturing,LA,4,,175,4000.0,141608.0
+1368,Food and Beverage Manufacturing,KS,4,3200.0,175,4000.0,141608.0
+1369,Food and Beverage Manufacturing,FL,4,9583.0,175,4000.0,141608.0
+1370,Food and Beverage Manufacturing,AZ,4,2240.0,175,4000.0,141608.0
+1371,Food and Beverage Manufacturing,SD,3,,175,4000.0,141608.0
+1372,Food and Beverage Manufacturing,MI,3,3360.0,175,4000.0,141608.0
+1373,Food and Beverage Manufacturing,CO,3,6179.0,175,4000.0,141608.0
+1374,Food and Beverage Manufacturing,NH,2,3040.0,175,4000.0,141608.0
+1375,Food and Beverage Manufacturing,MS,2,16666.0,175,4000.0,141608.0
+1376,Food and Beverage Manufacturing,GA,2,,175,4000.0,141608.0
+1377,Food and Beverage Manufacturing,AL,2,,175,4000.0,141608.0
+1378,Food and Beverage Manufacturing,VA,1,,175,4000.0,141608.0
+1379,Food and Beverage Manufacturing,RI,1,3840.0,175,4000.0,141608.0
+1380,Food and Beverage Manufacturing,OR,1,,175,4000.0,141608.0
+1381,Food and Beverage Manufacturing,NV,1,,175,4000.0,141608.0
+1382,Food and Beverage Manufacturing,NJ,1,,175,4000.0,141608.0
+1383,Food and Beverage Manufacturing,MD,1,3200.0,175,4000.0,141608.0
+1384,Food and Beverage Manufacturing,MA,1,,175,4000.0,141608.0
+1385,Food and Beverage Manufacturing,IN,1,3040.0,175,4000.0,141608.0
+1386,Food and Beverage Manufacturing,ID,1,,175,4000.0,141608.0
+1387,Food and Beverage Manufacturing,IA,1,,175,4000.0,141608.0
+1388,Food and Beverage Manufacturing,DC,1,9166.0,175,4000.0,141608.0
+1389,Book and Periodical Publishing,CA,30,16765.0,172,16765.0,346758.0
+1390,Book and Periodical Publishing,TX,14,16765.0,172,16765.0,346758.0
+1391,Book and Periodical Publishing,OH,11,8125.0,172,16765.0,346758.0
+1392,Book and Periodical Publishing,FL,10,16765.0,172,16765.0,346758.0
+1393,Book and Periodical Publishing,VA,9,16765.0,172,16765.0,346758.0
+1394,Book and Periodical Publishing,NJ,8,16765.0,172,16765.0,346758.0
+1395,Book and Periodical Publishing,MA,7,16765.0,172,16765.0,346758.0
+1396,Book and Periodical Publishing,NY,6,16765.0,172,16765.0,346758.0
+1397,Book and Periodical Publishing,IL,6,16765.0,172,16765.0,346758.0
+1398,Book and Periodical Publishing,MN,5,16765.0,172,16765.0,346758.0
+1399,Book and Periodical Publishing,MI,5,16765.0,172,16765.0,346758.0
+1400,Book and Periodical Publishing,MD,5,16765.0,172,16765.0,346758.0
+1401,Book and Periodical Publishing,IN,5,16765.0,172,16765.0,346758.0
+1402,Book and Periodical Publishing,AZ,5,,172,16765.0,346758.0
+1403,Book and Periodical Publishing,WI,4,,172,16765.0,346758.0
+1404,Book and Periodical Publishing,PA,4,16765.0,172,16765.0,346758.0
+1405,Book and Periodical Publishing,NV,4,,172,16765.0,346758.0
+1406,Book and Periodical Publishing,CO,4,16765.0,172,16765.0,346758.0
+1407,Book and Periodical Publishing,TN,3,16765.0,172,16765.0,346758.0
+1408,Book and Periodical Publishing,NC,3,,172,16765.0,346758.0
+1409,Book and Periodical Publishing,GA,3,16765.0,172,16765.0,346758.0
+1410,Book and Periodical Publishing,,3,3333.0,172,16765.0,346758.0
+1411,Book and Periodical Publishing,WA,2,16765.0,172,16765.0,346758.0
+1412,Book and Periodical Publishing,OK,2,,172,16765.0,346758.0
+1413,Book and Periodical Publishing,NH,2,16765.0,172,16765.0,346758.0
+1414,Book and Periodical Publishing,KY,2,,172,16765.0,346758.0
+1415,Book and Periodical Publishing,KS,2,,172,16765.0,346758.0
+1416,Book and Periodical Publishing,CT,2,16765.0,172,16765.0,346758.0
+1417,Book and Periodical Publishing,OR,1,,172,16765.0,346758.0
+1418,Book and Periodical Publishing,NM,1,,172,16765.0,346758.0
+1419,Book and Periodical Publishing,NE,1,,172,16765.0,346758.0
+1420,Book and Periodical Publishing,MO,1,,172,16765.0,346758.0
+1421,Book and Periodical Publishing,HI,1,16765.0,172,16765.0,346758.0
+1422,Book and Periodical Publishing,DC,1,,172,16765.0,346758.0
+1423,Retail Apparel and Fashion,CA,36,5416.0,170,3840.0,81991.0
+1424,Restaurants,TX,34,4833.0,170,3200.0,101890.0
+1425,Retail Apparel and Fashion,NY,28,6250.0,170,3840.0,81991.0
+1426,Restaurants,CA,25,3360.0,170,3200.0,101890.0
+1427,Restaurants,NV,21,1760.0,170,3200.0,101890.0
+1428,Retail Apparel and Fashion,MA,16,3360.0,170,3840.0,81991.0
+1429,Restaurants,FL,15,4833.0,170,3200.0,101890.0
+1430,Retail Apparel and Fashion,,10,5416.0,170,3840.0,81991.0
+1431,Restaurants,,8,8333.0,170,3200.0,101890.0
+1432,Restaurants,GA,7,4791.0,170,3200.0,101890.0
+1433,Retail Apparel and Fashion,TX,7,,170,3840.0,81991.0
+1434,Retail Apparel and Fashion,NJ,7,17083.0,170,3840.0,81991.0
+1435,Retail Apparel and Fashion,FL,7,,170,3840.0,81991.0
+1436,Restaurants,UT,6,2400.0,170,3200.0,101890.0
+1437,Restaurants,OK,6,1920.0,170,3200.0,101890.0
+1438,Restaurants,AZ,5,2400.0,170,3200.0,101890.0
+1439,Retail Apparel and Fashion,WA,5,9791.0,170,3840.0,81991.0
+1440,Retail Apparel and Fashion,PA,5,2400.0,170,3840.0,81991.0
+1441,Restaurants,PA,4,2400.0,170,3200.0,101890.0
+1442,Restaurants,MA,4,4160.0,170,3200.0,101890.0
+1443,Retail Apparel and Fashion,VA,4,3360.0,170,3840.0,81991.0
+1444,Retail Apparel and Fashion,OH,4,7200.0,170,3840.0,81991.0
+1445,Restaurants,VA,3,,170,3200.0,101890.0
+1446,Restaurants,OR,3,2400.0,170,3200.0,101890.0
+1447,Restaurants,MO,3,3200.0,170,3200.0,101890.0
+1448,Restaurants,MI,3,2400.0,170,3200.0,101890.0
+1449,Restaurants,IL,3,2400.0,170,3200.0,101890.0
+1450,Restaurants,HI,3,2560.0,170,3200.0,101890.0
+1451,Retail Apparel and Fashion,WI,3,3040.0,170,3840.0,81991.0
+1452,Retail Apparel and Fashion,MN,3,,170,3840.0,81991.0
+1453,Retail Apparel and Fashion,MD,3,,170,3840.0,81991.0
+1454,Retail Apparel and Fashion,IL,3,,170,3840.0,81991.0
+1455,Restaurants,TN,2,,170,3200.0,101890.0
+1456,Restaurants,OH,2,2400.0,170,3200.0,101890.0
+1457,Restaurants,NC,2,,170,3200.0,101890.0
+1458,Restaurants,LA,2,1760.0,170,3200.0,101890.0
+1459,Retail Apparel and Fashion,TN,2,,170,3840.0,81991.0
+1460,Retail Apparel and Fashion,OR,2,3840.0,170,3840.0,81991.0
+1461,Retail Apparel and Fashion,NV,2,,170,3840.0,81991.0
+1462,Retail Apparel and Fashion,MO,2,2720.0,170,3840.0,81991.0
+1463,Retail Apparel and Fashion,LA,2,,170,3840.0,81991.0
+1464,Retail Apparel and Fashion,GA,2,2400.0,170,3840.0,81991.0
+1465,Retail Apparel and Fashion,CT,2,,170,3840.0,81991.0
+1466,Retail Apparel and Fashion,CO,2,7475.0,170,3840.0,81991.0
+1467,Retail Apparel and Fashion,AZ,2,,170,3840.0,81991.0
+1468,Retail Apparel and Fashion,AL,2,2240.0,170,3840.0,81991.0
+1469,Restaurants,NJ,1,6250.0,170,3200.0,101890.0
+1470,Restaurants,ND,1,7291.0,170,3200.0,101890.0
+1471,Restaurants,MN,1,,170,3200.0,101890.0
+1472,Restaurants,MD,1,6291.0,170,3200.0,101890.0
+1473,Restaurants,KS,1,,170,3200.0,101890.0
+1474,Restaurants,IA,1,7291.0,170,3200.0,101890.0
+1475,Restaurants,DC,1,9166.0,170,3200.0,101890.0
+1476,Restaurants,CO,1,,170,3200.0,101890.0
+1477,Restaurants,AR,1,7291.0,170,3200.0,101890.0
+1478,Retail Apparel and Fashion,UT,1,,170,3840.0,81991.0
+1479,Retail Apparel and Fashion,NE,1,,170,3840.0,81991.0
+1480,Retail Apparel and Fashion,MI,1,,170,3840.0,81991.0
+1481,Retail Apparel and Fashion,KS,1,,170,3840.0,81991.0
+1482,Retail Apparel and Fashion,IN,1,,170,3840.0,81991.0
+1483,Retail Apparel and Fashion,ID,1,,170,3840.0,81991.0
+1484,Retail Apparel and Fashion,IA,1,,170,3840.0,81991.0
+1485,Retail Apparel and Fashion,DE,1,,170,3840.0,81991.0
+1486,Retail Apparel and Fashion,DC,1,,170,3840.0,81991.0
+1487,Government Administration,CA,31,6212.0,169,5440.0,136997.0
+1488,Government Administration,TX,22,8903.0,169,5440.0,136997.0
+1489,Government Administration,NY,12,7710.0,169,5440.0,136997.0
+1490,Government Administration,GA,12,3562.0,169,5440.0,136997.0
+1491,Government Administration,FL,11,4480.0,169,5440.0,136997.0
+1492,Government Administration,OH,10,5280.0,169,5440.0,136997.0
+1493,Government Administration,WA,9,5440.0,169,5440.0,136997.0
+1494,Government Administration,MA,7,6715.0,169,5440.0,136997.0
+1495,Government Administration,,7,11273.0,169,5440.0,136997.0
+1496,Government Administration,UT,5,833.0,169,5440.0,136997.0
+1497,Government Administration,DC,5,5958.0,169,5440.0,136997.0
+1498,Government Administration,PA,4,4099.0,169,5440.0,136997.0
+1499,Government Administration,OK,4,,169,5440.0,136997.0
+1500,Government Administration,IL,4,,169,5440.0,136997.0
+1501,Government Administration,SC,3,2240.0,169,5440.0,136997.0
+1502,Government Administration,MD,3,14583.0,169,5440.0,136997.0
+1503,Government Administration,VA,2,7041.0,169,5440.0,136997.0
+1504,Government Administration,MN,2,8348.0,169,5440.0,136997.0
+1505,Government Administration,CO,2,4320.0,169,5440.0,136997.0
+1506,Government Administration,AZ,2,7000.0,169,5440.0,136997.0
+1507,Government Administration,TN,1,4166.0,169,5440.0,136997.0
+1508,Government Administration,SD,1,3360.0,169,5440.0,136997.0
+1509,Government Administration,NV,1,,169,5440.0,136997.0
+1510,Government Administration,NJ,1,,169,5440.0,136997.0
+1511,Government Administration,NE,1,,169,5440.0,136997.0
+1512,Government Administration,ND,1,7375.0,169,5440.0,136997.0
+1513,Government Administration,MI,1,,169,5440.0,136997.0
+1514,Government Administration,KS,1,4000.0,169,5440.0,136997.0
+1515,Government Administration,ID,1,4099.0,169,5440.0,136997.0
+1516,Government Administration,DE,1,,169,5440.0,136997.0
+1517,Government Administration,CT,1,,169,5440.0,136997.0
+1518,Government Administration,AR,1,,169,5440.0,136997.0
+1519,Utilities,TX,23,5630.0,166,6737.0,164996.0
+1520,Utilities,CA,16,10600.0,166,6737.0,164996.0
+1521,Utilities,,16,11041.0,166,6737.0,164996.0
+1522,Utilities,IL,13,6666.0,166,6737.0,164996.0
+1523,Utilities,NY,11,6250.0,166,6737.0,164996.0
+1524,Utilities,FL,8,,166,6737.0,164996.0
+1525,Utilities,TN,7,,166,6737.0,164996.0
+1526,Utilities,MD,6,2400.0,166,6737.0,164996.0
+1527,Utilities,VA,5,4480.0,166,6737.0,164996.0
+1528,Utilities,OH,5,12800.0,166,6737.0,164996.0
+1529,Utilities,AZ,5,7630.0,166,6737.0,164996.0
+1530,Utilities,WA,4,3680.0,166,6737.0,164996.0
+1531,Utilities,PA,4,,166,6737.0,164996.0
+1532,Utilities,MA,4,4583.0,166,6737.0,164996.0
+1533,Utilities,IN,4,8000.0,166,6737.0,164996.0
+1534,Utilities,OK,3,,166,6737.0,164996.0
+1535,Utilities,NE,3,7862.0,166,6737.0,164996.0
+1536,Utilities,LA,3,,166,6737.0,164996.0
+1537,Utilities,GA,3,,166,6737.0,164996.0
+1538,Utilities,DE,3,,166,6737.0,164996.0
+1539,Utilities,DC,3,20833.0,166,6737.0,164996.0
+1540,Utilities,OR,2,11770.0,166,6737.0,164996.0
+1541,Utilities,NV,2,6737.0,166,6737.0,164996.0
+1542,Utilities,NC,2,,166,6737.0,164996.0
+1543,Utilities,MO,2,4960.0,166,6737.0,164996.0
+1544,Utilities,KS,2,,166,6737.0,164996.0
+1545,Utilities,RI,1,6720.0,166,6737.0,164996.0
+1546,Utilities,NJ,1,,166,6737.0,164996.0
+1547,Utilities,ND,1,,166,6737.0,164996.0
+1548,Utilities,MI,1,,166,6737.0,164996.0
+1549,Utilities,ME,1,11177.0,166,6737.0,164996.0
+1550,Utilities,CT,1,11177.0,166,6737.0,164996.0
+1551,Utilities,CO,1,,166,6737.0,164996.0
+1552,Law Practice,CA,41,9375.0,160,8250.0,175435.0
+1553,Law Practice,,24,8250.0,160,8250.0,175435.0
+1554,Law Practice,NY,18,7916.0,160,8250.0,175435.0
+1555,Law Practice,WA,7,7083.0,160,8250.0,175435.0
+1556,Law Practice,DC,7,13750.0,160,8250.0,175435.0
+1557,Law Practice,FL,6,4800.0,160,8250.0,175435.0
+1558,Law Practice,CO,6,7845.0,160,8250.0,175435.0
+1559,Law Practice,TX,5,1600.0,160,8250.0,175435.0
+1560,Law Practice,IL,5,10416.0,160,8250.0,175435.0
+1561,Law Practice,MD,4,8624.0,160,8250.0,175435.0
+1562,Law Practice,AZ,4,2720.0,160,8250.0,175435.0
+1563,Law Practice,WI,2,18362.0,160,8250.0,175435.0
+1564,Law Practice,VA,2,,160,8250.0,175435.0
+1565,Law Practice,SC,2,,160,8250.0,175435.0
+1566,Law Practice,PA,2,,160,8250.0,175435.0
+1567,Law Practice,OR,2,,160,8250.0,175435.0
+1568,Law Practice,NV,2,6916.0,160,8250.0,175435.0
+1569,Law Practice,NC,2,4320.0,160,8250.0,175435.0
+1570,Law Practice,MO,2,9791.0,160,8250.0,175435.0
+1571,Law Practice,MN,2,5416.0,160,8250.0,175435.0
+1572,Law Practice,MA,2,,160,8250.0,175435.0
+1573,Law Practice,IN,2,16875.0,160,8250.0,175435.0
+1574,Law Practice,UT,1,9710.0,160,8250.0,175435.0
+1575,Law Practice,TN,1,,160,8250.0,175435.0
+1576,Law Practice,OK,1,,160,8250.0,175435.0
+1577,Law Practice,NJ,1,,160,8250.0,175435.0
+1578,Law Practice,MI,1,,160,8250.0,175435.0
+1579,Law Practice,ME,1,,160,8250.0,175435.0
+1580,Law Practice,LA,1,8750.0,160,8250.0,175435.0
+1581,Law Practice,KY,1,12916.0,160,8250.0,175435.0
+1582,Law Practice,KS,1,,160,8250.0,175435.0
+1583,Law Practice,GA,1,,160,8250.0,175435.0
+1584,Law Practice,DE,1,,160,8250.0,175435.0
+1585,Defense and Space Manufacturing,CA,25,9833.0,150,7500.0,154114.0
+1586,Defense and Space Manufacturing,VA,16,,150,7500.0,154114.0
+1587,Defense and Space Manufacturing,,13,11040.0,150,7500.0,154114.0
+1588,Defense and Space Manufacturing,MD,10,,150,7500.0,154114.0
+1589,Defense and Space Manufacturing,AZ,10,6255.0,150,7500.0,154114.0
+1590,Defense and Space Manufacturing,CO,7,8666.0,150,7500.0,154114.0
+1591,Defense and Space Manufacturing,NJ,6,,150,7500.0,154114.0
+1592,Defense and Space Manufacturing,NC,5,3750.0,150,7500.0,154114.0
+1593,Defense and Space Manufacturing,MA,5,15639.0,150,7500.0,154114.0
+1594,Defense and Space Manufacturing,FL,5,10920.0,150,7500.0,154114.0
+1595,Defense and Space Manufacturing,TX,4,2560.0,150,7500.0,154114.0
+1596,Defense and Space Manufacturing,NM,4,7500.0,150,7500.0,154114.0
+1597,Defense and Space Manufacturing,HI,4,,150,7500.0,154114.0
+1598,Defense and Space Manufacturing,GA,4,3360.0,150,7500.0,154114.0
+1599,Defense and Space Manufacturing,WA,3,12083.0,150,7500.0,154114.0
+1600,Defense and Space Manufacturing,UT,3,5000.0,150,7500.0,154114.0
+1601,Defense and Space Manufacturing,OK,3,3.0,150,7500.0,154114.0
+1602,Defense and Space Manufacturing,OH,3,,150,7500.0,154114.0
+1603,Defense and Space Manufacturing,AL,3,,150,7500.0,154114.0
+1604,Defense and Space Manufacturing,NY,2,,150,7500.0,154114.0
+1605,Defense and Space Manufacturing,MO,2,8160.0,150,7500.0,154114.0
+1606,Defense and Space Manufacturing,IN,2,2560.0,150,7500.0,154114.0
+1607,Defense and Space Manufacturing,DC,2,,150,7500.0,154114.0
+1608,Defense and Space Manufacturing,CT,2,4320.0,150,7500.0,154114.0
+1609,Defense and Space Manufacturing,WI,1,,150,7500.0,154114.0
+1610,Defense and Space Manufacturing,SC,1,9375.0,150,7500.0,154114.0
+1611,Defense and Space Manufacturing,PA,1,,150,7500.0,154114.0
+1612,Defense and Space Manufacturing,MS,1,5710.0,150,7500.0,154114.0
+1613,Defense and Space Manufacturing,MN,1,8480.0,150,7500.0,154114.0
+1614,Defense and Space Manufacturing,LA,1,6400.0,150,7500.0,154114.0
+1615,Defense and Space Manufacturing,AR,1,12500.0,150,7500.0,154114.0
+1616,Wholesale Building Materials,CA,16,4960.0,148,3840.0,101308.0
+1617,Wholesale Building Materials,TX,13,3680.0,148,3840.0,101308.0
+1618,Wholesale Building Materials,,12,7708.0,148,3840.0,101308.0
+1619,Wholesale Building Materials,FL,9,3750.0,148,3840.0,101308.0
+1620,Wholesale Building Materials,WA,8,4160.0,148,3840.0,101308.0
+1621,Wholesale Building Materials,PA,8,3840.0,148,3840.0,101308.0
+1622,Wholesale Building Materials,OR,8,3200.0,148,3840.0,101308.0
+1623,Wholesale Building Materials,NC,8,3840.0,148,3840.0,101308.0
+1624,Wholesale Building Materials,OH,7,5833.0,148,3840.0,101308.0
+1625,Wholesale Building Materials,MN,6,5250.0,148,3840.0,101308.0
+1626,Wholesale Building Materials,MO,5,3680.0,148,3840.0,101308.0
+1627,Wholesale Building Materials,IL,4,4791.0,148,3840.0,101308.0
+1628,Wholesale Building Materials,MD,3,7416.0,148,3840.0,101308.0
+1629,Wholesale Building Materials,ID,3,,148,3840.0,101308.0
+1630,Wholesale Building Materials,GA,3,,148,3840.0,101308.0
+1631,Wholesale Building Materials,AZ,3,4640.0,148,3840.0,101308.0
+1632,Wholesale Building Materials,AL,3,2560.0,148,3840.0,101308.0
+1633,Wholesale Building Materials,WI,2,,148,3840.0,101308.0
+1634,Wholesale Building Materials,VA,2,,148,3840.0,101308.0
+1635,Wholesale Building Materials,UT,2,3520.0,148,3840.0,101308.0
+1636,Wholesale Building Materials,ND,2,4160.0,148,3840.0,101308.0
+1637,Wholesale Building Materials,MT,2,2880.0,148,3840.0,101308.0
+1638,Wholesale Building Materials,MA,2,3791.0,148,3840.0,101308.0
+1639,Wholesale Building Materials,KY,2,,148,3840.0,101308.0
+1640,Wholesale Building Materials,IA,2,6666.0,148,3840.0,101308.0
+1641,Wholesale Building Materials,CO,2,,148,3840.0,101308.0
+1642,Wholesale Building Materials,AR,2,,148,3840.0,101308.0
+1643,Wholesale Building Materials,WY,1,3360.0,148,3840.0,101308.0
+1644,Wholesale Building Materials,TN,1,,148,3840.0,101308.0
+1645,Wholesale Building Materials,NY,1,,148,3840.0,101308.0
+1646,Wholesale Building Materials,NV,1,,148,3840.0,101308.0
+1647,Wholesale Building Materials,NH,1,,148,3840.0,101308.0
+1648,Wholesale Building Materials,NE,1,3040.0,148,3840.0,101308.0
+1649,Wholesale Building Materials,MI,1,,148,3840.0,101308.0
+1650,Wholesale Building Materials,KS,1,,148,3840.0,101308.0
+1651,Wholesale Building Materials,DC,1,4583.0,148,3840.0,101308.0
+1652,Education Administration Programs,TX,13,6466.0,137,4791.0,204368.0
+1653,Education Administration Programs,,12,5562.0,137,4791.0,204368.0
+1654,Education Administration Programs,CA,11,4791.0,137,4791.0,204368.0
+1655,Education Administration Programs,VA,9,3958.0,137,4791.0,204368.0
+1656,Education Administration Programs,NY,9,7088.0,137,4791.0,204368.0
+1657,Education Administration Programs,WA,7,4791.0,137,4791.0,204368.0
+1658,Education Administration Programs,WY,4,4791.0,137,4791.0,204368.0
+1659,Education Administration Programs,PA,4,6227.0,137,4791.0,204368.0
+1660,Education Administration Programs,OR,4,4791.0,137,4791.0,204368.0
+1661,Education Administration Programs,OH,4,4583.0,137,4791.0,204368.0
+1662,Education Administration Programs,IL,4,5000.0,137,4791.0,204368.0
+1663,Education Administration Programs,SC,3,4791.0,137,4791.0,204368.0
+1664,Education Administration Programs,NV,3,4791.0,137,4791.0,204368.0
+1665,Education Administration Programs,NJ,3,2720.0,137,4791.0,204368.0
+1666,Education Administration Programs,NC,3,8000.0,137,4791.0,204368.0
+1667,Education Administration Programs,MO,3,4791.0,137,4791.0,204368.0
+1668,Education Administration Programs,MI,3,4791.0,137,4791.0,204368.0
+1669,Education Administration Programs,WI,2,,137,4791.0,204368.0
+1670,Education Administration Programs,MD,2,4583.0,137,4791.0,204368.0
+1671,Education Administration Programs,MA,2,,137,4791.0,204368.0
+1672,Education Administration Programs,KY,2,4791.0,137,4791.0,204368.0
+1673,Education Administration Programs,IN,2,4583.0,137,4791.0,204368.0
+1674,Education Administration Programs,IA,2,2400.0,137,4791.0,204368.0
+1675,Education Administration Programs,GA,2,,137,4791.0,204368.0
+1676,Education Administration Programs,FL,2,5608.0,137,4791.0,204368.0
+1677,Education Administration Programs,DC,2,2400.0,137,4791.0,204368.0
+1678,Education Administration Programs,AZ,2,4791.0,137,4791.0,204368.0
+1679,Education Administration Programs,WV,1,4791.0,137,4791.0,204368.0
+1680,Education Administration Programs,VT,1,5833.0,137,4791.0,204368.0
+1681,Education Administration Programs,UT,1,4791.0,137,4791.0,204368.0
+1682,Education Administration Programs,TN,1,4791.0,137,4791.0,204368.0
+1683,Education Administration Programs,SD,1,4791.0,137,4791.0,204368.0
+1684,Education Administration Programs,RI,1,4791.0,137,4791.0,204368.0
+1685,Education Administration Programs,OK,1,4791.0,137,4791.0,204368.0
+1686,Education Administration Programs,NM,1,4791.0,137,4791.0,204368.0
+1687,Education Administration Programs,ND,1,4791.0,137,4791.0,204368.0
+1688,Education Administration Programs,MS,1,4791.0,137,4791.0,204368.0
+1689,Education Administration Programs,ME,1,4791.0,137,4791.0,204368.0
+1690,Education Administration Programs,ID,1,4791.0,137,4791.0,204368.0
+1691,Education Administration Programs,DE,1,4791.0,137,4791.0,204368.0
+1692,Education Administration Programs,CT,1,4791.0,137,4791.0,204368.0
+1693,Education Administration Programs,CO,1,4791.0,137,4791.0,204368.0
+1694,Education Administration Programs,AR,1,4791.0,137,4791.0,204368.0
+1695,Education Administration Programs,AL,1,4791.0,137,4791.0,204368.0
+1696,Education Administration Programs,AK,1,4791.0,137,4791.0,204368.0
+1697,Consumer Services,MO,18,2720.0,130,3958.0,99061.0
+1698,Consumer Services,,16,9375.0,130,3958.0,99061.0
+1699,Consumer Services,TX,13,3958.0,130,3958.0,99061.0
+1700,Consumer Services,CA,13,5885.0,130,3958.0,99061.0
+1701,Consumer Services,IL,9,,130,3958.0,99061.0
+1702,Consumer Services,KS,8,2720.0,130,3958.0,99061.0
+1703,Consumer Services,FL,8,5920.0,130,3958.0,99061.0
+1704,Consumer Services,WA,3,5208.0,130,3958.0,99061.0
+1705,Consumer Services,TN,3,5541.0,130,3958.0,99061.0
+1706,Consumer Services,PA,3,3333.0,130,3958.0,99061.0
+1707,Consumer Services,OH,3,5280.0,130,3958.0,99061.0
+1708,Consumer Services,NY,3,3200.0,130,3958.0,99061.0
+1709,Consumer Services,NJ,3,17083.0,130,3958.0,99061.0
+1710,Consumer Services,NC,3,8125.0,130,3958.0,99061.0
+1711,Consumer Services,MI,3,3200.0,130,3958.0,99061.0
+1712,Consumer Services,GA,3,3040.0,130,3958.0,99061.0
+1713,Consumer Services,AZ,3,5833.0,130,3958.0,99061.0
+1714,Consumer Services,VA,2,,130,3958.0,99061.0
+1715,Consumer Services,MN,2,,130,3958.0,99061.0
+1716,Consumer Services,KY,2,,130,3958.0,99061.0
+1717,Consumer Services,WI,1,,130,3958.0,99061.0
+1718,Consumer Services,UT,1,,130,3958.0,99061.0
+1719,Consumer Services,SD,1,,130,3958.0,99061.0
+1720,Consumer Services,SC,1,,130,3958.0,99061.0
+1721,Consumer Services,OK,1,2400.0,130,3958.0,99061.0
+1722,Consumer Services,NV,1,2400.0,130,3958.0,99061.0
+1723,Consumer Services,LA,1,3840.0,130,3958.0,99061.0
+1724,Consumer Services,IA,1,,130,3958.0,99061.0
+1725,Consumer Services,AL,1,,130,3958.0,99061.0
+1726,Entertainment Providers,CA,36,8125.0,123,7520.0,110201.0
+1727,Entertainment Providers,,13,12500.0,123,7520.0,110201.0
+1728,Entertainment Providers,NY,10,8125.0,123,7520.0,110201.0
+1729,Entertainment Providers,WA,7,7520.0,123,7520.0,110201.0
+1730,Entertainment Providers,NC,7,8000.0,123,7520.0,110201.0
+1731,Entertainment Providers,TN,6,,123,7520.0,110201.0
+1732,Entertainment Providers,TX,5,10208.0,123,7520.0,110201.0
+1733,Entertainment Providers,MN,4,,123,7520.0,110201.0
+1734,Entertainment Providers,FL,4,5920.0,123,7520.0,110201.0
+1735,Entertainment Providers,CT,4,11200.0,123,7520.0,110201.0
+1736,Entertainment Providers,CO,4,4375.0,123,7520.0,110201.0
+1737,Entertainment Providers,VA,3,2880.0,123,7520.0,110201.0
+1738,Entertainment Providers,PA,3,,123,7520.0,110201.0
+1739,Entertainment Providers,DC,3,,123,7520.0,110201.0
+1740,Entertainment Providers,AZ,3,3680.0,123,7520.0,110201.0
+1741,Entertainment Providers,NV,2,,123,7520.0,110201.0
+1742,Entertainment Providers,NJ,2,3360.0,123,7520.0,110201.0
+1743,Entertainment Providers,OR,1,,123,7520.0,110201.0
+1744,Entertainment Providers,MS,1,,123,7520.0,110201.0
+1745,Entertainment Providers,MO,1,,123,7520.0,110201.0
+1746,Entertainment Providers,MI,1,2880.0,123,7520.0,110201.0
+1747,Entertainment Providers,LA,1,,123,7520.0,110201.0
+1748,Entertainment Providers,KS,1,2720.0,123,7520.0,110201.0
+1749,Entertainment Providers,GA,1,18708.0,123,7520.0,110201.0
+1750,Computer Hardware Manufacturing,CA,12,12895.0,120,2080.0,230708.0
+1751,Computer Hardware Manufacturing,,12,16666.0,120,2080.0,230708.0
+1752,Computer Hardware Manufacturing,TX,11,16691.0,120,2080.0,230708.0
+1753,Computer Hardware Manufacturing,ID,10,2080.0,120,2080.0,230708.0
+1754,Computer Hardware Manufacturing,GA,8,11083.0,120,2080.0,230708.0
+1755,Computer Hardware Manufacturing,IL,5,7083.0,120,2080.0,230708.0
+1756,Computer Hardware Manufacturing,FL,4,2080.0,120,2080.0,230708.0
+1757,Computer Hardware Manufacturing,WA,3,5208.0,120,2080.0,230708.0
+1758,Computer Hardware Manufacturing,VA,3,9666.0,120,2080.0,230708.0
+1759,Computer Hardware Manufacturing,OH,3,2080.0,120,2080.0,230708.0
+1760,Computer Hardware Manufacturing,NY,3,13050.0,120,2080.0,230708.0
+1761,Computer Hardware Manufacturing,NC,3,10666.0,120,2080.0,230708.0
+1762,Computer Hardware Manufacturing,MN,3,2080.0,120,2080.0,230708.0
+1763,Computer Hardware Manufacturing,IA,3,2080.0,120,2080.0,230708.0
+1764,Computer Hardware Manufacturing,WI,2,16691.0,120,2080.0,230708.0
+1765,Computer Hardware Manufacturing,SC,2,2080.0,120,2080.0,230708.0
+1766,Computer Hardware Manufacturing,PA,2,2080.0,120,2080.0,230708.0
+1767,Computer Hardware Manufacturing,NH,2,2080.0,120,2080.0,230708.0
+1768,Computer Hardware Manufacturing,MI,2,2080.0,120,2080.0,230708.0
+1769,Computer Hardware Manufacturing,MD,2,9291.0,120,2080.0,230708.0
+1770,Computer Hardware Manufacturing,IN,2,2080.0,120,2080.0,230708.0
+1771,Computer Hardware Manufacturing,CT,2,25308.0,120,2080.0,230708.0
+1772,Computer Hardware Manufacturing,AZ,2,2080.0,120,2080.0,230708.0
+1773,Computer Hardware Manufacturing,WY,1,2080.0,120,2080.0,230708.0
+1774,Computer Hardware Manufacturing,VT,1,2080.0,120,2080.0,230708.0
+1775,Computer Hardware Manufacturing,UT,1,2080.0,120,2080.0,230708.0
+1776,Computer Hardware Manufacturing,TN,1,2080.0,120,2080.0,230708.0
+1777,Computer Hardware Manufacturing,SD,1,2080.0,120,2080.0,230708.0
+1778,Computer Hardware Manufacturing,RI,1,2080.0,120,2080.0,230708.0
+1779,Computer Hardware Manufacturing,OR,1,,120,2080.0,230708.0
+1780,Computer Hardware Manufacturing,OK,1,2080.0,120,2080.0,230708.0
+1781,Computer Hardware Manufacturing,NV,1,2080.0,120,2080.0,230708.0
+1782,Computer Hardware Manufacturing,NM,1,2080.0,120,2080.0,230708.0
+1783,Computer Hardware Manufacturing,NE,1,2080.0,120,2080.0,230708.0
+1784,Computer Hardware Manufacturing,ND,1,2080.0,120,2080.0,230708.0
+1785,Computer Hardware Manufacturing,MT,1,2080.0,120,2080.0,230708.0
+1786,Computer Hardware Manufacturing,KS,1,2080.0,120,2080.0,230708.0
+1787,Computer Hardware Manufacturing,HI,1,2080.0,120,2080.0,230708.0
+1788,Computer Hardware Manufacturing,DE,1,2080.0,120,2080.0,230708.0
+1789,Computer Hardware Manufacturing,CO,1,18170.0,120,2080.0,230708.0
+1790,Computer Hardware Manufacturing,AR,1,2080.0,120,2080.0,230708.0
+1791,Computer Hardware Manufacturing,AK,1,2080.0,120,2080.0,230708.0
+1792,Research Services,CA,20,7075.0,118,6241.0,84283.0
+1793,Research Services,WA,17,6241.0,118,6241.0,84283.0
+1794,Research Services,,15,7381.0,118,6241.0,84283.0
+1795,Research Services,TX,13,5000.0,118,6241.0,84283.0
+1796,Research Services,ID,6,8532.0,118,6241.0,84283.0
+1797,Research Services,MO,5,3520.0,118,6241.0,84283.0
+1798,Research Services,IL,5,6880.0,118,6241.0,84283.0
+1799,Research Services,MA,4,10400.0,118,6241.0,84283.0
+1800,Research Services,NY,3,7291.0,118,6241.0,84283.0
+1801,Research Services,NM,3,,118,6241.0,84283.0
+1802,Research Services,NC,3,,118,6241.0,84283.0
+1803,Research Services,AZ,3,,118,6241.0,84283.0
+1804,Research Services,SC,2,,118,6241.0,84283.0
+1805,Research Services,PA,2,35.0,118,6241.0,84283.0
+1806,Research Services,OH,2,,118,6241.0,84283.0
+1807,Research Services,MD,2,3680.0,118,6241.0,84283.0
+1808,Research Services,HI,2,,118,6241.0,84283.0
+1809,Research Services,GA,2,,118,6241.0,84283.0
+1810,Research Services,WY,1,,118,6241.0,84283.0
+1811,Research Services,WI,1,,118,6241.0,84283.0
+1812,Research Services,VA,1,5416.0,118,6241.0,84283.0
+1813,Research Services,NE,1,,118,6241.0,84283.0
+1814,Research Services,MN,1,4166.0,118,6241.0,84283.0
+1815,Research Services,FL,1,,118,6241.0,84283.0
+1816,Research Services,CT,1,,118,6241.0,84283.0
+1817,Research Services,CO,1,8666.0,118,6241.0,84283.0
+1818,Research Services,AL,1,,118,6241.0,84283.0
+1819,Chemical Manufacturing,TX,28,5833.0,116,4791.0,74429.0
+1820,Chemical Manufacturing,CA,11,4583.0,116,4791.0,74429.0
+1821,Chemical Manufacturing,,11,6362.0,116,4791.0,74429.0
+1822,Chemical Manufacturing,OH,9,6250.0,116,4791.0,74429.0
+1823,Chemical Manufacturing,PA,8,2880.0,116,4791.0,74429.0
+1824,Chemical Manufacturing,GA,6,4320.0,116,4791.0,74429.0
+1825,Chemical Manufacturing,NC,5,4791.0,116,4791.0,74429.0
+1826,Chemical Manufacturing,IL,5,4791.0,116,4791.0,74429.0
+1827,Chemical Manufacturing,VA,3,6750.0,116,4791.0,74429.0
+1828,Chemical Manufacturing,OR,3,6240.0,116,4791.0,74429.0
+1829,Chemical Manufacturing,LA,3,,116,4791.0,74429.0
+1830,Chemical Manufacturing,WI,2,,116,4791.0,74429.0
+1831,Chemical Manufacturing,WA,2,4791.0,116,4791.0,74429.0
+1832,Chemical Manufacturing,TN,2,,116,4791.0,74429.0
+1833,Chemical Manufacturing,MO,2,,116,4791.0,74429.0
+1834,Chemical Manufacturing,MA,2,,116,4791.0,74429.0
+1835,Chemical Manufacturing,FL,2,,116,4791.0,74429.0
+1836,Chemical Manufacturing,AZ,2,4791.0,116,4791.0,74429.0
+1837,Chemical Manufacturing,OK,1,,116,4791.0,74429.0
+1838,Chemical Manufacturing,NY,1,,116,4791.0,74429.0
+1839,Chemical Manufacturing,NJ,1,,116,4791.0,74429.0
+1840,Chemical Manufacturing,MI,1,,116,4791.0,74429.0
+1841,Chemical Manufacturing,KS,1,,116,4791.0,74429.0
+1842,Chemical Manufacturing,IA,1,9487.0,116,4791.0,74429.0
+1843,Chemical Manufacturing,HI,1,,116,4791.0,74429.0
+1844,Chemical Manufacturing,DE,1,,116,4791.0,74429.0
+1845,Chemical Manufacturing,AR,1,,116,4791.0,74429.0
+1846,Chemical Manufacturing,AL,1,2560.0,116,4791.0,74429.0
+1847,Human Resources Services,,15,8333.0,112,5625.0,118264.0
+1848,Human Resources Services,NY,11,5208.0,112,5625.0,118264.0
+1849,Human Resources Services,FL,11,3040.0,112,5625.0,118264.0
+1850,Human Resources Services,TX,10,7520.0,112,5625.0,118264.0
+1851,Human Resources Services,CA,10,7040.0,112,5625.0,118264.0
+1852,Human Resources Services,VA,8,6080.0,112,5625.0,118264.0
+1853,Human Resources Services,GA,7,8845.0,112,5625.0,118264.0
+1854,Human Resources Services,NC,5,3040.0,112,5625.0,118264.0
+1855,Human Resources Services,TN,4,4583.0,112,5625.0,118264.0
+1856,Human Resources Services,NJ,4,5500.0,112,5625.0,118264.0
+1857,Human Resources Services,PA,3,6227.0,112,5625.0,118264.0
+1858,Human Resources Services,MA,3,7520.0,112,5625.0,118264.0
+1859,Human Resources Services,IN,3,3040.0,112,5625.0,118264.0
+1860,Human Resources Services,IL,3,5625.0,112,5625.0,118264.0
+1861,Human Resources Services,AZ,3,,112,5625.0,118264.0
+1862,Human Resources Services,OH,2,,112,5625.0,118264.0
+1863,Human Resources Services,WV,1,2880.0,112,5625.0,118264.0
+1864,Human Resources Services,WA,1,,112,5625.0,118264.0
+1865,Human Resources Services,SC,1,3040.0,112,5625.0,118264.0
+1866,Human Resources Services,OR,1,3840.0,112,5625.0,118264.0
+1867,Human Resources Services,ND,1,7375.0,112,5625.0,118264.0
+1868,Human Resources Services,MN,1,6250.0,112,5625.0,118264.0
+1869,Human Resources Services,MD,1,,112,5625.0,118264.0
+1870,Human Resources Services,KY,1,4320.0,112,5625.0,118264.0
+1871,Human Resources Services,KS,1,8958.0,112,5625.0,118264.0
+1872,Human Resources Services,DE,1,,112,5625.0,118264.0
+1873,Mental Health Care,CA,18,5685.0,111,4583.0,95967.0
+1874,Mental Health Care,,13,8437.0,111,4583.0,95967.0
+1875,Mental Health Care,TX,10,2880.0,111,4583.0,95967.0
+1876,Mental Health Care,MA,10,7000.0,111,4583.0,95967.0
+1877,Mental Health Care,CO,7,3520.0,111,4583.0,95967.0
+1878,Mental Health Care,WA,6,4583.0,111,4583.0,95967.0
+1879,Mental Health Care,NY,6,3200.0,111,4583.0,95967.0
+1880,Mental Health Care,UT,5,4583.0,111,4583.0,95967.0
+1881,Mental Health Care,TN,4,2080.0,111,4583.0,95967.0
+1882,Mental Health Care,OR,4,6041.0,111,4583.0,95967.0
+1883,Mental Health Care,MD,4,4160.0,111,4583.0,95967.0
+1884,Mental Health Care,OH,3,11200.0,111,4583.0,95967.0
+1885,Mental Health Care,GA,3,3520.0,111,4583.0,95967.0
+1886,Mental Health Care,VA,2,6458.0,111,4583.0,95967.0
+1887,Mental Health Care,MN,2,,111,4583.0,95967.0
+1888,Mental Health Care,IL,2,,111,4583.0,95967.0
+1889,Mental Health Care,WV,1,1583.0,111,4583.0,95967.0
+1890,Mental Health Care,WI,1,,111,4583.0,95967.0
+1891,Mental Health Care,SC,1,,111,4583.0,95967.0
+1892,Mental Health Care,RI,1,6309.0,111,4583.0,95967.0
+1893,Mental Health Care,PA,1,,111,4583.0,95967.0
+1894,Mental Health Care,NV,1,3208.0,111,4583.0,95967.0
+1895,Mental Health Care,NM,1,,111,4583.0,95967.0
+1896,Mental Health Care,NJ,1,,111,4583.0,95967.0
+1897,Mental Health Care,MI,1,4000.0,111,4583.0,95967.0
+1898,Mental Health Care,IN,1,,111,4583.0,95967.0
+1899,Mental Health Care,FL,1,,111,4583.0,95967.0
+1900,Mental Health Care,AZ,1,7520.0,111,4583.0,95967.0
+1901,Aviation and Aerospace Component Manufacturing,CA,18,8000.0,103,6255.0,94370.0
+1902,Aviation and Aerospace Component Manufacturing,TX,16,2400.0,103,6255.0,94370.0
+1903,Machinery Manufacturing,,14,8125.0,103,5833.0,95581.0
+1904,Machinery Manufacturing,TX,12,7500.0,103,5833.0,95581.0
+1905,Aviation and Aerospace Component Manufacturing,,10,11040.0,103,6255.0,94370.0
+1906,Machinery Manufacturing,CA,8,8750.0,103,5833.0,95581.0
+1907,Machinery Manufacturing,MN,7,15625.0,103,5833.0,95581.0
+1908,Machinery Manufacturing,IN,6,4160.0,103,5833.0,95581.0
+1909,Machinery Manufacturing,IL,6,7500.0,103,5833.0,95581.0
+1910,Aviation and Aerospace Component Manufacturing,VA,5,,103,6255.0,94370.0
+1911,Aviation and Aerospace Component Manufacturing,AZ,5,6255.0,103,6255.0,94370.0
+1912,Machinery Manufacturing,PA,5,7083.0,103,5833.0,95581.0
+1913,Machinery Manufacturing,OH,5,,103,5833.0,95581.0
+1914,Machinery Manufacturing,IA,5,5440.0,103,5833.0,95581.0
+1915,Aviation and Aerospace Component Manufacturing,NJ,4,,103,6255.0,94370.0
+1916,Aviation and Aerospace Component Manufacturing,MD,4,,103,6255.0,94370.0
+1917,Aviation and Aerospace Component Manufacturing,FL,4,4583.0,103,6255.0,94370.0
+1918,Aviation and Aerospace Component Manufacturing,CO,4,7273.0,103,6255.0,94370.0
+1919,Aviation and Aerospace Component Manufacturing,WA,3,2.0,103,6255.0,94370.0
+1920,Aviation and Aerospace Component Manufacturing,KS,3,,103,6255.0,94370.0
+1921,Aviation and Aerospace Component Manufacturing,CT,3,4320.0,103,6255.0,94370.0
+1922,Machinery Manufacturing,WA,3,4800.0,103,5833.0,95581.0
+1923,Machinery Manufacturing,VA,3,5833.0,103,5833.0,95581.0
+1924,Machinery Manufacturing,OK,3,,103,5833.0,95581.0
+1925,Machinery Manufacturing,AL,3,,103,5833.0,95581.0
+1926,Aviation and Aerospace Component Manufacturing,PA,2,7708.0,103,6255.0,94370.0
+1927,Aviation and Aerospace Component Manufacturing,OR,2,,103,6255.0,94370.0
+1928,Aviation and Aerospace Component Manufacturing,OK,2,3.0,103,6255.0,94370.0
+1929,Aviation and Aerospace Component Manufacturing,OH,2,,103,6255.0,94370.0
+1930,Aviation and Aerospace Component Manufacturing,NY,2,8500.0,103,6255.0,94370.0
+1931,Aviation and Aerospace Component Manufacturing,IN,2,,103,6255.0,94370.0
+1932,Aviation and Aerospace Component Manufacturing,HI,2,,103,6255.0,94370.0
+1933,Machinery Manufacturing,WI,2,,103,5833.0,95581.0
+1934,Machinery Manufacturing,SC,2,,103,5833.0,95581.0
+1935,Machinery Manufacturing,NJ,2,,103,5833.0,95581.0
+1936,Machinery Manufacturing,MI,2,4000.0,103,5833.0,95581.0
+1937,Machinery Manufacturing,MD,2,,103,5833.0,95581.0
+1938,Machinery Manufacturing,LA,2,,103,5833.0,95581.0
+1939,Machinery Manufacturing,DE,2,4800.0,103,5833.0,95581.0
+1940,Aviation and Aerospace Component Manufacturing,TN,1,,103,6255.0,94370.0
+1941,Aviation and Aerospace Component Manufacturing,SC,1,,103,6255.0,94370.0
+1942,Aviation and Aerospace Component Manufacturing,NC,1,3750.0,103,6255.0,94370.0
+1943,Aviation and Aerospace Component Manufacturing,MS,1,5710.0,103,6255.0,94370.0
+1944,Aviation and Aerospace Component Manufacturing,MO,1,8160.0,103,6255.0,94370.0
+1945,Aviation and Aerospace Component Manufacturing,MN,1,,103,6255.0,94370.0
+1946,Aviation and Aerospace Component Manufacturing,MI,1,16666.0,103,6255.0,94370.0
+1947,Aviation and Aerospace Component Manufacturing,LA,1,,103,6255.0,94370.0
+1948,Aviation and Aerospace Component Manufacturing,IL,1,,103,6255.0,94370.0
+1949,Aviation and Aerospace Component Manufacturing,GA,1,,103,6255.0,94370.0
+1950,Machinery Manufacturing,NY,1,3840.0,103,5833.0,95581.0
+1951,Machinery Manufacturing,NV,1,,103,5833.0,95581.0
+1952,Machinery Manufacturing,NH,1,,103,5833.0,95581.0
+1953,Machinery Manufacturing,NC,1,,103,5833.0,95581.0
+1954,Machinery Manufacturing,MS,1,,103,5833.0,95581.0
+1955,Machinery Manufacturing,KY,1,,103,5833.0,95581.0
+1956,Machinery Manufacturing,ID,1,,103,5833.0,95581.0
+1957,Machinery Manufacturing,GA,1,,103,5833.0,95581.0
+1958,Machinery Manufacturing,CT,1,8125.0,103,5833.0,95581.0
+1959,Semiconductor Manufacturing,CA,33,11287.0,93,11083.0,88742.0
+1960,Semiconductor Manufacturing,TX,9,11083.0,93,11083.0,88742.0
+1961,Semiconductor Manufacturing,ID,9,,93,11083.0,88742.0
+1962,Semiconductor Manufacturing,,8,17916.0,93,11083.0,88742.0
+1963,Semiconductor Manufacturing,MA,6,9104.0,93,11083.0,88742.0
+1964,Semiconductor Manufacturing,CO,5,3040.0,93,11083.0,88742.0
+1965,Semiconductor Manufacturing,AZ,5,3680.0,93,11083.0,88742.0
+1966,Semiconductor Manufacturing,OR,4,6966.0,93,11083.0,88742.0
+1967,Semiconductor Manufacturing,CT,4,,93,11083.0,88742.0
+1968,Semiconductor Manufacturing,WI,3,,93,11083.0,88742.0
+1969,Semiconductor Manufacturing,WA,2,14583.0,93,11083.0,88742.0
+1970,Semiconductor Manufacturing,GA,2,,93,11083.0,88742.0
+1971,Semiconductor Manufacturing,NC,1,,93,11083.0,88742.0
+1972,Semiconductor Manufacturing,MN,1,11083.0,93,11083.0,88742.0
+1973,Semiconductor Manufacturing,MI,1,,93,11083.0,88742.0
+1974,Medical Practices,NJ,10,,91,5120.0,53180.0
+1975,Medical Practices,NC,10,2560.0,91,5120.0,53180.0
+1976,Medical Practices,FL,7,23750.0,91,5120.0,53180.0
+1977,Medical Practices,CA,7,5120.0,91,5120.0,53180.0
+1978,Medical Practices,MO,6,,91,5120.0,53180.0
+1979,Medical Practices,GA,6,5000.0,91,5120.0,53180.0
+1980,Medical Practices,NY,5,3000.0,91,5120.0,53180.0
+1981,Medical Practices,TX,4,,91,5120.0,53180.0
+1982,Medical Practices,OH,4,6250.0,91,5120.0,53180.0
+1983,Medical Practices,PA,3,,91,5120.0,53180.0
+1984,Medical Practices,AZ,3,,91,5120.0,53180.0
+1985,Medical Practices,,3,,91,5120.0,53180.0
+1986,Medical Practices,WA,2,,91,5120.0,53180.0
+1987,Medical Practices,VA,2,7500.0,91,5120.0,53180.0
+1988,Medical Practices,NV,2,,91,5120.0,53180.0
+1989,Medical Practices,IN,2,,91,5120.0,53180.0
+1990,Medical Practices,CT,2,,91,5120.0,53180.0
+1991,Medical Practices,AL,2,,91,5120.0,53180.0
+1992,Medical Practices,UT,1,,91,5120.0,53180.0
+1993,Medical Practices,TN,1,,91,5120.0,53180.0
+1994,Medical Practices,SC,1,,91,5120.0,53180.0
+1995,Medical Practices,OR,1,,91,5120.0,53180.0
+1996,Medical Practices,MD,1,,91,5120.0,53180.0
+1997,Medical Practices,LA,1,,91,5120.0,53180.0
+1998,Medical Practices,KS,1,,91,5120.0,53180.0
+1999,Medical Practices,IL,1,,91,5120.0,53180.0
+2000,Medical Practices,ID,1,,91,5120.0,53180.0
+2001,Medical Practices,IA,1,,91,5120.0,53180.0
+2002,Medical Practices,DC,1,,91,5120.0,53180.0
+2003,Individual and Family Services,MN,32,2880.0,86,3833.0,56324.0
+2004,Individual and Family Services,CA,8,6080.0,86,3833.0,56324.0
+2005,Individual and Family Services,NY,7,3833.0,86,3833.0,56324.0
+2006,Individual and Family Services,PA,5,,86,3833.0,56324.0
+2007,Individual and Family Services,MI,5,,86,3833.0,56324.0
+2008,Individual and Family Services,MA,4,4166.0,86,3833.0,56324.0
+2009,Individual and Family Services,,3,9.0,86,3833.0,56324.0
+2010,Individual and Family Services,WV,2,1600.0,86,3833.0,56324.0
+2011,Individual and Family Services,OR,2,6080.0,86,3833.0,56324.0
+2012,Individual and Family Services,NE,2,,86,3833.0,56324.0
+2013,Individual and Family Services,MD,2,,86,3833.0,56324.0
+2014,Individual and Family Services,IL,2,5000.0,86,3833.0,56324.0
+2015,Individual and Family Services,IA,2,2400.0,86,3833.0,56324.0
+2016,Individual and Family Services,WA,1,5000.0,86,3833.0,56324.0
+2017,Individual and Family Services,VA,1,6458.0,86,3833.0,56324.0
+2018,Individual and Family Services,RI,1,3360.0,86,3833.0,56324.0
+2019,Individual and Family Services,NV,1,3208.0,86,3833.0,56324.0
+2020,Individual and Family Services,NC,1,6250.0,86,3833.0,56324.0
+2021,Individual and Family Services,IN,1,,86,3833.0,56324.0
+2022,Individual and Family Services,GA,1,,86,3833.0,56324.0
+2023,Individual and Family Services,FL,1,,86,3833.0,56324.0
+2024,Individual and Family Services,CO,1,,86,3833.0,56324.0
+2025,Individual and Family Services,AR,1,,86,3833.0,56324.0
+2026,Architecture and Planning,CA,12,5833.0,83,8333.0,90513.0
+2027,Architecture and Planning,,12,6458.0,83,8333.0,90513.0
+2028,Architecture and Planning,PA,9,,83,8333.0,90513.0
+2029,Architecture and Planning,TX,8,8333.0,83,8333.0,90513.0
+2030,Architecture and Planning,NY,6,11041.0,83,8333.0,90513.0
+2031,Architecture and Planning,FL,5,9600.0,83,8333.0,90513.0
+2032,Architecture and Planning,WI,3,7500.0,83,8333.0,90513.0
+2033,Architecture and Planning,NJ,3,5500.0,83,8333.0,90513.0
+2034,Architecture and Planning,NC,3,6666.0,83,8333.0,90513.0
+2035,Architecture and Planning,CO,3,8333.0,83,8333.0,90513.0
+2036,Architecture and Planning,WA,2,10416.0,83,8333.0,90513.0
+2037,Architecture and Planning,MN,2,,83,8333.0,90513.0
+2038,Architecture and Planning,MD,2,,83,8333.0,90513.0
+2039,Architecture and Planning,MA,2,,83,8333.0,90513.0
+2040,Architecture and Planning,GA,2,,83,8333.0,90513.0
+2041,Architecture and Planning,NM,1,,83,8333.0,90513.0
+2042,Architecture and Planning,MT,1,,83,8333.0,90513.0
+2043,Architecture and Planning,MO,1,10833.0,83,8333.0,90513.0
+2044,Architecture and Planning,MI,1,,83,8333.0,90513.0
+2045,Architecture and Planning,KY,1,,83,8333.0,90513.0
+2046,Architecture and Planning,KS,1,,83,8333.0,90513.0
+2047,Architecture and Planning,IL,1,,83,8333.0,90513.0
+2048,Architecture and Planning,IA,1,,83,8333.0,90513.0
+2049,Architecture and Planning,DC,1,,83,8333.0,90513.0
+2050,Automation Machinery Manufacturing,CA,7,8750.0,80,5280.0,135083.0
+2051,Automation Machinery Manufacturing,MI,6,4960.0,80,5280.0,135083.0
+2052,Automation Machinery Manufacturing,AL,6,5120.0,80,5280.0,135083.0
+2053,Automation Machinery Manufacturing,TX,5,8750.0,80,5280.0,135083.0
+2054,Automation Machinery Manufacturing,IL,5,6720.0,80,5280.0,135083.0
+2055,Automation Machinery Manufacturing,,5,7083.0,80,5280.0,135083.0
+2056,Automation Machinery Manufacturing,SC,4,7020.0,80,5280.0,135083.0
+2057,Automation Machinery Manufacturing,OH,4,4000.0,80,5280.0,135083.0
+2058,Automation Machinery Manufacturing,MN,3,,80,5280.0,135083.0
+2059,Automation Machinery Manufacturing,KS,3,3680.0,80,5280.0,135083.0
+2060,Automation Machinery Manufacturing,IN,3,7040.0,80,5280.0,135083.0
+2061,Automation Machinery Manufacturing,CT,3,8125.0,80,5280.0,135083.0
+2062,Automation Machinery Manufacturing,WI,2,9920.0,80,5280.0,135083.0
+2063,Automation Machinery Manufacturing,OR,2,,80,5280.0,135083.0
+2064,Automation Machinery Manufacturing,NY,2,4160.0,80,5280.0,135083.0
+2065,Automation Machinery Manufacturing,NC,2,4960.0,80,5280.0,135083.0
+2066,Automation Machinery Manufacturing,MS,2,5280.0,80,5280.0,135083.0
+2067,Automation Machinery Manufacturing,MA,2,,80,5280.0,135083.0
+2068,Automation Machinery Manufacturing,AZ,2,,80,5280.0,135083.0
+2069,Automation Machinery Manufacturing,WA,1,6880.0,80,5280.0,135083.0
+2070,Automation Machinery Manufacturing,VA,1,6750.0,80,5280.0,135083.0
+2071,Automation Machinery Manufacturing,TN,1,4375.0,80,5280.0,135083.0
+2072,Automation Machinery Manufacturing,PA,1,,80,5280.0,135083.0
+2073,Automation Machinery Manufacturing,NE,1,6400.0,80,5280.0,135083.0
+2074,Automation Machinery Manufacturing,MO,1,4320.0,80,5280.0,135083.0
+2075,Automation Machinery Manufacturing,MD,1,3750.0,80,5280.0,135083.0
+2076,Automation Machinery Manufacturing,LA,1,,80,5280.0,135083.0
+2077,Automation Machinery Manufacturing,KY,1,,80,5280.0,135083.0
+2078,Automation Machinery Manufacturing,IA,1,,80,5280.0,135083.0
+2079,Automation Machinery Manufacturing,HI,1,3520.0,80,5280.0,135083.0
+2080,Automation Machinery Manufacturing,FL,1,3520.0,80,5280.0,135083.0
+2081,Investment Management,NY,29,11250.0,79,7500.0,107778.0
+2082,Legal Services,CA,20,9937.0,79,6500.0,123011.0
+2083,Investment Management,,15,7500.0,79,7500.0,107778.0
+2084,Legal Services,,14,7360.0,79,6500.0,123011.0
+2085,Legal Services,NY,7,9166.0,79,6500.0,123011.0
+2086,Investment Management,CA,5,7083.0,79,7500.0,107778.0
+2087,Investment Management,AR,4,5417.0,79,7500.0,107778.0
+2088,Legal Services,WA,4,11041.0,79,6500.0,123011.0
+2089,Legal Services,FL,4,,79,6500.0,123011.0
+2090,Investment Management,TX,3,,79,7500.0,107778.0
+2091,Investment Management,MA,3,,79,7500.0,107778.0
+2092,Investment Management,IL,3,6375.0,79,7500.0,107778.0
+2093,Legal Services,IL,3,6250.0,79,6500.0,123011.0
+2094,Legal Services,DC,3,4791.0,79,6500.0,123011.0
+2095,Investment Management,NJ,2,10833.0,79,7500.0,107778.0
+2096,Investment Management,NC,2,5904.0,79,7500.0,107778.0
+2097,Investment Management,MO,2,8333.0,79,7500.0,107778.0
+2098,Investment Management,MD,2,9791.0,79,7500.0,107778.0
+2099,Legal Services,VA,2,6500.0,79,6500.0,123011.0
+2100,Legal Services,TX,2,4583.0,79,6500.0,123011.0
+2101,Legal Services,OR,2,11435.0,79,6500.0,123011.0
+2102,Legal Services,OK,2,,79,6500.0,123011.0
+2103,Legal Services,OH,2,5000.0,79,6500.0,123011.0
+2104,Legal Services,CT,2,4583.0,79,6500.0,123011.0
+2105,Investment Management,PA,1,7666.0,79,7500.0,107778.0
+2106,Investment Management,NE,1,7666.0,79,7500.0,107778.0
+2107,Investment Management,MN,1,,79,7500.0,107778.0
+2108,Investment Management,KS,1,,79,7500.0,107778.0
+2109,Investment Management,GA,1,,79,7500.0,107778.0
+2110,Investment Management,FL,1,,79,7500.0,107778.0
+2111,Investment Management,CT,1,11250.0,79,7500.0,107778.0
+2112,Investment Management,CO,1,5350.0,79,7500.0,107778.0
+2113,Investment Management,AZ,1,3360.0,79,7500.0,107778.0
+2114,Legal Services,SC,1,,79,6500.0,123011.0
+2115,Legal Services,PA,1,,79,6500.0,123011.0
+2116,Legal Services,NV,1,10416.0,79,6500.0,123011.0
+2117,Legal Services,NJ,1,9583.0,79,6500.0,123011.0
+2118,Legal Services,NE,1,,79,6500.0,123011.0
+2119,Legal Services,MI,1,,79,6500.0,123011.0
+2120,Legal Services,KY,1,12916.0,79,6500.0,123011.0
+2121,Legal Services,KS,1,,79,6500.0,123011.0
+2122,Legal Services,GA,1,,79,6500.0,123011.0
+2123,Legal Services,DE,1,,79,6500.0,123011.0
+2124,Legal Services,AZ,1,6250.0,79,6500.0,123011.0
+2125,Legal Services,AK,1,3200.0,79,6500.0,123011.0
+2126,Renewable Energy Semiconductor Manufacturing,CA,18,10708.0,76,6383.0,75131.0
+2127,Renewable Energy Semiconductor Manufacturing,,14,10000.0,76,6383.0,75131.0
+2128,Renewable Energy Semiconductor Manufacturing,TX,13,6083.0,76,6383.0,75131.0
+2129,Renewable Energy Semiconductor Manufacturing,TN,3,,76,6383.0,75131.0
+2130,Renewable Energy Semiconductor Manufacturing,OH,3,6383.0,76,6383.0,75131.0
+2131,Renewable Energy Semiconductor Manufacturing,MA,3,,76,6383.0,75131.0
+2132,Renewable Energy Semiconductor Manufacturing,FL,3,3333.0,76,6383.0,75131.0
+2133,Renewable Energy Semiconductor Manufacturing,CO,3,6250.0,76,6383.0,75131.0
+2134,Renewable Energy Semiconductor Manufacturing,NY,2,6250.0,76,6383.0,75131.0
+2135,Renewable Energy Semiconductor Manufacturing,NC,2,,76,6383.0,75131.0
+2136,Renewable Energy Semiconductor Manufacturing,AZ,2,,76,6383.0,75131.0
+2137,Renewable Energy Semiconductor Manufacturing,VA,1,,76,6383.0,75131.0
+2138,Renewable Energy Semiconductor Manufacturing,SC,1,,76,6383.0,75131.0
+2139,Renewable Energy Semiconductor Manufacturing,OK,1,,76,6383.0,75131.0
+2140,Renewable Energy Semiconductor Manufacturing,NV,1,,76,6383.0,75131.0
+2141,Renewable Energy Semiconductor Manufacturing,MO,1,,76,6383.0,75131.0
+2142,Renewable Energy Semiconductor Manufacturing,LA,1,,76,6383.0,75131.0
+2143,Renewable Energy Semiconductor Manufacturing,IN,1,8000.0,76,6383.0,75131.0
+2144,Renewable Energy Semiconductor Manufacturing,IA,1,9791.0,76,6383.0,75131.0
+2145,Renewable Energy Semiconductor Manufacturing,DE,1,,76,6383.0,75131.0
+2146,Renewable Energy Semiconductor Manufacturing,DC,1,8333.0,76,6383.0,75131.0
+2147,Computer and Network Security,,14,8000.0,73,8750.0,107403.0
+2148,Computer and Network Security,CA,10,8750.0,73,8750.0,107403.0
+2149,Computer and Network Security,TX,8,,73,8750.0,107403.0
+2150,Computer and Network Security,FL,6,9166.0,73,8750.0,107403.0
+2151,Computer and Network Security,WA,4,11173.0,73,8750.0,107403.0
+2152,Computer and Network Security,NY,4,11666.0,73,8750.0,107403.0
+2153,Computer and Network Security,MD,4,5600.0,73,8750.0,107403.0
+2154,Computer and Network Security,MA,3,12500.0,73,8750.0,107403.0
+2155,Computer and Network Security,GA,3,9600.0,73,8750.0,107403.0
+2156,Computer and Network Security,TN,2,3680.0,73,8750.0,107403.0
+2157,Computer and Network Security,NC,2,,73,8750.0,107403.0
+2158,Computer and Network Security,MI,2,,73,8750.0,107403.0
+2159,Computer and Network Security,IL,2,14400.0,73,8750.0,107403.0
+2160,Computer and Network Security,AZ,2,,73,8750.0,107403.0
+2161,Computer and Network Security,OH,1,4960.0,73,8750.0,107403.0
+2162,Computer and Network Security,NE,1,,73,8750.0,107403.0
+2163,Computer and Network Security,ND,1,7908.0,73,8750.0,107403.0
+2164,Computer and Network Security,MO,1,,73,8750.0,107403.0
+2165,Computer and Network Security,LA,1,,73,8750.0,107403.0
+2166,Computer and Network Security,CT,1,,73,8750.0,107403.0
+2167,Computer and Network Security,CO,1,,73,8750.0,107403.0
+2168,Internet Marketplace Platforms,TX,15,,71,2315.0,9570.0
+2169,Wholesale,FL,11,3040.0,71,3680.0,75513.0
+2170,Wholesale,TX,9,3680.0,71,3680.0,75513.0
+2171,Internet Marketplace Platforms,FL,6,,71,2315.0,9570.0
+2172,Wholesale,WA,6,3680.0,71,3680.0,75513.0
+2173,Wholesale,CA,6,9375.0,71,3680.0,75513.0
+2174,Internet Marketplace Platforms,NY,4,,71,2315.0,9570.0
+2175,Internet Marketplace Platforms,NC,4,,71,2315.0,9570.0
+2176,Internet Marketplace Platforms,MO,4,2400.0,71,2315.0,9570.0
+2177,Internet Marketplace Platforms,AZ,4,,71,2315.0,9570.0
+2178,Wholesale,PA,4,2720.0,71,3680.0,75513.0
+2179,Wholesale,NC,4,3840.0,71,3680.0,75513.0
+2180,Internet Marketplace Platforms,VA,3,,71,2315.0,9570.0
+2181,Internet Marketplace Platforms,SC,3,,71,2315.0,9570.0
+2182,Internet Marketplace Platforms,OH,3,,71,2315.0,9570.0
+2183,Internet Marketplace Platforms,NJ,3,2135.0,71,2315.0,9570.0
+2184,Internet Marketplace Platforms,IL,3,2315.0,71,2315.0,9570.0
+2185,Wholesale,NJ,3,9316.0,71,3680.0,75513.0
+2186,Wholesale,MA,3,2880.0,71,3680.0,75513.0
+2187,Wholesale,IL,3,3680.0,71,3680.0,75513.0
+2188,Wholesale,,3,5416.0,71,3680.0,75513.0
+2189,Internet Marketplace Platforms,MD,2,,71,2315.0,9570.0
+2190,Internet Marketplace Platforms,IA,2,,71,2315.0,9570.0
+2191,Internet Marketplace Platforms,CA,2,2720.0,71,2315.0,9570.0
+2192,Wholesale,OR,2,3200.0,71,3680.0,75513.0
+2193,Wholesale,NY,2,3040.0,71,3680.0,75513.0
+2194,Wholesale,MT,2,2880.0,71,3680.0,75513.0
+2195,Wholesale,KY,2,4166.0,71,3680.0,75513.0
+2196,Internet Marketplace Platforms,WV,1,,71,2315.0,9570.0
+2197,Internet Marketplace Platforms,WA,1,,71,2315.0,9570.0
+2198,Internet Marketplace Platforms,TN,1,,71,2315.0,9570.0
+2199,Internet Marketplace Platforms,NM,1,,71,2315.0,9570.0
+2200,Internet Marketplace Platforms,MN,1,,71,2315.0,9570.0
+2201,Internet Marketplace Platforms,MI,1,,71,2315.0,9570.0
+2202,Internet Marketplace Platforms,ME,1,,71,2315.0,9570.0
+2203,Internet Marketplace Platforms,KY,1,,71,2315.0,9570.0
+2204,Internet Marketplace Platforms,ID,1,,71,2315.0,9570.0
+2205,Internet Marketplace Platforms,GA,1,,71,2315.0,9570.0
+2206,Internet Marketplace Platforms,CT,1,,71,2315.0,9570.0
+2207,Internet Marketplace Platforms,AR,1,,71,2315.0,9570.0
+2208,Internet Marketplace Platforms,AL,1,,71,2315.0,9570.0
+2209,Wholesale,VA,1,,71,3680.0,75513.0
+2210,Wholesale,OH,1,,71,3680.0,75513.0
+2211,Wholesale,NE,1,3040.0,71,3680.0,75513.0
+2212,Wholesale,MO,1,3680.0,71,3680.0,75513.0
+2213,Wholesale,MI,1,,71,3680.0,75513.0
+2214,Wholesale,KS,1,,71,3680.0,75513.0
+2215,Wholesale,ID,1,5000.0,71,3680.0,75513.0
+2216,Wholesale,IA,1,,71,3680.0,75513.0
+2217,Wholesale,GA,1,,71,3680.0,75513.0
+2218,Wholesale,CT,1,,71,3680.0,75513.0
+2219,Wholesale,AL,1,2880.0,71,3680.0,75513.0
+2220,Broadcast Media Production and Distribution,NY,11,10080.0,70,6666.0,78562.0
+2221,Design Services,CA,10,8333.0,70,6041.0,110186.0
+2222,Design Services,NY,9,6875.0,70,6041.0,110186.0
+2223,Design Services,,9,6875.0,70,6041.0,110186.0
+2224,Broadcast Media Production and Distribution,,7,6666.0,70,6666.0,78562.0
+2225,Design Services,FL,6,3541.0,70,6041.0,110186.0
+2226,Broadcast Media Production and Distribution,LA,5,,70,6666.0,78562.0
+2227,Broadcast Media Production and Distribution,GA,5,18708.0,70,6666.0,78562.0
+2228,Broadcast Media Production and Distribution,CA,5,6317.0,70,6666.0,78562.0
+2229,Broadcast Media Production and Distribution,WV,4,,70,6666.0,78562.0
+2230,Broadcast Media Production and Distribution,TN,4,,70,6666.0,78562.0
+2231,Design Services,TX,4,6041.0,70,6041.0,110186.0
+2232,Broadcast Media Production and Distribution,FL,3,,70,6666.0,78562.0
+2233,Broadcast Media Production and Distribution,CT,3,,70,6666.0,78562.0
+2234,Design Services,VA,3,12083.0,70,6041.0,110186.0
+2235,Design Services,NC,3,3040.0,70,6041.0,110186.0
+2236,Design Services,CO,3,6666.0,70,6041.0,110186.0
+2237,Broadcast Media Production and Distribution,TX,2,18708.0,70,6666.0,78562.0
+2238,Broadcast Media Production and Distribution,PA,2,,70,6666.0,78562.0
+2239,Broadcast Media Production and Distribution,MN,2,,70,6666.0,78562.0
+2240,Broadcast Media Production and Distribution,KY,2,,70,6666.0,78562.0
+2241,Broadcast Media Production and Distribution,DC,2,,70,6666.0,78562.0
+2242,Broadcast Media Production and Distribution,CO,2,4375.0,70,6666.0,78562.0
+2243,Design Services,WA,2,4480.0,70,6041.0,110186.0
+2244,Design Services,PA,2,,70,6041.0,110186.0
+2245,Design Services,OR,2,9558.0,70,6041.0,110186.0
+2246,Design Services,OK,2,8750.0,70,6041.0,110186.0
+2247,Design Services,MI,2,,70,6041.0,110186.0
+2248,Design Services,MD,2,11250.0,70,6041.0,110186.0
+2249,Design Services,AL,2,6041.0,70,6041.0,110186.0
+2250,Broadcast Media Production and Distribution,WA,1,5375.0,70,6666.0,78562.0
+2251,Broadcast Media Production and Distribution,VA,1,,70,6666.0,78562.0
+2252,Broadcast Media Production and Distribution,OH,1,,70,6666.0,78562.0
+2253,Broadcast Media Production and Distribution,NC,1,8333.0,70,6666.0,78562.0
+2254,Broadcast Media Production and Distribution,MO,1,,70,6666.0,78562.0
+2255,Broadcast Media Production and Distribution,MI,1,,70,6666.0,78562.0
+2256,Broadcast Media Production and Distribution,MA,1,,70,6666.0,78562.0
+2257,Broadcast Media Production and Distribution,IL,1,,70,6666.0,78562.0
+2258,Broadcast Media Production and Distribution,IA,1,,70,6666.0,78562.0
+2259,Broadcast Media Production and Distribution,AZ,1,,70,6666.0,78562.0
+2260,Broadcast Media Production and Distribution,AL,1,,70,6666.0,78562.0
+2261,Design Services,WI,1,,70,6041.0,110186.0
+2262,Design Services,TN,1,4375.0,70,6041.0,110186.0
+2263,Design Services,OH,1,,70,6041.0,110186.0
+2264,Design Services,NJ,1,,70,6041.0,110186.0
+2265,Design Services,NE,1,,70,6041.0,110186.0
+2266,Design Services,MN,1,4000.0,70,6041.0,110186.0
+2267,Design Services,MA,1,,70,6041.0,110186.0
+2268,Design Services,IL,1,3958.0,70,6041.0,110186.0
+2269,Design Services,CT,1,4320.0,70,6041.0,110186.0
+2270,Packaging and Containers Manufacturing,PA,7,2720.0,65,3040.0,48060.0
+2271,Packaging and Containers Manufacturing,IL,7,5280.0,65,3040.0,48060.0
+2272,Packaging and Containers Manufacturing,OH,6,3040.0,65,3040.0,48060.0
+2273,Packaging and Containers Manufacturing,,6,5833.0,65,3040.0,48060.0
+2274,Packaging and Containers Manufacturing,TX,5,2400.0,65,3040.0,48060.0
+2275,Packaging and Containers Manufacturing,NC,5,,65,3040.0,48060.0
+2276,Packaging and Containers Manufacturing,MI,5,4791.0,65,3040.0,48060.0
+2277,Packaging and Containers Manufacturing,NY,4,10416.0,65,3040.0,48060.0
+2278,Packaging and Containers Manufacturing,IA,3,3040.0,65,3040.0,48060.0
+2279,Packaging and Containers Manufacturing,GA,3,,65,3040.0,48060.0
+2280,Packaging and Containers Manufacturing,SC,2,,65,3040.0,48060.0
+2281,Packaging and Containers Manufacturing,KY,2,3040.0,65,3040.0,48060.0
+2282,Packaging and Containers Manufacturing,CO,2,7500.0,65,3040.0,48060.0
+2283,Packaging and Containers Manufacturing,VA,1,,65,3040.0,48060.0
+2284,Packaging and Containers Manufacturing,OR,1,,65,3040.0,48060.0
+2285,Packaging and Containers Manufacturing,OK,1,,65,3040.0,48060.0
+2286,Packaging and Containers Manufacturing,MO,1,,65,3040.0,48060.0
+2287,Packaging and Containers Manufacturing,MA,1,,65,3040.0,48060.0
+2288,Packaging and Containers Manufacturing,IN,1,,65,3040.0,48060.0
+2289,Packaging and Containers Manufacturing,AR,1,,65,3040.0,48060.0
+2290,Packaging and Containers Manufacturing,AL,1,,65,3040.0,48060.0
+2291,Computers and Electronics Manufacturing,CA,21,13516.0,63,8750.0,55403.0
+2292,Computers and Electronics Manufacturing,TX,13,3541.0,63,8750.0,55403.0
+2293,Computers and Electronics Manufacturing,,8,10570.0,63,8750.0,55403.0
+2294,Computers and Electronics Manufacturing,UT,5,2400.0,63,8750.0,55403.0
+2295,Computers and Electronics Manufacturing,WA,4,8750.0,63,8750.0,55403.0
+2296,Computers and Electronics Manufacturing,PA,2,,63,8750.0,55403.0
+2297,Computers and Electronics Manufacturing,NY,2,4960.0,63,8750.0,55403.0
+2298,Computers and Electronics Manufacturing,MN,2,,63,8750.0,55403.0
+2299,Computers and Electronics Manufacturing,TN,1,,63,8750.0,55403.0
+2300,Computers and Electronics Manufacturing,NV,1,,63,8750.0,55403.0
+2301,Computers and Electronics Manufacturing,NJ,1,,63,8750.0,55403.0
+2302,Computers and Electronics Manufacturing,NC,1,,63,8750.0,55403.0
+2303,Computers and Electronics Manufacturing,MI,1,11666.0,63,8750.0,55403.0
+2304,Computers and Electronics Manufacturing,IL,1,,63,8750.0,55403.0
+2305,E-Learning Providers,,11,3812.0,61,4791.0,183434.0
+2306,E-Learning Providers,CA,5,4791.0,61,4791.0,183434.0
+2307,E-Learning Providers,TX,3,4791.0,61,4791.0,183434.0
+2308,E-Learning Providers,WA,2,4791.0,61,4791.0,183434.0
+2309,E-Learning Providers,VA,2,4791.0,61,4791.0,183434.0
+2310,E-Learning Providers,PA,2,4791.0,61,4791.0,183434.0
+2311,E-Learning Providers,OH,2,4583.0,61,4791.0,183434.0
+2312,E-Learning Providers,NV,2,4791.0,61,4791.0,183434.0
+2313,E-Learning Providers,NJ,2,4791.0,61,4791.0,183434.0
+2314,E-Learning Providers,MI,2,3812.0,61,4791.0,183434.0
+2315,E-Learning Providers,WY,1,4791.0,61,4791.0,183434.0
+2316,E-Learning Providers,WV,1,4791.0,61,4791.0,183434.0
+2317,E-Learning Providers,UT,1,4791.0,61,4791.0,183434.0
+2318,E-Learning Providers,TN,1,4791.0,61,4791.0,183434.0
+2319,E-Learning Providers,SD,1,4791.0,61,4791.0,183434.0
+2320,E-Learning Providers,SC,1,4791.0,61,4791.0,183434.0
+2321,E-Learning Providers,RI,1,4791.0,61,4791.0,183434.0
+2322,E-Learning Providers,OR,1,4791.0,61,4791.0,183434.0
+2323,E-Learning Providers,OK,1,4791.0,61,4791.0,183434.0
+2324,E-Learning Providers,NY,1,4791.0,61,4791.0,183434.0
+2325,E-Learning Providers,NM,1,4791.0,61,4791.0,183434.0
+2326,E-Learning Providers,ND,1,4791.0,61,4791.0,183434.0
+2327,E-Learning Providers,NC,1,4791.0,61,4791.0,183434.0
+2328,E-Learning Providers,MS,1,4791.0,61,4791.0,183434.0
+2329,E-Learning Providers,MO,1,4791.0,61,4791.0,183434.0
+2330,E-Learning Providers,ME,1,4791.0,61,4791.0,183434.0
+2331,E-Learning Providers,KY,1,4791.0,61,4791.0,183434.0
+2332,E-Learning Providers,IN,1,4791.0,61,4791.0,183434.0
+2333,E-Learning Providers,IL,1,4791.0,61,4791.0,183434.0
+2334,E-Learning Providers,ID,1,4791.0,61,4791.0,183434.0
+2335,E-Learning Providers,DE,1,4791.0,61,4791.0,183434.0
+2336,E-Learning Providers,DC,1,8333.0,61,4791.0,183434.0
+2337,E-Learning Providers,CT,1,4791.0,61,4791.0,183434.0
+2338,E-Learning Providers,CO,1,4791.0,61,4791.0,183434.0
+2339,E-Learning Providers,AZ,1,4791.0,61,4791.0,183434.0
+2340,E-Learning Providers,AR,1,4791.0,61,4791.0,183434.0
+2341,E-Learning Providers,AL,1,4791.0,61,4791.0,183434.0
+2342,E-Learning Providers,AK,1,4791.0,61,4791.0,183434.0
+2343,Public Relations and Communications Services,NY,11,9416.0,60,5833.0,63473.0
+2344,Public Relations and Communications Services,TX,5,,60,5833.0,63473.0
+2345,Public Relations and Communications Services,,5,12000.0,60,5833.0,63473.0
+2346,Public Relations and Communications Services,NJ,4,2880.0,60,5833.0,63473.0
+2347,Public Relations and Communications Services,IL,4,13833.0,60,5833.0,63473.0
+2348,Public Relations and Communications Services,CA,4,4583.0,60,5833.0,63473.0
+2349,Public Relations and Communications Services,GA,3,,60,5833.0,63473.0
+2350,Public Relations and Communications Services,DC,3,5833.0,60,5833.0,63473.0
+2351,Public Relations and Communications Services,WI,2,,60,5833.0,63473.0
+2352,Public Relations and Communications Services,WA,2,,60,5833.0,63473.0
+2353,Public Relations and Communications Services,SD,2,,60,5833.0,63473.0
+2354,Public Relations and Communications Services,NV,2,,60,5833.0,63473.0
+2355,Public Relations and Communications Services,FL,2,,60,5833.0,63473.0
+2356,Public Relations and Communications Services,VA,1,,60,5833.0,63473.0
+2357,Public Relations and Communications Services,UT,1,,60,5833.0,63473.0
+2358,Public Relations and Communications Services,OR,1,,60,5833.0,63473.0
+2359,Public Relations and Communications Services,NC,1,,60,5833.0,63473.0
+2360,Public Relations and Communications Services,MO,1,10720.0,60,5833.0,63473.0
+2361,Public Relations and Communications Services,MN,1,,60,5833.0,63473.0
+2362,Public Relations and Communications Services,MI,1,,60,5833.0,63473.0
+2363,Public Relations and Communications Services,DE,1,,60,5833.0,63473.0
+2364,Public Relations and Communications Services,CT,1,,60,5833.0,63473.0
+2365,Public Relations and Communications Services,CO,1,,60,5833.0,63473.0
+2366,Public Relations and Communications Services,AZ,1,4208.0,60,5833.0,63473.0
+2367,Investment Banking,NY,14,9760.0,59,8160.0,125583.0
+2368,Veterinary Services,CA,11,3840.0,59,3840.0,25393.0
+2369,Veterinary Services,NY,6,8333.0,59,3840.0,25393.0
+2370,Investment Banking,,5,1.0,59,8160.0,125583.0
+2371,Veterinary Services,CO,5,3680.0,59,3840.0,25393.0
+2372,Investment Banking,CA,4,7552.0,59,8160.0,125583.0
+2373,Veterinary Services,PA,4,6020.0,59,3840.0,25393.0
+2374,Veterinary Services,IL,4,,59,3840.0,25393.0
+2375,Investment Banking,MN,3,,59,8160.0,125583.0
+2376,Investment Banking,IL,3,15000.0,59,8160.0,125583.0
+2377,Veterinary Services,WI,3,,59,3840.0,25393.0
+2378,Veterinary Services,TX,3,,59,3840.0,25393.0
+2379,Veterinary Services,TN,3,,59,3840.0,25393.0
+2380,Veterinary Services,AZ,3,,59,3840.0,25393.0
+2381,Investment Banking,TX,2,5267.0,59,8160.0,125583.0
+2382,Investment Banking,OH,2,,59,8160.0,125583.0
+2383,Investment Banking,NJ,2,10833.0,59,8160.0,125583.0
+2384,Investment Banking,NC,2,5920.0,59,8160.0,125583.0
+2385,Investment Banking,MO,2,8333.0,59,8160.0,125583.0
+2386,Investment Banking,MD,2,9791.0,59,8160.0,125583.0
+2387,Investment Banking,GA,2,,59,8160.0,125583.0
+2388,Investment Banking,FL,2,,59,8160.0,125583.0
+2389,Investment Banking,CT,2,11250.0,59,8160.0,125583.0
+2390,Investment Banking,AZ,2,2880.0,59,8160.0,125583.0
+2391,Veterinary Services,WA,2,3520.0,59,3840.0,25393.0
+2392,Veterinary Services,SC,2,,59,3840.0,25393.0
+2393,Veterinary Services,OH,2,,59,3840.0,25393.0
+2394,Veterinary Services,GA,2,,59,3840.0,25393.0
+2395,Investment Banking,WA,1,,59,8160.0,125583.0
+2396,Investment Banking,VA,1,,59,8160.0,125583.0
+2397,Investment Banking,OK,1,8160.0,59,8160.0,125583.0
+2398,Investment Banking,NV,1,,59,8160.0,125583.0
+2399,Investment Banking,NH,1,12320.0,59,8160.0,125583.0
+2400,Investment Banking,MA,1,,59,8160.0,125583.0
+2401,Investment Banking,IN,1,,59,8160.0,125583.0
+2402,Investment Banking,DE,1,4000.0,59,8160.0,125583.0
+2403,Investment Banking,DC,1,9166.0,59,8160.0,125583.0
+2404,Investment Banking,CO,1,5350.0,59,8160.0,125583.0
+2405,Veterinary Services,WV,1,,59,3840.0,25393.0
+2406,Veterinary Services,UT,1,,59,3840.0,25393.0
+2407,Veterinary Services,NV,1,,59,3840.0,25393.0
+2408,Veterinary Services,MD,1,,59,3840.0,25393.0
+2409,Veterinary Services,IA,1,,59,3840.0,25393.0
+2410,Veterinary Services,AR,1,,59,3840.0,25393.0
+2411,Veterinary Services,AL,1,,59,3840.0,25393.0
+2412,Veterinary Services,AK,1,,59,3840.0,25393.0
+2413,Veterinary Services,,1,,59,3840.0,25393.0
+2414,Mining,UT,6,8750.0,58,7500.0,78147.0
+2415,Sporting Goods Manufacturing,WA,6,3200.0,58,3200.0,26880.0
+2416,Mining,TX,5,4375.0,58,7500.0,78147.0
+2417,Mining,IL,5,,58,7500.0,78147.0
+2418,Mining,CA,5,8000.0,58,7500.0,78147.0
+2419,Mining,,5,9583.0,58,7500.0,78147.0
+2420,Sporting Goods Manufacturing,NC,5,3520.0,58,3200.0,26880.0
+2421,Sporting Goods Manufacturing,NY,4,3520.0,58,3200.0,26880.0
+2422,Sporting Goods Manufacturing,CA,4,3200.0,58,3200.0,26880.0
+2423,Mining,TN,3,7500.0,58,7500.0,78147.0
+2424,Mining,SC,3,,58,7500.0,78147.0
+2425,Mining,AL,3,,58,7500.0,78147.0
+2426,Sporting Goods Manufacturing,WI,3,,58,3200.0,26880.0
+2427,Sporting Goods Manufacturing,SC,3,,58,3200.0,26880.0
+2428,Sporting Goods Manufacturing,PA,3,,58,3200.0,26880.0
+2429,Sporting Goods Manufacturing,IL,3,,58,3200.0,26880.0
+2430,Sporting Goods Manufacturing,,3,,58,3200.0,26880.0
+2431,Mining,WI,2,,58,7500.0,78147.0
+2432,Mining,OH,2,,58,7500.0,78147.0
+2433,Mining,MO,2,6080.0,58,7500.0,78147.0
+2434,Mining,MA,2,4666.0,58,7500.0,78147.0
+2435,Mining,GA,2,3360.0,58,7500.0,78147.0
+2436,Mining,FL,2,,58,7500.0,78147.0
+2437,Mining,AZ,2,,58,7500.0,78147.0
+2438,Mining,AR,2,,58,7500.0,78147.0
+2439,Sporting Goods Manufacturing,TX,2,,58,3200.0,26880.0
+2440,Sporting Goods Manufacturing,OH,2,,58,3200.0,26880.0
+2441,Sporting Goods Manufacturing,NH,2,,58,3200.0,26880.0
+2442,Sporting Goods Manufacturing,MA,2,4000.0,58,3200.0,26880.0
+2443,Sporting Goods Manufacturing,FL,2,,58,3200.0,26880.0
+2444,Mining,WV,1,,58,7500.0,78147.0
+2445,Mining,WA,1,10625.0,58,7500.0,78147.0
+2446,Mining,PA,1,10833.0,58,7500.0,78147.0
+2447,Mining,NM,1,,58,7500.0,78147.0
+2448,Mining,NJ,1,4375.0,58,7500.0,78147.0
+2449,Mining,ME,1,,58,7500.0,78147.0
+2450,Mining,AK,1,,58,7500.0,78147.0
+2451,Sporting Goods Manufacturing,VA,1,,58,3200.0,26880.0
+2452,Sporting Goods Manufacturing,UT,1,3520.0,58,3200.0,26880.0
+2453,Sporting Goods Manufacturing,SD,1,,58,3200.0,26880.0
+2454,Sporting Goods Manufacturing,OR,1,,58,3200.0,26880.0
+2455,Sporting Goods Manufacturing,NV,1,3200.0,58,3200.0,26880.0
+2456,Sporting Goods Manufacturing,NM,1,,58,3200.0,26880.0
+2457,Sporting Goods Manufacturing,NJ,1,,58,3200.0,26880.0
+2458,Sporting Goods Manufacturing,MD,1,,58,3200.0,26880.0
+2459,Sporting Goods Manufacturing,KY,1,,58,3200.0,26880.0
+2460,Sporting Goods Manufacturing,IN,1,,58,3200.0,26880.0
+2461,Sporting Goods Manufacturing,GA,1,,58,3200.0,26880.0
+2462,Sporting Goods Manufacturing,DC,1,,58,3200.0,26880.0
+2463,Sporting Goods Manufacturing,CO,1,2720.0,58,3200.0,26880.0
+2464,Sporting Goods Manufacturing,AR,1,,58,3200.0,26880.0
+2465,Personal Care Product Manufacturing,NY,10,7916.0,56,2720.0,46686.0
+2466,Personal Care Product Manufacturing,IL,10,2400.0,56,2720.0,46686.0
+2467,Personal Care Product Manufacturing,CA,7,3520.0,56,2720.0,46686.0
+2468,Personal Care Product Manufacturing,NJ,5,4320.0,56,2720.0,46686.0
+2469,Personal Care Product Manufacturing,UT,3,2400.0,56,2720.0,46686.0
+2470,Personal Care Product Manufacturing,,3,5625.0,56,2720.0,46686.0
+2471,Personal Care Product Manufacturing,MN,2,2400.0,56,2720.0,46686.0
+2472,Personal Care Product Manufacturing,MI,2,2400.0,56,2720.0,46686.0
+2473,Personal Care Product Manufacturing,FL,2,5625.0,56,2720.0,46686.0
+2474,Personal Care Product Manufacturing,CO,2,2720.0,56,2720.0,46686.0
+2475,Personal Care Product Manufacturing,WI,1,,56,2720.0,46686.0
+2476,Personal Care Product Manufacturing,WA,1,4960.0,56,2720.0,46686.0
+2477,Personal Care Product Manufacturing,TX,1,,56,2720.0,46686.0
+2478,Personal Care Product Manufacturing,SD,1,,56,2720.0,46686.0
+2479,Personal Care Product Manufacturing,SC,1,,56,2720.0,46686.0
+2480,Personal Care Product Manufacturing,PA,1,,56,2720.0,46686.0
+2481,Personal Care Product Manufacturing,OH,1,,56,2720.0,46686.0
+2482,Personal Care Product Manufacturing,NV,1,2400.0,56,2720.0,46686.0
+2483,Personal Care Product Manufacturing,NC,1,,56,2720.0,46686.0
+2484,Personal Care Product Manufacturing,MO,1,,56,2720.0,46686.0
+2485,Travel Arrangements,,12,3520.0,54,5416.0,50379.0
+2486,Travel Arrangements,FL,9,5833.0,54,5416.0,50379.0
+2487,Travel Arrangements,CA,7,4160.0,54,5416.0,50379.0
+2488,Travel Arrangements,NJ,3,6250.0,54,5416.0,50379.0
+2489,Travel Arrangements,WY,2,,54,5416.0,50379.0
+2490,Travel Arrangements,TN,2,,54,5416.0,50379.0
+2491,Travel Arrangements,NV,2,,54,5416.0,50379.0
+2492,Travel Arrangements,MA,2,5416.0,54,5416.0,50379.0
+2493,Travel Arrangements,IL,2,,54,5416.0,50379.0
+2494,Travel Arrangements,HI,2,2560.0,54,5416.0,50379.0
+2495,Travel Arrangements,WI,1,,54,5416.0,50379.0
+2496,Travel Arrangements,WA,1,8640.0,54,5416.0,50379.0
+2497,Travel Arrangements,VA,1,,54,5416.0,50379.0
+2498,Travel Arrangements,TX,1,,54,5416.0,50379.0
+2499,Travel Arrangements,PA,1,,54,5416.0,50379.0
+2500,Travel Arrangements,OK,1,,54,5416.0,50379.0
+2501,Travel Arrangements,NY,1,10000.0,54,5416.0,50379.0
+2502,Travel Arrangements,NC,1,,54,5416.0,50379.0
+2503,Travel Arrangements,MD,1,,54,5416.0,50379.0
+2504,Travel Arrangements,CO,1,4000.0,54,5416.0,50379.0
+2505,Travel Arrangements,AZ,1,,54,5416.0,50379.0
+2506,Security and Investigations,CA,11,7708.0,49,4320.0,78869.0
+2507,Security and Investigations,NY,5,4960.0,49,4320.0,78869.0
+2508,Security and Investigations,,4,8320.0,49,4320.0,78869.0
+2509,Security and Investigations,WA,3,5456.0,49,4320.0,78869.0
+2510,Security and Investigations,NC,3,7840.0,49,4320.0,78869.0
+2511,Security and Investigations,FL,3,2560.0,49,4320.0,78869.0
+2512,Security and Investigations,TX,2,,49,4320.0,78869.0
+2513,Security and Investigations,NJ,2,4160.0,49,4320.0,78869.0
+2514,Security and Investigations,MA,2,2560.0,49,4320.0,78869.0
+2515,Security and Investigations,IN,2,3520.0,49,4320.0,78869.0
+2516,Security and Investigations,VT,1,,49,4320.0,78869.0
+2517,Security and Investigations,VA,1,,49,4320.0,78869.0
+2518,Security and Investigations,SC,1,,49,4320.0,78869.0
+2519,Security and Investigations,PA,1,,49,4320.0,78869.0
+2520,Security and Investigations,OH,1,,49,4320.0,78869.0
+2521,Security and Investigations,MN,1,4320.0,49,4320.0,78869.0
+2522,Security and Investigations,MD,1,15625.0,49,4320.0,78869.0
+2523,Security and Investigations,LA,1,,49,4320.0,78869.0
+2524,Security and Investigations,KY,1,,49,4320.0,78869.0
+2525,Security and Investigations,GA,1,4000.0,49,4320.0,78869.0
+2526,Security and Investigations,DE,1,5120.0,49,4320.0,78869.0
+2527,Security and Investigations,AZ,1,2720.0,49,4320.0,78869.0
+2528,Airlines and Aviation,CA,10,10625.0,48,8160.0,106900.0
+2529,Airlines and Aviation,,6,10240.0,48,8160.0,106900.0
+2530,Airlines and Aviation,FL,4,6666.0,48,8160.0,106900.0
+2531,Airlines and Aviation,NY,3,6916.0,48,8160.0,106900.0
+2532,Airlines and Aviation,PA,2,8750.0,48,8160.0,106900.0
+2533,Airlines and Aviation,OK,2,3.0,48,8160.0,106900.0
+2534,Airlines and Aviation,NJ,2,6250.0,48,8160.0,106900.0
+2535,Airlines and Aviation,MO,2,8160.0,48,8160.0,106900.0
+2536,Airlines and Aviation,IL,2,8320.0,48,8160.0,106900.0
+2537,Airlines and Aviation,IA,2,6250.0,48,8160.0,106900.0
+2538,Airlines and Aviation,WV,1,,48,8160.0,106900.0
+2539,Airlines and Aviation,WA,1,,48,8160.0,106900.0
+2540,Airlines and Aviation,VA,1,,48,8160.0,106900.0
+2541,Airlines and Aviation,TX,1,10400.0,48,8160.0,106900.0
+2542,Airlines and Aviation,TN,1,,48,8160.0,106900.0
+2543,Airlines and Aviation,OR,1,,48,8160.0,106900.0
+2544,Airlines and Aviation,OH,1,,48,8160.0,106900.0
+2545,Airlines and Aviation,NV,1,,48,8160.0,106900.0
+2546,Airlines and Aviation,IN,1,,48,8160.0,106900.0
+2547,Airlines and Aviation,HI,1,,48,8160.0,106900.0
+2548,Airlines and Aviation,GA,1,9920.0,48,8160.0,106900.0
+2549,Airlines and Aviation,CO,1,6080.0,48,8160.0,106900.0
+2550,Airlines and Aviation,AZ,1,8320.0,48,8160.0,106900.0
+2551,Venture Capital and Private Equity Principals,NY,20,12500.0,47,10000.0,61944.0
+2552,Media Production,NY,18,7500.0,47,5083.0,38131.0
+2553,Freight and Package Transportation,CA,9,3040.0,47,2560.0,58127.0
+2554,Media Production,CA,9,5083.0,47,5083.0,38131.0
+2555,Venture Capital and Private Equity Principals,CA,9,10625.0,47,10000.0,61944.0
+2556,Venture Capital and Private Equity Principals,,8,10000.0,47,10000.0,61944.0
+2557,Freight and Package Transportation,,5,12291.0,47,2560.0,58127.0
+2558,Freight and Package Transportation,PA,4,3916.0,47,2560.0,58127.0
+2559,Freight and Package Transportation,NC,4,2560.0,47,2560.0,58127.0
+2560,Freight and Package Transportation,FL,4,2400.0,47,2560.0,58127.0
+2561,Media Production,,4,8320.0,47,5083.0,38131.0
+2562,Freight and Package Transportation,VA,3,2400.0,47,2560.0,58127.0
+2563,Freight and Package Transportation,MD,3,2400.0,47,2560.0,58127.0
+2564,Media Production,CT,3,,47,5083.0,38131.0
+2565,Venture Capital and Private Equity Principals,TX,3,13333.0,47,10000.0,61944.0
+2566,Freight and Package Transportation,TX,2,2560.0,47,2560.0,58127.0
+2567,Freight and Package Transportation,OH,2,2880.0,47,2560.0,58127.0
+2568,Freight and Package Transportation,GA,2,2400.0,47,2560.0,58127.0
+2569,Media Production,MN,2,,47,5083.0,38131.0
+2570,Media Production,MA,2,,47,5083.0,38131.0
+2571,Media Production,FL,2,,47,5083.0,38131.0
+2572,Media Production,DC,2,8270.0,47,5083.0,38131.0
+2573,Venture Capital and Private Equity Principals,IL,2,,47,10000.0,61944.0
+2574,Venture Capital and Private Equity Principals,CO,2,4791.0,47,10000.0,61944.0
+2575,Freight and Package Transportation,WY,1,2400.0,47,2560.0,58127.0
+2576,Freight and Package Transportation,UT,1,2400.0,47,2560.0,58127.0
+2577,Freight and Package Transportation,TN,1,2400.0,47,2560.0,58127.0
+2578,Freight and Package Transportation,SC,1,2720.0,47,2560.0,58127.0
+2579,Freight and Package Transportation,NY,1,2720.0,47,2560.0,58127.0
+2580,Freight and Package Transportation,NJ,1,2880.0,47,2560.0,58127.0
+2581,Freight and Package Transportation,MT,1,3200.0,47,2560.0,58127.0
+2582,Freight and Package Transportation,MI,1,2560.0,47,2560.0,58127.0
+2583,Freight and Package Transportation,AZ,1,,47,2560.0,58127.0
+2584,Media Production,PA,1,4583.0,47,5083.0,38131.0
+2585,Media Production,IA,1,,47,5083.0,38131.0
+2586,Media Production,GA,1,,47,5083.0,38131.0
+2587,Media Production,CO,1,4375.0,47,5083.0,38131.0
+2588,Media Production,AZ,1,,47,5083.0,38131.0
+2589,Venture Capital and Private Equity Principals,SC,1,4320.0,47,10000.0,61944.0
+2590,Venture Capital and Private Equity Principals,IA,1,,47,10000.0,61944.0
+2591,Venture Capital and Private Equity Principals,FL,1,6375.0,47,10000.0,61944.0
+2592,Facilities Services,TX,7,11545.0,46,5416.0,61046.0
+2593,Facilities Services,CA,7,4000.0,46,5416.0,61046.0
+2594,Facilities Services,NY,3,7500.0,46,5416.0,61046.0
+2595,Facilities Services,IN,3,1920.0,46,5416.0,61046.0
+2596,Facilities Services,,3,5416.0,46,5416.0,61046.0
+2597,Facilities Services,VA,2,,46,5416.0,61046.0
+2598,Facilities Services,PA,2,,46,5416.0,61046.0
+2599,Facilities Services,OH,2,5120.0,46,5416.0,61046.0
+2600,Facilities Services,NC,2,,46,5416.0,61046.0
+2601,Facilities Services,IL,2,,46,5416.0,61046.0
+2602,Facilities Services,FL,2,,46,5416.0,61046.0
+2603,Facilities Services,CT,2,7250.0,46,5416.0,61046.0
+2604,Facilities Services,AZ,2,5416.0,46,5416.0,61046.0
+2605,Facilities Services,NH,1,,46,5416.0,61046.0
+2606,Facilities Services,ND,1,5416.0,46,5416.0,61046.0
+2607,Facilities Services,ME,1,,46,5416.0,61046.0
+2608,Facilities Services,MA,1,,46,5416.0,61046.0
+2609,Facilities Services,GA,1,2880.0,46,5416.0,61046.0
+2610,Facilities Services,DC,1,4583.0,46,5416.0,61046.0
+2611,Facilities Services,AK,1,,46,5416.0,61046.0
+2612,Retail Groceries,NC,16,2400.0,44,2400.0,44392.0
+2613,Wireless Services,NJ,13,5915.0,44,7708.0,45500.0
+2614,Retail Groceries,NY,10,,44,2400.0,44392.0
+2615,Wireless Services,NY,9,5915.0,44,7708.0,45500.0
+2616,Wireless Services,CA,7,8606.0,44,7708.0,45500.0
+2617,Retail Groceries,TX,5,2080.0,44,2400.0,44392.0
+2618,Retail Groceries,SC,4,8666.0,44,2400.0,44392.0
+2619,Wireless Services,TX,4,8750.0,44,7708.0,45500.0
+2620,Wireless Services,MA,3,7708.0,44,7708.0,45500.0
+2621,Wireless Services,,3,8606.0,44,7708.0,45500.0
+2622,Retail Groceries,FL,2,8753.0,44,2400.0,44392.0
+2623,Retail Groceries,TN,1,2080.0,44,2400.0,44392.0
+2624,Retail Groceries,PA,1,,44,2400.0,44392.0
+2625,Retail Groceries,OK,1,2080.0,44,2400.0,44392.0
+2626,Retail Groceries,NM,1,,44,2400.0,44392.0
+2627,Retail Groceries,MA,1,2080.0,44,2400.0,44392.0
+2628,Retail Groceries,CA,1,5853.0,44,2400.0,44392.0
+2629,Retail Groceries,,1,10400.0,44,2400.0,44392.0
+2630,Wireless Services,SC,1,,44,7708.0,45500.0
+2631,Wireless Services,MD,1,,44,7708.0,45500.0
+2632,Wireless Services,IL,1,,44,7708.0,45500.0
+2633,Wireless Services,FL,1,,44,7708.0,45500.0
+2634,Wireless Services,CT,1,,44,7708.0,45500.0
+2635,Retail Luxury Goods and Jewelry,NY,18,6083.0,43,6083.0,28752.0
+2636,Primary and Secondary Education,CA,7,5920.0,43,5562.0,80717.0
+2637,Retail Luxury Goods and Jewelry,CA,6,3520.0,43,6083.0,28752.0
+2638,Primary and Secondary Education,VA,5,,43,5562.0,80717.0
+2639,Primary and Secondary Education,NJ,4,,43,5562.0,80717.0
+2640,Primary and Secondary Education,NY,3,3958.0,43,5562.0,80717.0
+2641,Primary and Secondary Education,MO,3,,43,5562.0,80717.0
+2642,Primary and Secondary Education,IL,3,5000.0,43,5562.0,80717.0
+2643,Primary and Secondary Education,,3,5562.0,43,5562.0,80717.0
+2644,Retail Luxury Goods and Jewelry,OR,3,,43,6083.0,28752.0
+2645,Primary and Secondary Education,MD,2,3040.0,43,5562.0,80717.0
+2646,Primary and Secondary Education,GA,2,,43,5562.0,80717.0
+2647,Retail Luxury Goods and Jewelry,NV,2,,43,6083.0,28752.0
+2648,Retail Luxury Goods and Jewelry,NJ,2,,43,6083.0,28752.0
+2649,Retail Luxury Goods and Jewelry,MA,2,5833.0,43,6083.0,28752.0
+2650,Retail Luxury Goods and Jewelry,HI,2,6916.0,43,6083.0,28752.0
+2651,Retail Luxury Goods and Jewelry,FL,2,,43,6083.0,28752.0
+2652,Primary and Secondary Education,VT,1,5833.0,43,5562.0,80717.0
+2653,Primary and Secondary Education,TX,1,6400.0,43,5562.0,80717.0
+2654,Primary and Secondary Education,OR,1,7125.0,43,5562.0,80717.0
+2655,Primary and Secondary Education,OH,1,5120.0,43,5562.0,80717.0
+2656,Primary and Secondary Education,NM,1,5135.0,43,5562.0,80717.0
+2657,Primary and Secondary Education,ME,1,,43,5562.0,80717.0
+2658,Primary and Secondary Education,IN,1,4583.0,43,5562.0,80717.0
+2659,Primary and Secondary Education,FL,1,12000.0,43,5562.0,80717.0
+2660,Primary and Secondary Education,CT,1,,43,5562.0,80717.0
+2661,Primary and Secondary Education,CO,1,11041.0,43,5562.0,80717.0
+2662,Primary and Secondary Education,AL,1,,43,5562.0,80717.0
+2663,Retail Luxury Goods and Jewelry,TX,1,,43,6083.0,28752.0
+2664,Retail Luxury Goods and Jewelry,PA,1,,43,6083.0,28752.0
+2665,Retail Luxury Goods and Jewelry,OH,1,6400.0,43,6083.0,28752.0
+2666,Retail Luxury Goods and Jewelry,LA,1,,43,6083.0,28752.0
+2667,Retail Luxury Goods and Jewelry,IL,1,,43,6083.0,28752.0
+2668,Retail Luxury Goods and Jewelry,AZ,1,,43,6083.0,28752.0
+2669,Computer Networking Products,TX,8,16691.0,40,14108.0,211164.0
+2670,Computer Networking Products,CA,8,14108.0,40,14108.0,211164.0
+2671,Computer Networking Products,,5,18079.0,40,14108.0,211164.0
+2672,Spectator Sports,VA,4,,40,10833.0,74353.0
+2673,Spectator Sports,TX,4,12000.0,40,10833.0,74353.0
+2674,Spectator Sports,NY,3,10833.0,40,10833.0,74353.0
+2675,Spectator Sports,CA,3,3520.0,40,10833.0,74353.0
+2676,Spectator Sports,,3,,40,10833.0,74353.0
+2677,Computer Networking Products,WA,2,3840.0,40,14108.0,211164.0
+2678,Computer Networking Products,NY,2,25308.0,40,14108.0,211164.0
+2679,Computer Networking Products,MA,2,12500.0,40,14108.0,211164.0
+2680,Computer Networking Products,FL,2,9583.0,40,14108.0,211164.0
+2681,Computer Networking Products,CT,2,25308.0,40,14108.0,211164.0
+2682,Computer Networking Products,CO,2,18170.0,40,14108.0,211164.0
+2683,Spectator Sports,PA,2,3680.0,40,10833.0,74353.0
+2684,Spectator Sports,OR,2,3840.0,40,10833.0,74353.0
+2685,Spectator Sports,NC,2,,40,10833.0,74353.0
+2686,Spectator Sports,KY,2,,40,10833.0,74353.0
+2687,Spectator Sports,IN,2,,40,10833.0,74353.0
+2688,Spectator Sports,IL,2,,40,10833.0,74353.0
+2689,Spectator Sports,FL,2,12000.0,40,10833.0,74353.0
+2690,Computer Networking Products,WI,1,16691.0,40,14108.0,211164.0
+2691,Computer Networking Products,NC,1,11391.0,40,14108.0,211164.0
+2692,Computer Networking Products,MI,1,6041.0,40,14108.0,211164.0
+2693,Computer Networking Products,MD,1,,40,14108.0,211164.0
+2694,Computer Networking Products,KS,1,,40,14108.0,211164.0
+2695,Computer Networking Products,IN,1,10800.0,40,14108.0,211164.0
+2696,Computer Networking Products,IA,1,22654.0,40,14108.0,211164.0
+2697,Spectator Sports,OH,1,,40,10833.0,74353.0
+2698,Spectator Sports,NV,1,13600.0,40,10833.0,74353.0
+2699,Spectator Sports,NJ,1,,40,10833.0,74353.0
+2700,Spectator Sports,KS,1,,40,10833.0,74353.0
+2701,Spectator Sports,IA,1,,40,10833.0,74353.0
+2702,Spectator Sports,CT,1,11200.0,40,10833.0,74353.0
+2703,Spectator Sports,AZ,1,3680.0,40,10833.0,74353.0
+2704,Spectator Sports,AR,1,,40,10833.0,74353.0
+2705,Spectator Sports,AL,1,,40,10833.0,74353.0
+2706,International Trade and Development,TX,4,,37,7583.0,72027.0
+2707,International Trade and Development,DC,4,,37,7583.0,72027.0
+2708,International Trade and Development,NY,3,,37,7583.0,72027.0
+2709,International Trade and Development,NJ,3,12083.0,37,7583.0,72027.0
+2710,International Trade and Development,WA,2,,37,7583.0,72027.0
+2711,International Trade and Development,SD,2,,37,7583.0,72027.0
+2712,International Trade and Development,NC,2,7583.0,37,7583.0,72027.0
+2713,International Trade and Development,LA,2,,37,7583.0,72027.0
+2714,International Trade and Development,IL,2,6375.0,37,7583.0,72027.0
+2715,International Trade and Development,FL,2,,37,7583.0,72027.0
+2716,International Trade and Development,,2,41666.0,37,7583.0,72027.0
+2717,International Trade and Development,WI,1,,37,7583.0,72027.0
+2718,International Trade and Development,VA,1,,37,7583.0,72027.0
+2719,International Trade and Development,UT,1,,37,7583.0,72027.0
+2720,International Trade and Development,SC,1,4320.0,37,7583.0,72027.0
+2721,International Trade and Development,NV,1,,37,7583.0,72027.0
+2722,International Trade and Development,MO,1,,37,7583.0,72027.0
+2723,International Trade and Development,MN,1,,37,7583.0,72027.0
+2724,International Trade and Development,MI,1,,37,7583.0,72027.0
+2725,International Trade and Development,GA,1,,37,7583.0,72027.0
+2726,Leasing Non-residential Real Estate,TX,5,2720.0,32,8333.0,82651.0
+2727,Leasing Non-residential Real Estate,NY,5,9053.0,32,8333.0,82651.0
+2728,Leasing Non-residential Real Estate,,3,12500.0,32,8333.0,82651.0
+2729,Leasing Non-residential Real Estate,VA,2,,32,8333.0,82651.0
+2730,Leasing Non-residential Real Estate,SC,2,7500.0,32,8333.0,82651.0
+2731,Leasing Non-residential Real Estate,NJ,2,6250.0,32,8333.0,82651.0
+2732,Leasing Non-residential Real Estate,CA,2,10880.0,32,8333.0,82651.0
+2733,Leasing Non-residential Real Estate,WI,1,,32,8333.0,82651.0
+2734,Leasing Non-residential Real Estate,NC,1,,32,8333.0,82651.0
+2735,Leasing Non-residential Real Estate,MO,1,10833.0,32,8333.0,82651.0
+2736,Leasing Non-residential Real Estate,MD,1,8333.0,32,8333.0,82651.0
+2737,Leasing Non-residential Real Estate,IN,1,,32,8333.0,82651.0
+2738,Leasing Non-residential Real Estate,IL,1,,32,8333.0,82651.0
+2739,Leasing Non-residential Real Estate,HI,1,,32,8333.0,82651.0
+2740,Leasing Non-residential Real Estate,FL,1,5416.0,32,8333.0,82651.0
+2741,Leasing Non-residential Real Estate,DC,1,9166.0,32,8333.0,82651.0
+2742,Leasing Non-residential Real Estate,CT,1,,32,8333.0,82651.0
+2743,Leasing Non-residential Real Estate,AZ,1,,32,8333.0,82651.0
+2744,Government Relations Services,SC,6,7680.0,30,7375.0,75170.0
+2745,Furniture and Home Furnishings Manufacturing,CA,5,3040.0,30,4000.0,35756.0
+2746,Furniture and Home Furnishings Manufacturing,,5,7500.0,30,4000.0,35756.0
+2747,Government Relations Services,,4,4320.0,30,7375.0,75170.0
+2748,Furniture and Home Furnishings Manufacturing,NC,3,3040.0,30,4000.0,35756.0
+2749,Government Relations Services,CA,3,12304.0,30,7375.0,75170.0
+2750,Furniture and Home Furnishings Manufacturing,WA,2,4480.0,30,4000.0,35756.0
+2751,Furniture and Home Furnishings Manufacturing,RI,2,,30,4000.0,35756.0
+2752,Furniture and Home Furnishings Manufacturing,PA,2,,30,4000.0,35756.0
+2753,Furniture and Home Furnishings Manufacturing,IA,2,,30,4000.0,35756.0
+2754,Furniture and Home Furnishings Manufacturing,FL,2,3360.0,30,4000.0,35756.0
+2755,Government Relations Services,VA,2,8320.0,30,7375.0,75170.0
+2756,Government Relations Services,TX,2,4583.0,30,7375.0,75170.0
+2757,Government Relations Services,TN,2,,30,7375.0,75170.0
+2758,Government Relations Services,CO,2,4000.0,30,7375.0,75170.0
+2759,Furniture and Home Furnishings Manufacturing,TX,1,,30,4000.0,35756.0
+2760,Furniture and Home Furnishings Manufacturing,TN,1,,30,4000.0,35756.0
+2761,Furniture and Home Furnishings Manufacturing,OH,1,6016.0,30,4000.0,35756.0
+2762,Furniture and Home Furnishings Manufacturing,MN,1,4000.0,30,4000.0,35756.0
+2763,Furniture and Home Furnishings Manufacturing,MA,1,,30,4000.0,35756.0
+2764,Furniture and Home Furnishings Manufacturing,CT,1,4320.0,30,4000.0,35756.0
+2765,Furniture and Home Furnishings Manufacturing,CO,1,,30,4000.0,35756.0
+2766,Government Relations Services,PA,1,,30,7375.0,75170.0
+2767,Government Relations Services,OR,1,6240.0,30,7375.0,75170.0
+2768,Government Relations Services,ND,1,7375.0,30,7375.0,75170.0
+2769,Government Relations Services,MN,1,8348.0,30,7375.0,75170.0
+2770,Government Relations Services,MD,1,,30,7375.0,75170.0
+2771,Government Relations Services,GA,1,,30,7375.0,75170.0
+2772,Government Relations Services,FL,1,12000.0,30,7375.0,75170.0
+2773,Government Relations Services,DC,1,,30,7375.0,75170.0
+2774,Government Relations Services,AZ,1,,30,7375.0,75170.0
+2775,Civic and Social Organizations,CA,10,5885.0,29,5885.0,59714.0
+2776,Events Services,FL,9,,29,5000.0,49087.0
+2777,Public Safety,CA,9,7396.0,29,7396.0,53343.0
+2778,Civic and Social Organizations,,5,,29,5885.0,59714.0
+2779,Events Services,,5,5000.0,29,5000.0,49087.0
+2780,Events Services,NV,4,4000.0,29,5000.0,49087.0
+2781,Public Safety,IL,4,9166.0,29,7396.0,53343.0
+2782,Events Services,NY,3,3200.0,29,5000.0,49087.0
+2783,Public Safety,NC,3,8958.0,29,7396.0,53343.0
+2784,Public Safety,FL,3,8958.0,29,7396.0,53343.0
+2785,Public Safety,,3,,29,7396.0,53343.0
+2786,Civic and Social Organizations,VA,2,5625.0,29,5885.0,59714.0
+2787,Civic and Social Organizations,TX,2,,29,5885.0,59714.0
+2788,Civic and Social Organizations,MD,2,8750.0,29,5885.0,59714.0
+2789,Events Services,WA,2,,29,5000.0,49087.0
+2790,Events Services,AZ,2,6666.0,29,5000.0,49087.0
+2791,Public Safety,TX,2,1.0,29,7396.0,53343.0
+2792,Civic and Social Organizations,WI,1,8000.0,29,5885.0,59714.0
+2793,Civic and Social Organizations,TN,1,,29,5885.0,59714.0
+2794,Civic and Social Organizations,OR,1,13515.0,29,5885.0,59714.0
+2795,Civic and Social Organizations,NY,1,5440.0,29,5885.0,59714.0
+2796,Civic and Social Organizations,MI,1,,29,5885.0,59714.0
+2797,Civic and Social Organizations,FL,1,6666.0,29,5885.0,59714.0
+2798,Civic and Social Organizations,CT,1,5833.0,29,5885.0,59714.0
+2799,Civic and Social Organizations,CO,1,,29,5885.0,59714.0
+2800,Events Services,TX,1,10208.0,29,5000.0,49087.0
+2801,Events Services,DC,1,8333.0,29,5000.0,49087.0
+2802,Events Services,CO,1,3360.0,29,5000.0,49087.0
+2803,Events Services,CA,1,8320.0,29,5000.0,49087.0
+2804,Public Safety,WV,1,1583.0,29,7396.0,53343.0
+2805,Public Safety,WI,1,5440.0,29,7396.0,53343.0
+2806,Public Safety,WA,1,,29,7396.0,53343.0
+2807,Public Safety,VA,1,7521.0,29,7396.0,53343.0
+2808,Public Safety,SC,1,4320.0,29,7396.0,53343.0
+2809,Plastics Manufacturing,WI,4,4166.0,26,6666.0,49666.0
+2810,Plastics Manufacturing,IL,4,5833.0,26,6666.0,49666.0
+2811,Plastics Manufacturing,OH,3,,26,6666.0,49666.0
+2812,Plastics Manufacturing,TX,2,12083.0,26,6666.0,49666.0
+2813,Plastics Manufacturing,IN,2,,26,6666.0,49666.0
+2814,Plastics Manufacturing,CA,2,6856.0,26,6666.0,49666.0
+2815,Plastics Manufacturing,VA,1,,26,6666.0,49666.0
+2816,Plastics Manufacturing,TN,1,,26,6666.0,49666.0
+2817,Plastics Manufacturing,OR,1,,26,6666.0,49666.0
+2818,Plastics Manufacturing,NY,1,6666.0,26,6666.0,49666.0
+2819,Plastics Manufacturing,NV,1,,26,6666.0,49666.0
+2820,Plastics Manufacturing,MI,1,5833.0,26,6666.0,49666.0
+2821,Plastics Manufacturing,MD,1,8229.0,26,6666.0,49666.0
+2822,Plastics Manufacturing,GA,1,,26,6666.0,49666.0
+2823,Plastics Manufacturing,AZ,1,,26,6666.0,49666.0
+2824,Paper and Forest Product Manufacturing,SC,12,3040.0,24,5120.0,17951.0
+2825,Paper and Forest Product Manufacturing,WI,2,,24,5120.0,17951.0
+2826,Paper and Forest Product Manufacturing,NC,2,,24,5120.0,17951.0
+2827,Paper and Forest Product Manufacturing,GA,2,,24,5120.0,17951.0
+2828,Paper and Forest Product Manufacturing,TX,1,,24,5120.0,17951.0
+2829,Paper and Forest Product Manufacturing,OR,1,,24,5120.0,17951.0
+2830,Paper and Forest Product Manufacturing,OH,1,5120.0,24,5120.0,17951.0
+2831,Paper and Forest Product Manufacturing,LA,1,9791.0,24,5120.0,17951.0
+2832,Paper and Forest Product Manufacturing,IA,1,,24,5120.0,17951.0
+2833,Paper and Forest Product Manufacturing,,1,,24,5120.0,17951.0
+2834,Nanotechnology Research,CA,13,5280.0,21,9104.0,36550.0
+2835,Nanotechnology Research,CT,4,,21,9104.0,36550.0
+2836,Nanotechnology Research,MA,2,9104.0,21,9104.0,36550.0
+2837,Nanotechnology Research,TX,1,11083.0,21,9104.0,36550.0
+2838,Nanotechnology Research,MN,1,11083.0,21,9104.0,36550.0
+2839,Online Audio and Video Media,CA,7,23750.0,20,7520.0,46673.0
+2840,Online Audio and Video Media,NY,5,7083.0,20,7520.0,46673.0
+2841,Retail Office Equipment,TX,4,3200.0,20,7708.0,49852.0
+2842,Retail Office Equipment,GA,4,7708.0,20,7708.0,49852.0
+2843,Retail Office Equipment,,3,4000.0,20,7708.0,49852.0
+2844,Online Audio and Video Media,IL,2,,20,7520.0,46673.0
+2845,Online Audio and Video Media,,2,8320.0,20,7520.0,46673.0
+2846,Retail Office Equipment,PA,2,9166.0,20,7708.0,49852.0
+2847,Retail Office Equipment,OH,2,,20,7708.0,49852.0
+2848,Online Audio and Video Media,WA,1,7520.0,20,7520.0,46673.0
+2849,Online Audio and Video Media,VA,1,,20,7520.0,46673.0
+2850,Online Audio and Video Media,PA,1,,20,7520.0,46673.0
+2851,Online Audio and Video Media,CO,1,,20,7520.0,46673.0
+2852,Retail Office Equipment,WI,1,,20,7708.0,49852.0
+2853,Retail Office Equipment,NJ,1,13958.0,20,7708.0,49852.0
+2854,Retail Office Equipment,IL,1,,20,7708.0,49852.0
+2855,Retail Office Equipment,CO,1,11.0,20,7708.0,49852.0
+2856,Retail Office Equipment,CA,1,11809.0,20,7708.0,49852.0
+2857,Armed Forces,CA,4,9120.0,19,9120.0,22305.0
+2858,Armed Forces,VA,3,,19,9120.0,22305.0
+2859,Armed Forces,NJ,3,,19,9120.0,22305.0
+2860,Armed Forces,,3,,19,9120.0,22305.0
+2861,Armed Forces,WA,1,10625.0,19,9120.0,22305.0
+2862,Armed Forces,TX,1,2560.0,19,9120.0,22305.0
+2863,Armed Forces,RI,1,,19,9120.0,22305.0
+2864,Armed Forces,PA,1,,19,9120.0,22305.0
+2865,Armed Forces,NC,1,,19,9120.0,22305.0
+2866,Armed Forces,MA,1,,19,9120.0,22305.0
+2867,Computer Games,CA,9,10000.0,18,8800.0,32240.0
+2868,Computer Games,,4,8800.0,18,8800.0,32240.0
+2869,Computer Games,NC,3,4640.0,18,8800.0,32240.0
+2870,Computer Games,WA,2,8800.0,18,8800.0,32240.0
+2871,Outsourcing and Offshoring Consulting,,5,2880.0,17,4291.0,40627.0
+2872,Outsourcing and Offshoring Consulting,CA,4,7500.0,17,4291.0,40627.0
+2873,Outsourcing and Offshoring Consulting,TX,2,22916.0,17,4291.0,40627.0
+2874,Outsourcing and Offshoring Consulting,PA,1,,17,4291.0,40627.0
+2875,Outsourcing and Offshoring Consulting,NY,1,,17,4291.0,40627.0
+2876,Outsourcing and Offshoring Consulting,MI,1,3040.0,17,4291.0,40627.0
+2877,Outsourcing and Offshoring Consulting,KS,1,,17,4291.0,40627.0
+2878,Outsourcing and Offshoring Consulting,GA,1,4291.0,17,4291.0,40627.0
+2879,Outsourcing and Offshoring Consulting,AZ,1,,17,4291.0,40627.0
+2880,Farming,IA,5,,16,6720.0,42756.0
+2881,Farming,,3,13120.0,16,6720.0,42756.0
+2882,Farming,TX,2,,16,6720.0,42756.0
+2883,Farming,CA,2,,16,6720.0,42756.0
+2884,Farming,VA,1,6666.0,16,6720.0,42756.0
+2885,Farming,OK,1,,16,6720.0,42756.0
+2886,Farming,MN,1,6720.0,16,6720.0,42756.0
+2887,Farming,FL,1,16250.0,16,6720.0,42756.0
+2888,Professional Training and Coaching,TX,5,12000.0,15,6250.0,38374.0
+2889,Professional Training and Coaching,,5,6250.0,15,6250.0,38374.0
+2890,Market Research,VA,2,,15,3840.0,29650.0
+2891,Market Research,NY,2,5833.0,15,3840.0,29650.0
+2892,Market Research,,2,5000.0,15,3840.0,29650.0
+2893,Market Research,UT,1,,15,3840.0,29650.0
+2894,Market Research,TX,1,3520.0,15,3840.0,29650.0
+2895,Market Research,TN,1,4375.0,15,3840.0,29650.0
+2896,Market Research,PA,1,,15,3840.0,29650.0
+2897,Market Research,OR,1,3840.0,15,3840.0,29650.0
+2898,Market Research,NJ,1,,15,3840.0,29650.0
+2899,Market Research,MO,1,3541.0,15,3840.0,29650.0
+2900,Market Research,KY,1,,15,3840.0,29650.0
+2901,Market Research,KS,1,3541.0,15,3840.0,29650.0
+2902,Professional Training and Coaching,WV,1,1583.0,15,6250.0,38374.0
+2903,Professional Training and Coaching,VA,1,,15,6250.0,38374.0
+2904,Professional Training and Coaching,OH,1,4000.0,15,6250.0,38374.0
+2905,Professional Training and Coaching,NC,1,8000.0,15,6250.0,38374.0
+2906,Professional Training and Coaching,IL,1,6541.0,15,6250.0,38374.0
+2907,"Museums, Historical Sites, and Zoos",NY,5,4937.0,14,4000.0,19546.0
+2908,Capital Markets,IL,4,15833.0,14,15833.0,84165.0
+2909,Capital Markets,NY,3,31250.0,14,15833.0,84165.0
+2910,"Museums, Historical Sites, and Zoos",CA,3,7645.0,14,4000.0,19546.0
+2911,Capital Markets,FL,2,8541.0,14,15833.0,84165.0
+2912,Capital Markets,,2,7708.0,14,15833.0,84165.0
+2913,"Museums, Historical Sites, and Zoos",VA,2,,14,4000.0,19546.0
+2914,Warehousing and Storage,IL,2,,14,3360.0,10240.0
+2915,Warehousing and Storage,,2,,14,3360.0,10240.0
+2916,Capital Markets,VA,1,,14,15833.0,84165.0
+2917,Capital Markets,NJ,1,20833.0,14,15833.0,84165.0
+2918,Capital Markets,MN,1,,14,15833.0,84165.0
+2919,"Museums, Historical Sites, and Zoos",WA,1,,14,4000.0,19546.0
+2920,"Museums, Historical Sites, and Zoos",OH,1,2964.0,14,4000.0,19546.0
+2921,"Museums, Historical Sites, and Zoos",FL,1,,14,4000.0,19546.0
+2922,"Museums, Historical Sites, and Zoos",,1,4000.0,14,4000.0,19546.0
+2923,Warehousing and Storage,WI,1,,14,3360.0,10240.0
+2924,Warehousing and Storage,WA,1,3360.0,14,3360.0,10240.0
+2925,Warehousing and Storage,TX,1,,14,3360.0,10240.0
+2926,Warehousing and Storage,TN,1,3680.0,14,3360.0,10240.0
+2927,Warehousing and Storage,SC,1,,14,3360.0,10240.0
+2928,Warehousing and Storage,NC,1,,14,3360.0,10240.0
+2929,Warehousing and Storage,MI,1,,14,3360.0,10240.0
+2930,Warehousing and Storage,FL,1,,14,3360.0,10240.0
+2931,Warehousing and Storage,CO,1,,14,3360.0,10240.0
+2932,Warehousing and Storage,CA,1,3200.0,14,3360.0,10240.0
+2933,Beverage Manufacturing,CA,6,6471.0,13,6471.0,19347.0
+2934,Beverage Manufacturing,NY,2,7916.0,13,6471.0,19347.0
+2935,Beverage Manufacturing,FL,2,,13,6471.0,19347.0
+2936,Beverage Manufacturing,MD,1,,13,6471.0,19347.0
+2937,Beverage Manufacturing,MA,1,4960.0,13,6471.0,19347.0
+2938,Beverage Manufacturing,IN,1,,13,6471.0,19347.0
+2939,Printing Services,PA,3,3360.0,12,3360.0,18506.0
+2940,Railroad Equipment Manufacturing,IL,3,,12,8625.0,24128.0
+2941,Printing Services,NV,2,,12,3360.0,18506.0
+2942,Printing Services,CA,2,3200.0,12,3360.0,18506.0
+2943,Railroad Equipment Manufacturing,PA,2,,12,8625.0,24128.0
+2944,Railroad Equipment Manufacturing,,2,5920.0,12,8625.0,24128.0
+2945,Printing Services,UT,1,6666.0,12,3360.0,18506.0
+2946,Printing Services,OH,1,,12,3360.0,18506.0
+2947,Printing Services,MN,1,,12,3360.0,18506.0
+2948,Printing Services,MA,1,5280.0,12,3360.0,18506.0
+2949,Printing Services,IL,1,,12,3360.0,18506.0
+2950,Railroad Equipment Manufacturing,TX,1,,12,8625.0,24128.0
+2951,Railroad Equipment Manufacturing,NC,1,,12,8625.0,24128.0
+2952,Railroad Equipment Manufacturing,MD,1,9583.0,12,8625.0,24128.0
+2953,Railroad Equipment Manufacturing,FL,1,,12,8625.0,24128.0
+2954,Railroad Equipment Manufacturing,DC,1,8625.0,12,8625.0,24128.0
+2955,"Glass, Ceramics and Concrete Manufacturing",GA,3,12083.0,11,9290.0,52632.0
+2956,Maritime Transportation,,3,,11,4640.0,4640.0
+2957,"Glass, Ceramics and Concrete Manufacturing",TN,2,9958.0,11,9290.0,52632.0
+2958,Maritime Transportation,TX,2,4640.0,11,4640.0,4640.0
+2959,Maritime Transportation,MO,2,,11,4640.0,4640.0
+2960,Maritime Transportation,LA,2,,11,4640.0,4640.0
+2961,"Glass, Ceramics and Concrete Manufacturing",OH,1,,11,9290.0,52632.0
+2962,"Glass, Ceramics and Concrete Manufacturing",NY,1,4960.0,11,9290.0,52632.0
+2963,"Glass, Ceramics and Concrete Manufacturing",NC,1,6966.0,11,9290.0,52632.0
+2964,"Glass, Ceramics and Concrete Manufacturing",KY,1,,11,9290.0,52632.0
+2965,"Glass, Ceramics and Concrete Manufacturing",IL,1,9375.0,11,9290.0,52632.0
+2966,"Glass, Ceramics and Concrete Manufacturing",CA,1,9290.0,11,9290.0,52632.0
+2967,Maritime Transportation,VA,1,,11,4640.0,4640.0
+2968,Maritime Transportation,NY,1,,11,4640.0,4640.0
+2969,Fundraising,CA,4,4000.0,10,4000.0,16124.0
+2970,Professional Services,VA,4,10566.0,10,9337.0,19903.0
+2971,Fundraising,MA,2,,10,4000.0,16124.0
+2972,Fundraising,TX,1,,10,4000.0,16124.0
+2973,Fundraising,NY,1,3791.0,10,4000.0,16124.0
+2974,Fundraising,CT,1,,10,4000.0,16124.0
+2975,Fundraising,,1,8333.0,10,4000.0,16124.0
+2976,Professional Services,NC,1,,10,9337.0,19903.0
+2977,Professional Services,MD,1,9337.0,10,9337.0,19903.0
+2978,Professional Services,KS,1,,10,9337.0,19903.0
+2979,Professional Services,IL,1,,10,9337.0,19903.0
+2980,Professional Services,AZ,1,,10,9337.0,19903.0
+2981,Professional Services,,1,,10,9337.0,19903.0
+2982,Retail Health and Personal Care Products,NJ,5,16625.0,9,16625.0,16625.0
+2983,Retail Health and Personal Care Products,,3,,9,16625.0,16625.0
+2984,Executive Offices,SC,2,,9,8306.0,21847.0
+2985,Executive Offices,,2,,9,8306.0,21847.0
+2986,Gambling Facilities and Casinos,OK,2,3680.0,9,7525.0,20080.0
+2987,Gambling Facilities and Casinos,NV,2,8875.0,9,7525.0,20080.0
+2988,Recreational Facilities,MI,2,4583.0,9,4583.0,34681.0
+2989,Executive Offices,WA,1,8306.0,9,8306.0,21847.0
+2990,Executive Offices,NY,1,13541.0,9,8306.0,21847.0
+2991,Executive Offices,MI,1,,9,8306.0,21847.0
+2992,Executive Offices,IL,1,,9,8306.0,21847.0
+2993,Executive Offices,CA,1,,9,8306.0,21847.0
+2994,Gambling Facilities and Casinos,VA,1,,9,7525.0,20080.0
+2995,Gambling Facilities and Casinos,OR,1,,9,7525.0,20080.0
+2996,Gambling Facilities and Casinos,NJ,1,,9,7525.0,20080.0
+2997,Gambling Facilities and Casinos,LA,1,,9,7525.0,20080.0
+2998,Gambling Facilities and Casinos,CA,1,7525.0,9,7525.0,20080.0
+2999,Recreational Facilities,WI,1,,9,4583.0,34681.0
+3000,Recreational Facilities,VA,1,,9,4583.0,34681.0
+3001,Recreational Facilities,TX,1,10208.0,9,4583.0,34681.0
+3002,Recreational Facilities,NY,1,4160.0,9,4583.0,34681.0
+3003,Recreational Facilities,MN,1,,9,4583.0,34681.0
+3004,Recreational Facilities,CO,1,11250.0,9,4583.0,34681.0
+3005,Recreational Facilities,,1,4480.0,9,4583.0,34681.0
+3006,Retail Health and Personal Care Products,PA,1,,9,16625.0,16625.0
+3007,Writing and Editing,,2,5500.0,8,2400.0,7900.0
+3008,Writing and Editing,PA,1,,8,2400.0,7900.0
+3009,Writing and Editing,NJ,1,2400.0,8,2400.0,7900.0
+3010,Writing and Editing,GA,1,,8,2400.0,7900.0
+3011,Writing and Editing,FL,1,,8,2400.0,7900.0
+3012,Writing and Editing,DE,1,,8,2400.0,7900.0
+3013,Writing and Editing,CT,1,,8,2400.0,7900.0
+3014,Animation and Post-production,,4,6880.0,7,6880.0,15150.0
+3015,Education,UT,2,3040.0,7,3040.0,11998.0
+3016,Education,CA,2,8958.0,7,3040.0,11998.0
+3017,Education,AZ,2,,7,3040.0,11998.0
+3018,Engineering Services,VA,2,,7,10250.0,21916.0
+3019,Shipbuilding,AL,2,,7,,
+3020,Animation and Post-production,WI,1,,7,6880.0,15150.0
+3021,Animation and Post-production,PA,1,,7,6880.0,15150.0
+3022,Animation and Post-production,DC,1,8270.0,7,6880.0,15150.0
+3023,Education,NV,1,,7,3040.0,11998.0
+3024,Engineering Services,WI,1,,7,10250.0,21916.0
+3025,Engineering Services,MI,1,,7,10250.0,21916.0
+3026,Engineering Services,FL,1,,7,10250.0,21916.0
+3027,Engineering Services,CO,1,10250.0,7,10250.0,21916.0
+3028,Engineering Services,CA,1,11666.0,7,10250.0,21916.0
+3029,Law Enforcement,WI,1,5440.0,7,9979.0,28718.0
+3030,Law Enforcement,TX,1,,7,9979.0,28718.0
+3031,Law Enforcement,RI,1,9979.0,7,9979.0,28718.0
+3032,Law Enforcement,NC,1,,7,9979.0,28718.0
+3033,Law Enforcement,LA,1,,7,9979.0,28718.0
+3034,Law Enforcement,FL,1,,7,9979.0,28718.0
+3035,Law Enforcement,CA,1,13299.0,7,9979.0,28718.0
+3036,Shipbuilding,WA,1,,7,,
+3037,Shipbuilding,VA,1,,7,,
+3038,Shipbuilding,TN,1,,7,,
+3039,Shipbuilding,LA,1,,7,,
+3040,Shipbuilding,,1,,7,,
+3041,Law Enforcement,,0,,7,9979.0,28718.0
+3042,Public Policy Offices,DC,3,15484.0,6,15484.0,41988.0
+3043,Renewable Energy Equipment Manufacturing,NY,3,9358.0,6,3680.0,13038.0
+3044,Alternative Medicine,,2,,6,6666.0,6666.0
+3045,Public Policy Offices,CA,2,15484.0,6,15484.0,41988.0
+3046,Textile Manufacturing,OH,2,2400.0,6,2400.0,8650.0
+3047,Textile Manufacturing,CA,2,6250.0,6,2400.0,8650.0
+3048,Alternative Medicine,UT,1,,6,6666.0,6666.0
+3049,Alternative Medicine,PA,1,,6,6666.0,6666.0
+3050,Alternative Medicine,NY,1,6666.0,6,6666.0,6666.0
+3051,Alternative Medicine,MA,1,,6,6666.0,6666.0
+3052,Dairy Product Manufacturing,WI,1,6041.0,6,7916.0,39998.0
+3053,Dairy Product Manufacturing,MS,1,16666.0,6,7916.0,39998.0
+3054,Dairy Product Manufacturing,MI,1,,6,7916.0,39998.0
+3055,Dairy Product Manufacturing,IL,1,7916.0,6,7916.0,39998.0
+3056,Dairy Product Manufacturing,ID,1,,6,7916.0,39998.0
+3057,Dairy Product Manufacturing,CA,1,9375.0,6,7916.0,39998.0
+3058,Physicians,WI,1,,6,,
+3059,Physicians,VT,1,,6,,
+3060,Physicians,VA,1,,6,,
+3061,Physicians,TX,1,,6,,
+3062,Physicians,NC,1,,6,,
+3063,Physicians,MI,1,,6,,
+3064,Public Policy Offices,NC,1,11020.0,6,15484.0,41988.0
+3065,Religious Institutions,VA,1,,6,3400.0,7775.0
+3066,Religious Institutions,TX,1,,6,3400.0,7775.0
+3067,Religious Institutions,SC,1,,6,3400.0,7775.0
+3068,Religious Institutions,OR,1,3400.0,6,3400.0,7775.0
+3069,Religious Institutions,OH,1,,6,3400.0,7775.0
+3070,Religious Institutions,CO,1,4375.0,6,3400.0,7775.0
+3071,Renewable Energy Equipment Manufacturing,NJ,1,,6,3680.0,13038.0
+3072,Renewable Energy Equipment Manufacturing,ND,1,3680.0,6,3680.0,13038.0
+3073,Renewable Energy Equipment Manufacturing,,1,,6,3680.0,13038.0
+3074,Textile Manufacturing,SC,1,,6,2400.0,8650.0
+3075,Textile Manufacturing,,1,,6,2400.0,8650.0
+3076,Marketing Services,,2,8541.0,5,6720.0,27696.0
+3077,Musicians,,2,,5,6400.0,19191.0
+3078,Philanthropic Fundraising Services,CA,2,6541.0,5,6541.0,17791.0
+3079,Hospitals,VT,1,,5,,
+3080,Hospitals,VA,1,,5,,
+3081,Hospitals,NC,1,,5,,
+3082,Hospitals,MI,1,,5,,
+3083,Hospitals,IA,1,,5,,
+3084,Marketing Services,NJ,1,4960.0,5,6720.0,27696.0
+3085,Marketing Services,CO,1,7475.0,5,6720.0,27696.0
+3086,Marketing Services,CA,1,6720.0,5,6720.0,27696.0
+3087,Musicians,OH,1,3208.0,5,6400.0,19191.0
+3088,Musicians,NJ,1,9583.0,5,6400.0,19191.0
+3089,Musicians,CA,1,6400.0,5,6400.0,19191.0
+3090,Philanthropic Fundraising Services,NY,1,11250.0,5,6541.0,17791.0
+3091,Philanthropic Fundraising Services,MA,1,,5,6541.0,17791.0
+3092,Philanthropic Fundraising Services,CT,1,,5,6541.0,17791.0
+3093,Retail Art Supplies,TX,1,2080.0,5,2080.0,18320.0
+3094,Retail Art Supplies,TN,1,2080.0,5,2080.0,18320.0
+3095,Retail Art Supplies,OK,1,2080.0,5,2080.0,18320.0
+3096,Retail Art Supplies,MA,1,2080.0,5,2080.0,18320.0
+3097,Retail Art Supplies,CA,1,10000.0,5,2080.0,18320.0
+3098,Translation and Localization,TX,1,,5,4041.0,8521.0
+3099,Translation and Localization,NH,1,,5,4041.0,8521.0
+3100,Translation and Localization,NC,1,,5,4041.0,8521.0
+3101,Translation and Localization,MA,1,4480.0,5,4041.0,8521.0
+3102,Translation and Localization,CT,1,4041.0,5,4041.0,8521.0
+3103,Newspaper Publishing,NY,2,,4,6250.0,6250.0
+3104,Newspaper Publishing,WY,1,,4,6250.0,6250.0
+3105,Newspaper Publishing,,1,6250.0,4,6250.0,6250.0
+3106,Performing Arts,PA,1,,4,6979.0,6979.0
+3107,Performing Arts,NY,1,,4,6979.0,6979.0
+3108,Performing Arts,ID,1,,4,6979.0,6979.0
+3109,Performing Arts,CA,1,6979.0,4,6979.0,6979.0
+3110,Political Organizations,VA,1,3520.0,4,3520.0,12686.0
+3111,Political Organizations,TX,1,,4,3520.0,12686.0
+3112,Political Organizations,AZ,1,9166.0,4,3520.0,12686.0
+3113,Political Organizations,,1,,4,3520.0,12686.0
+3114,Rail Transportation,TN,1,,4,4000.0,14570.0
+3115,Rail Transportation,NY,1,10570.0,4,4000.0,14570.0
+3116,Rail Transportation,IN,1,4000.0,4,4000.0,14570.0
+3117,Rail Transportation,IL,1,,4,4000.0,14570.0
+3118,Administration of Justice,NJ,2,6634.0,3,6634.0,16571.0
+3119,International Affairs,DC,2,,3,8458.0,8458.0
+3120,Internet Publishing,,2,8541.0,3,8541.0,8541.0
+3121,Urban Transit Services,CO,2,4799.0,3,4799.0,4799.0
+3122,Administration of Justice,CA,1,9937.0,3,6634.0,16571.0
+3123,Artists and Writers,TX,1,12000.0,3,12000.0,36166.0
+3124,Artists and Writers,CA,1,11250.0,3,12000.0,36166.0
+3125,Artists and Writers,,1,12916.0,3,12000.0,36166.0
+3126,Graphic Design,VA,1,11520.0,3,7708.0,19228.0
+3127,Graphic Design,NY,1,7708.0,3,7708.0,19228.0
+3128,Graphic Design,,1,,3,7708.0,19228.0
+3129,International Affairs,NY,1,8458.0,3,8458.0,8458.0
+3130,Internet Publishing,TX,1,,3,8541.0,8541.0
+3131,Libraries,VA,1,,3,6970.0,20485.0
+3132,Libraries,OR,1,13515.0,3,6970.0,20485.0
+3133,Libraries,MA,1,6970.0,3,6970.0,20485.0
+3134,Strategic Management Services,NY,1,,3,6875.0,6875.0
+3135,Strategic Management Services,CA,1,6875.0,3,6875.0,6875.0
+3136,Strategic Management Services,,1,,3,6875.0,6875.0
+3137,Urban Transit Services,TX,1,,3,4799.0,4799.0
+3138,Think Tanks,,2,7458.0,2,7458.0,7458.0
+3139,Alternative Dispute Resolution,NC,1,,2,3040.0,3040.0
+3140,Alternative Dispute Resolution,CA,1,3040.0,2,3040.0,3040.0
+3141,Ground Passenger Transportation,WA,1,14250.0,2,11250.0,25500.0
+3142,Ground Passenger Transportation,CA,1,11250.0,2,11250.0,25500.0
+3143,Security Systems Services,OH,1,,2,,
+3144,Security Systems Services,AZ,1,,2,,
+3145,Services for Renewable Energy,NM,1,8541.0,2,6875.0,15416.0
+3146,Services for Renewable Energy,MS,1,6875.0,2,6875.0,15416.0
+3147,Wholesale Import and Export,WA,1,6666.0,2,6666.0,6666.0
+3148,Wholesale Import and Export,TX,1,,2,6666.0,6666.0
+3149,Data Security Software Products,,1,,1,,
+3150,Electric Power Generation,NY,1,13054.0,1,13054.0,13054.0
+3151,Fabricated Metal Products,NC,1,,1,,
+3152,Fisheries,CT,1,2400.0,1,2400.0,2400.0
+3153,HVAC and Refrigeration Equipment Manufacturing,FL,1,2720.0,1,2720.0,2720.0
+3154,Holding Companies,IL,1,,1,,
+3155,Home Health Care Services,IL,1,,1,,
+3156,IT System Custom Software Development,NY,1,8333.0,1,8333.0,8333.0
+3157,Janitorial Services,OH,1,3833.0,1,3833.0,3833.0
+3158,Legislative Offices,NY,1,4375.0,1,4375.0,4375.0
+3159,"Movies, Videos and Sound",CA,1,,1,,
+3160,Photography,IL,1,,1,,
+3161,Renewable Energy Power Generation,CA,1,10083.0,1,10083.0,10083.0
+3162,Residential Building Construction,ID,1,,1,,
+3163,Retail Building Materials and Garden Equipment,ID,1,,1,,
+3164,Specialty Trade Contractors,NC,1,,1,,
+3165,"Technology, Information and Media",MO,1,10416.0,1,10416.0,10416.0
+3166,Tobacco Manufacturing,CA,1,2560.0,1,2560.0,2560.0
+3167,Vehicle Repair and Maintenance,CA,1,3360.0,1,3360.0,3360.0
+3168,Wholesale Drugs and Sundries,,1,,1,,
+3169,"Movies, Videos and Sound",,0,,1,,

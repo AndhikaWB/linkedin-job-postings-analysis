@@ -11,3 +11,6 @@ kaleido==0.1.0.post1
 nbformat>=5.9.2
 # Pandas dependency to scrap from HTML file
 lxml>=4.9.3
+
+# Dashboard
+streamlit>=1.28.2
