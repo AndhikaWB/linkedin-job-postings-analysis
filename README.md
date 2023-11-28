@@ -1,4 +1,4 @@
-# LinkedIn Job Analysis
+# LinkedIn Job Postings Analysis
 LinkedIn job postings analysis (over 15000 data) using Apache Spark, Plotly, and Streamlit. Mainly focused on open job count and monthly salary, can be filtered per state or as the whole country (US). There are also some insights that are focused on companies rather than states/areas.
 
 ## Why the US? Why not Indonesia?
